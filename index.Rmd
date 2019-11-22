@@ -1,6 +1,8 @@
 ---
-title: "ethics slideshows"
+title: "ethics"
 ---
+
+![](001.jpg){width=400px}
 
 1. [Introduction](01-introduction.html)
 2. Logic

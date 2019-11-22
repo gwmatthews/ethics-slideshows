@@ -3,9 +3,9 @@ output_dir: "."
 navbar:
   title: "戒律"
   left:
-    - text: "Home"
+    - text: "home"
       href: index.html
-    - text: "About Me"
+    - text: "about"
       href: about.html
 
 output:
