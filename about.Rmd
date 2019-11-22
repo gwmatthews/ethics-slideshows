@@ -1,0 +1,8 @@
+---
+title: "about"
+author: "George Matthews"
+date: "11/22/2019"
+output: html_document
+---
+
+These are slideshows for my ethics courses.

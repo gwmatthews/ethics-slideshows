@@ -1,0 +1,9 @@
+name: "ethics-slideshows"
+output_dir: "."
+navbar:
+  title: "Ethics Slideshows"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
