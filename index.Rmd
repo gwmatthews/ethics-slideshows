@@ -1,10 +1,7 @@
 ---
-title: "index.Rmd"
-author: "George Matthews"
-date: "11/22/2019"
-output: html_document
+title: "ethics slideshows"
 ---
 
-[1. Introduction](01-introduction.html)
+1. [Introduction](01-introduction.html)
 2. Logic
 3. Fallacies

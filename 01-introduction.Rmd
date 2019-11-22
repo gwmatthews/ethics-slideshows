@@ -1,7 +1,7 @@
 ---
 title: "Philosophical Ethics"
 subtitle: "⚔<br/>an introduction"
-author: "George matthews"
+author: "George Matthews"
 institute: "Pennsylvania College of Technology"
 date: "2019"
 output:

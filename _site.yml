@@ -1,9 +1,14 @@
 name: "ethics-slideshows"
 output_dir: "."
 navbar:
-  title: "Ethics Slideshows"
+  title: "戒律"
   left:
     - text: "Home"
       href: index.html
     - text: "About Me"
       href: about.html
+
+output:
+  html_document:
+    theme: flatly
+    css: style.css
