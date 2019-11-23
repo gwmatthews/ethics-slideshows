@@ -265,7 +265,7 @@ Before anything else we need to know something about toolkit used by philosopher
 
 .right-column[
 
-Next we consider various approaches to spelling out the nature of ethics. This will involve examining the relationship between ethics, culture, religion, self-interest as well as the possibility of basing ethical norms on our capacity to think for ourselves.
+Next we consider various theoertical approaches ethics. Here we examine the nature of and justification for ethical norms.
 
 
 .center[![medium-photo](images/tracks-02.jpg)]
