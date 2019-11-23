@@ -4,4 +4,4 @@ title: "about"
 
 These are slideshows for George Matthews' ethics courses.
 
-![](002.jpg){width=400px}
+![](images/002.jpg){width=400px}

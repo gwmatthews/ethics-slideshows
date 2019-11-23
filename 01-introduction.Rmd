@@ -1,38 +1,260 @@
 ---
-title: "Philosophical Ethics"
-subtitle: "⚔<br/>an introduction"
-author: "George Matthews"
-institute: "Pennsylvania College of Technology"
-date: "2019"
 output:
   xaringan::moon_reader:
+    seal: false
+    css: [default, "my-style.css"]
     lib_dir: libs
     nature:
-      highlightStyle: github
-      highlightLines: true
       countIncrementalSlides: false
 ---
+class: inverse, middle, center
 
-background-image: url(https://upload.wikimedia.org/wikipedia/commons/b/be/Sharingan_triple.svg)
+## *philosophical ethics*
+### *an introduction*
 
-```{r setup, include=FALSE}
-options(htmltools.dir.version = FALSE)
-```
+George Matthews
+Pennsylvania College of Technology
 
-???
 
-Image credit: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sharingan_triple.svg)
+2019 
 
----
-class: center, middle
-
-# xaringan
-
-### /ʃaː.'riŋ.ɡan/
+.center[![](images/by.png)]
 
 ---
-class: inverse, center, middle
+background-color: #ccc
 
-# Get Started
+### the case of the runaway traincar
+
+.dark-gray-box[
+
+- You are standing near a switch next a railroad track when you notice a runaway traincar coming down the tracks in your direction.
+
+- There are five children playing on the track below too far away to hear you.
+
+- There is one worker on the other track where the traincar would go if you threw the switch.
+]
+
+<br><br>
+
+--
+
+- *Would* you throw the switch?
+
+--
+
+- *Should* you throw the switch?
+
+--
+
+- **WHY?**
+
 
 ---
+class: inverse
+
+### descriptive ethics
+
+--
+
+- How do people actually respond to ethical dilemmas?
+
+--
+
+- What psychological and sociological explanations account for our ethical thinking and behavior?
+
+--
+
+- How might ethical thinking and bahavior vary with circumstances, upbringing, culture or education?
+
+--
+
+<br><br>
+
+.light-gray-box[
+
+- Cases like the runaway traincar have been studied extensively by moral psychologists.
+ 
+- **One Result**: most people say they would throw the switch.
+
+]
+
+
+
+---
+class: inverse
+
+### prescriptive ethics
+
+--
+
+- How *should* we respond to ethical dilemmas and problems?
+
+--
+
+- What justifications are there for our moral claims and assumptions?
+
+--
+
+- How can we use critical rationality to establish ethical norms?
+
+--
+
+<br><br>
+
+.light-gray-box[
+- Many of us assume that the consequences of our actions determine their rightness or wrongness.
+ 
+- Is this a correct assumption? Do better consequences *really* make an act morally right?
+]
+
+
+---
+background-color: #ccc
+
+### another runaway traincar
+
+.dark-gray-box[
+
+- You are standing on a bridge over a railroad track railroad when you notice a runaway traincar coming down the tracks in your direction.
+
+- There are five children playing on the track below too far away to hear you.
+
+- There is a rather large person next to you and if you push him in front of the traincar it will stop the traincar but kill him.
+]
+
+
+
+--
+
+
+.light-gray-box[
+- Most people would **not** push the person off the bridge to save the children.
+
+- Why not, given that the consequences are the same in this case and the last?
+]
+
+
+---
+class: inverse
+
+### meta-ethics
+
+--
+
+- How do ethical language and thinking differ frome other ways of speaking or thinking?
+
+--
+
+- Are ethical claims about the facts, are they opinions or are they something else entirely?
+
+--
+
+- Is there any hope for rationally settling conflicts in ethics?
+
+--
+
+<br><br>
+
+.light-gray-box[
+
+- When we claim that it is acceptable to throw the switch, but not to push the person off of the bridge are we making a statement about a fact?
+ 
+- Or are we merely expressing an opinion?
+
+- Or are we doing something else and *what exactly might that be?*
+]
+
+---
+class: inverse
+### elements of philosophical ethics
+
+1. .red[Appeal to reason]
+
+2. Attempt at universality
+
+3. Commitment to impartiality
+
+4. Insistence on overriding character of ethical principles
+
+
+
+<br><br>
+
+Philosophers trust reason as a method of discovering truth and producing genuine conviction.
+
+---
+class: inverse
+### elements of philosophical ethics
+
+1. Appeal to reason
+
+2. .red[Attempt at universality]
+
+3. Commitment to impartiality
+
+4. Insistence on overriding character of ethical principles
+
+
+
+<br><br>
+
+Ethics aspires to find principles that transcend individual cases and apply to all relevantly similar situations.
+
+---
+class: inverse
+### elements of philosophical ethics
+
+1. Appeal to reason
+
+2. Attempt at universality
+
+3. .red[Commitment to impartiality]
+
+4. Insistence on overriding character of ethical principles
+
+
+
+<br><br>
+
+Right and wrong shouldn't depend on who you are.
+
+---
+class: inverse
+### elements of philosophical ethics
+
+1. Appeal to reason
+
+2. Attempt at universality
+
+3. Commitment to impartiality
+
+4. .red[Insistence on overriding character of ethical principles]
+
+
+
+<br><br>
+
+If ethics is about what is fundamentally right and wrong it overrides preference, customs and convenience.
+
+---
+
+class: inverse
+### our plan of attack
+
+*First* we look at logic to see what is invoved in justifying any claims that we might make.
+
+*Second* we consider some commonly held beleifs about why ethics cannot really be based on reasoning.
+
+*Third* we look at how we might rationally reconstruct ethical norms.
+
+*Finally* we consider what this all might mean for real life ethical dilemmas.
+
+---
+class: inverse
+### where it all began
+
+
+.center[<iframe width="560" height="315" src="https://www.youtube.com/embed/_gVyEOefhIQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>]
+
+Socrates was the first philosopher in the Western tradition and the ultimate inspiration for all of this...
+
