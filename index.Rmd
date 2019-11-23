@@ -5,5 +5,5 @@ title: "ethics"
 ![](images/001.jpg){width=400px}
 
 1. [Introduction](01-introduction.html)
-2. Logic
+2. [Logic](02-logic.html)
 3. Fallacies

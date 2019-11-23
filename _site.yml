@@ -4,7 +4,7 @@ navbar:
   title: "戒律"
   left:
     - text: "home"
-      href: index.html
+      href: https://gwmatthews.github.io/
     - text: "about"
       href: about.html
 

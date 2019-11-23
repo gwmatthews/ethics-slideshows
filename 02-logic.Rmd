@@ -1,0 +1,76 @@
+---
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: [default, "my-style.css"]
+    lib_dir: libs
+    nature:
+      countIncrementalSlides: false
+---
+class: inverse, middle, center
+
+### *a little logic*
+
+*validity, soundness and all that*
+
+.center[![medium-image](images/lane-fractal-01.jpg)]
+
+George Matthews, Pennsylvania College of Technology
+
+.credits[![cc](images/cc-w.png) BY-SA, 2019]
+
+---
+background-color: #ccc
+
+### what do I know?
+
+.dark-gray-box[
+
+- You are standing near a switch next a railroad track when you notice a runaway trolley coming down the tracks in your direction.
+
+- There are five children playing on the track below too far away to hear you.
+
+- There is one worker on the other track where the traincar would go if you threw the switch.
+]
+
+<br><br>
+
+
+
+---
+layout: false
+class: double
+background-color: #ccc
+### find out more
+
+
+.dark-gray-box[
+- resource
+
+- video
+
+- Ethics, ed. George Matthews. A free textbook -- coming soon!]
+
+
+---
+class: inverse, bottom, right, credits
+
+**Credits**
+
+*Built with:*
+
+[Rstudio](https://rstudio.com/products/rstudio/) 
+ 
+[xarignan](https://github.com/yihui/xaringan) html presentation framework 
+
+*Images by:*
+
+<a href="https://pixabay.com/users/BarbaraALane-756613/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3232784">Barbara A Lane</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3232784">Pixabay</a>
+
+*Source code:*
+
+[GitHub](https://github.com/gwmatthews/ethics-slideshows) 
+
+
+
+
