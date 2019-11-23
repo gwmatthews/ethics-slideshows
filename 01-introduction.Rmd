@@ -17,7 +17,7 @@ class: inverse, middle, center
 
 George Matthews, Pennsylvania College of Technology
 
-.center[2019, ![cc](images/by.png)]
+.credits[![cc](images/cc-w.png) BY-SA, 2019]
 
 ---
 background-color: #ccc

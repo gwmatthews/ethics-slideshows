@@ -24,7 +24,8 @@
 }
 
 img[alt="cc"] {
-  max-width: 50px;
+  max-width: 25px;
+  vertical-align: middle;
 }
 
 img[alt="medium-photo"] {
