@@ -8,7 +8,7 @@ navbar:
     - text: "about"
       href: about.html
     - text: "GWM"
-      href: "https://gwmatthews.github.io/"
+      href: https://gwmatthews.github.io/
 
 output:
   html_document:
