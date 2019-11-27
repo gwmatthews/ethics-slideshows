@@ -6,6 +6,7 @@ output:
     lib_dir: libs
     nature:
       countIncrementalSlides: false
+      beforeInit: macros.js
 ---
 class: inverse, middle, center
 
@@ -13,24 +14,24 @@ class: inverse, middle, center
 
 *an introduction*
 
-.center[![medium-photo](images/tracks-04.jpg)]
+.inv[.]
+
+![:scale 50%, #222;](img/tracks-04.jpg)
+.inv[.]
 
 George Matthews, Pennsylvania College of Technology
 
-.credits[![cc](images/cc-w.png) BY-SA, 2019]
+*2019*
 
 ---
-background-color: #ccc
+class: converse
 
-### the case of the runaway trolley
+### *the case of the runaway trolley*
 
-.dark-gray-box[
+.example[
 
-- You are standing near a switch next a railroad track when you notice a runaway trolley coming down the tracks in your direction.
+You are standing near a switch next a railroad track when you notice a runaway trolley coming down the tracks in your direction. There are five children playing on the track below too far away to hear you. There is one worker on the other track where the trolley would go if you threw the switch.
 
-- There are five children playing on the track below too far away to hear you.
-
-- There is one worker on the other track where the traincar would go if you threw the switch.
 ]
 
 <br><br>
@@ -47,11 +48,10 @@ background-color: #ccc
 
 - **WHY?**
 
-
 ---
 class: inverse 
 
-### descriptive ethics
+### *descriptive ethics*
 
 --
 
@@ -63,26 +63,24 @@ class: inverse
 
 --
 
-- How might ethical thinking and bahavior vary with circumstances, upbringing, culture or education?
+- How might ethical thinking and behavior vary with circumstances, upbringing, culture or education?
 
 --
 
 <br><br>
 
-.light-gray-box[
+.example[
 
-- Cases like the runaway trolley have been studied extensively by moral psychologists.
+Cases like the runaway trolley have been studied extensively by moral psychologists.
  
-- **One result**: most people say they would throw the switch.
+**One result**: most people say they would throw the switch.
 
 ]
-
-
 
 ---
 class: inverse
 
-### prescriptive ethics
+### *prescriptive ethics*
 
 --
 
@@ -100,25 +98,23 @@ class: inverse
 
 <br><br>
 
-.light-gray-box[
-- Many of us assume that the consequences of our actions determine their rightness or wrongness.
+.example[
+
+Many of us assume that the consequences of our actions determine their rightness or wrongness.
  
-- Is this a correct assumption? Do better consequences *really* make an act morally right?
+Is this a correct assumption? Do better consequences *really* make an act morally right?
+
 ]
 
-
 ---
-background-color: #ccc
+class: converse
 
-### another runaway trolley
+### *another runaway trolley*
 
-.dark-gray-box[
+.example[
 
-- You are standing on a bridge over a railroad track railroad when you notice a runaway trolley coming down the tracks in your direction.
+You are standing on a bridge over a railroad track railroad when you notice a runaway trolley coming down the tracks in your direction. There are five children playing on the track below too far away to hear you. There is a rather large person next to you and if you push him in front of the trolley it will stop the trolley but kill him.
 
-- There are five children playing on the track below too far away to hear you.
-
-- There is a rather large person next to you and if you push him in front of the trolley it will stop the trolley but kill him.
 ]
 
 <br><br>
@@ -131,16 +127,14 @@ background-color: #ccc
 
 - Why not, given that the consequences are the same in this case and the last?
 
-
-
 ---
 class: inverse
 
-### meta-ethics
+### *meta-ethics*
 
 --
 
-- How do ethical language and thinking differ frome other ways of speaking or thinking?
+- How do ethical language and thinking differ from other ways of speaking or thinking?
 
 --
 
@@ -154,31 +148,29 @@ class: inverse
 
 <br><br>
 
-.light-gray-box[
+.example[
 
-- When we claim that it is acceptable to throw the switch, but not to push the person off of the bridge are we making a statement about a fact?
+Are facts and opinions the only kinds of statements we can make?
  
-- Or are we merely expressing an opinion?
+Or can we make other kinds of claims and *what exactly might they be?*
 
-- Or are we doing something else and *what exactly might that be?*
 ]
 
 ---
 layout: true
-class: double
-background-color: #ccc
-### elements of philosophical ethics
+class: double, converse
+
+### *elements of philosophical ethics*
 ---
 
-.dark-gray-box[1. .red[Appeal to reason]
+.example[1. .red[Appeal to reason]
 
 2. Attempt at universality
 
 3. Commitment to impartiality
 
-4. Insistence on overriding character of ethical principles]
-
-
+4. Insistence on overriding character of ethical principles
+]
 
 <br><br>
 
@@ -186,15 +178,14 @@ Philosophers trust reason as a method of discovering truth and producing genuine
 
 ---
 
-.dark-gray-box[1. Appeal to reason
+.example[1. Appeal to reason
 
 2. .red[Attempt at universality]
 
 3. Commitment to impartiality
 
-4. Insistence on overriding character of ethical principles]
-
-
+4. Insistence on overriding character of ethical principles
+]
 
 <br><br>
 
@@ -202,15 +193,14 @@ Ethics aspires to find principles that transcend individual cases and apply to a
 
 ---
 
-.dark-gray-box[1. Appeal to reason
+.example[1. Appeal to reason
 
 2. Attempt at universality
 
 3. .red[Commitment to impartiality]
 
-4. Insistence on overriding character of ethical principles]
-
-
+4. Insistence on overriding character of ethical principles
+]
 
 <br><br>
 
@@ -218,7 +208,7 @@ Right and wrong shouldn't depend on who you are.
 
 ---
 
-.dark-gray-box[1. Appeal to reason
+.example[1. Appeal to reason
 
 2. Attempt at universality
 
@@ -226,8 +216,6 @@ Right and wrong shouldn't depend on who you are.
 
 4. .red[Insistence on overriding character of ethical principles]
 ]
-
-
 
 <br><br>
 
@@ -237,7 +225,7 @@ If ethics is about what is fundamentally right and wrong it overrides preference
 layout: false
 layout: true
 class: inverse, double
-### our plan of attack
+### *our plan of attack*
 
 ---
 .left-column[
@@ -248,11 +236,11 @@ class: inverse, double
 
 .right-column[
 
+![:scale 70%, #222;](img/tracks-01.jpg)]
+
+<br>
+
 Before anything else we need to know something about toolkit used by philosophers -- the critical assessment of arguments and the ways in which we often get things wrong in reasoning.
-
-
-.center[![medium-photo](images/tracks-01.jpg)]
-]
 
 ---
 .left-column[
@@ -265,11 +253,11 @@ Before anything else we need to know something about toolkit used by philosopher
 
 .right-column[
 
-Next we consider various theoertical approaches ethics. Here we examine the nature of and justification for ethical norms.
+![:scale 70%, #222;](img/tracks-02.jpg)]
 
+<br>
 
-.center[![medium-photo](images/tracks-02.jpg)]
-]
+Next we consider various theoretical approaches ethics. Here we examine the nature of and justification for ethical norms.
 
 ---
 .left-column[
@@ -284,31 +272,34 @@ Next we consider various theoertical approaches ethics. Here we examine the natu
 
 .right-column[
 
+![:scale 70%, #222;](img/tracks-03.jpg)]
+
+<br>
+
 Finally we see how all of this plays out in the real world. Here we will examine many particular cases where values are at stake.
-
-
-.center[![medium-photo](images/tracks-03.jpg)]
-]
-
-
 
 ---
 layout: false
-class: double
-background-color: #ccc
+class: converse
 ### find out more
 
 
-.dark-gray-box[
+.example[
+
 - [The Trolley Problem](https://www.theguardian.com/science/head-quarters/2016/dec/12/the-trolley-problem-would-you-kill-one-person-to-save-many-others)
 
 - [Socrates on self-confidence](https://youtu.be/_gVyEOefhIQ) and questioning others about their values. A great video outlining the motivation for doing philosophy in the first place.
 
-- Ethics, ed. George Matthews. A free textbook -- coming soon!]
+- Ethics, ed. George Matthews. A free textbook -- coming soon!
 
+]
 
 ---
-class: inverse, bottom, right, credits
+class: inverse, bottom, center, credits
+
+![:scale 50%, #222;](img/tracks-05.jpg)
+
+.
 
 **Credits**
 
@@ -326,6 +317,7 @@ James Matthews
 
 [GitHub](https://github.com/gwmatthews/ethics-slideshows) 
 
+.
 
 
 

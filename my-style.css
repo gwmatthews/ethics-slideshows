@@ -1,27 +1,4 @@
-.dark-gray-box > ul {
-  padding: 20px 50px;
-  border-radius: 10px;
-  background-color: #333;
-  color: white;
-  box-shadow: 8px 8px 10px #211;
-}
-
-.dark-gray-box > ol {
-  padding: 20px 50px;
-  border-radius: 10px;
-  background-color: #333;
-  color: white;
-  box-shadow: 8px 8px 10px #211;
-}
-
-.light-gray-box > ul {
-  padding: 20px 50px;
-  border-radius: 10px;
-  background-color: #ccc;
-  color: black;
-  box-shadow: 8px 8px 10px #111;
-  text-shadow: none;
-}
+/* text colors */
 
 .red {
   color: rgb(249, 38, 114);
@@ -31,28 +8,72 @@
   color: #555;
 }
 
+.inv {
+  color: #272822;
+}
+
+/* opposite of inverse */
+
+.converse {
+  background-color: #ccc;
+  color: #222;
+}
+
+.converse h1, .converse h2, .converse h3 {
+  color: #555;
+}
+
+/* text boxes */
+
+.converse .example{
+  padding: 10px 50px;
+  border-radius: 10px;
+  background-color: #333;
+  color: white;
+  box-shadow: 8px 8px 10px #211;
+  line-height: 140%;
+}
+
+.inverse .example {
+  padding: 10px 50px;
+  border-radius: 10px;
+  background-color: #ccc;
+  color: black;
+  box-shadow: 8px 8px 10px #111;
+  text-shadow: none;
+}
+
+
+/* creative commons symbol for title page */
+
 img[alt="cc"] {
   max-width: 25px;
   vertical-align: middle;
 }
 
-img[alt="medium-photo"] {
-  max-width: 400px;
-  border: 5px solid white;
+/* images -- can be scaled with macro */
+
+img.photo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
   border-radius: 5px;
   box-shadow: 4px 4px 15px #111;
 }
 
-img[alt="medium-image"] {
-  max-width: 400px;
-  border: 5px solid #222;
-  border-radius: 5px;
-  box-shadow: 4px 4px 15px #111;
-}
+/* .credit-image {
+  position: absolute;
+  left: 5%;
+  top: 20%;
+  }
+*/
 
 .double {
-  line-height: 170%;
+  line-height: 150%;
 }
+
+/* for final slide */
 
 .credits {
   font-size: small;

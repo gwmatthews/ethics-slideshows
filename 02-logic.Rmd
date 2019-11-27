@@ -6,6 +6,7 @@ output:
     lib_dir: libs
     nature:
       countIncrementalSlides: false
+      beforeInit: macros.js
 ---
 class: inverse, middle, center
 
@@ -13,47 +14,57 @@ class: inverse, middle, center
 
 *validity, soundness and all that*
 
-.center[![medium-image](images/lane-fractal-01.jpg)]
+.inv[.]
+
+![:scale 50%, #222;](img/lane-fractal-01.jpg)
+
+.inv[.]
 
 George Matthews, Pennsylvania College of Technology
 
-.credits[![cc](images/cc-w.png) BY-SA, 2019]
+*2019*
 
 ---
-background-color: #ccc
+layout: true
+class: inverse, double
 
-### what do I know?
+### *What do I know?*
 
-.dark-gray-box[
+---
 
-- You are standing near a switch next a railroad track when you notice a runaway trolley coming down the tracks in your direction.
+.left-column[
 
-- There are five children playing on the track below too far away to hear you.
+### .gray[justified]
 
-- There is one worker on the other track where the traincar would go if you threw the switch.
+### .gray[true]
+
+### .gray[belief]
+
 ]
 
-<br><br>
+.right-column[
 
+.example[
 
+How can we know anything at all? This ancient philosophical question has troubled many people.
+
+]
+]
 
 ---
 layout: false
-class: double
-background-color: #ccc
-### find out more
+class:converse
 
-
-.dark-gray-box[
-- resource
-
-- video
-
-- Ethics, ed. George Matthews. A free textbook -- coming soon!]
-
+### logic
 
 ---
-class: inverse, bottom, right, credits
+class: inverse, bottom, center, credits
+
+.credit-image[
+![:scale 60%, #222;](img/lane-fractal-05.jpg)
+]
+
+.
 
 **Credits**
 
@@ -70,6 +81,9 @@ class: inverse, bottom, right, credits
 *Source code:*
 
 [GitHub](https://github.com/gwmatthews/ethics-slideshows) 
+
+.
+
 
 
 
