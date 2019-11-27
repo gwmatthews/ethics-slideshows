@@ -23,6 +23,8 @@ George Matthews, Pennsylvania College of Technology
 
 *2019*
 
+.note[.left[press "h" for help on keyboard controls]]
+
 ---
 class: converse
 
@@ -290,7 +292,9 @@ class: converse
 
 - [Socrates on self-confidence](https://youtu.be/_gVyEOefhIQ) and questioning others about their values. A great video outlining the motivation for doing philosophy in the first place.
 
-- Ethics, ed. George Matthews. A free textbook -- coming soon!
+- [Ethics and Morality]()
+
+- [Introduction to Philosophy: Ethics](https://press.rebus.community/intro-to-phil-ethics/), ed. George Matthews. A free textbook, part of a series edited by Christina Hendricks.
 
 ]
 
