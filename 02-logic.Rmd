@@ -12,7 +12,7 @@ class: inverse, middle, center
 
 ### *a little logic*
 
-*arguments, evidence & proof*
+*arguments, reasoning and proof*
 
 .inv[.]
 
@@ -24,18 +24,22 @@ George Matthews, Pennsylvania College of Technology
 
 *2019*
 
-.note[.left[press "h" for help on keyboard controls]]
+.inv[.]
+
+.note[press "h" for help on keyboard controls]
 ---
 layout: true
-class: inverse, double
+class: inverse
 
-.center[### *What do I know?*]
+### *What do I know?*
+
+.inv[.]
 
 ---
 
 .left-column[
 
-#### Knowledge:
+#### .lightgray[Knowledge is]
 
 #### .darkgray[justified,]
 
@@ -55,7 +59,7 @@ class: inverse, double
 
 .left-column[
 
-#### Knowledge:
+#### .lightgray[Knowledge is]
 
 #### .darkgray[justified,]
 
@@ -77,16 +81,15 @@ class: inverse, double
 
 ---
 
-
 .left-column[
 
-#### Knowledge:
+#### .lightgray[Knowledge is]
 
 #### .darkgray[justified,]
 
 #### .red[true,]
 
-#### .gray[belief.]
+#### .lightgray[belief.]
 
 ]
 
@@ -102,16 +105,15 @@ class: inverse, double
 
 ---
 
-
 .left-column[
 
-#### Knowledge:
+#### .lightgray[Knowledge is]
 
 #### .red[justified,]
 
-#### .gray[true,]
+#### .lightgray[true,]
 
-#### .gray[belief.]
+#### .lightgray[belief.]
 
 ]
 
@@ -119,7 +121,7 @@ class: inverse, double
 
 .example[
 
-- Finally we need justification for anything to really count as knowledge since knowledge is more than just lucky guessing. 
+- Finally we need *justification* for anything to really count as knowledge since knowledge is more than just lucky guessing. 
 
 - How we can justify our claims is one of the concerns of logic.
 
@@ -146,6 +148,8 @@ class:inverse
 
 ]
 
+--
+
 .pull-right[
 
 ![:scale 90%, #222](img/sudoku.jpg)
@@ -167,6 +171,8 @@ class:inverse
 
 ]
 
+--
+
 .pull-right[
 
 ![:scale 90%, #222](img/sea-level.png)
@@ -183,11 +189,13 @@ class:inverse
 
 - Abductive reasoning is reasoning about the *best explanation* for something.
 
-- It (tries to) show why some way of explaining the facts is better than other ways.
+- It (tries to) show why one way of explaining the facts is better than other ways.
 
 - One explanation is typically better than another when it is simpler and has more predictive power.
 
 ]
+
+--
 
 .pull-right[
 
@@ -219,7 +227,7 @@ Thus Socrates is mortal.
 
 --
 
-This simple argument has two premises and a conclusion.
+This simple argument has two **premises** and a **conclusion**.
 
 --
 
@@ -247,7 +255,7 @@ We'd like to know two things about it:
 
 --
 
-.note[*note:* I'll write technical terms in all capitals -- it's not shouting, just a reminder that we are using these words in particular ways. See [glossary](#glossary) for details.]
+.note[*note:* I'll write technical terms in all capitals -- it's not shouting, just a reminder that we are using these words in particular ways. See [glossary](#glossary) for definitions.]
 ---
 
 So is this argument VALID?
@@ -266,11 +274,11 @@ So is this argument VALID?
 
 --
 
-.note[This may seem backwards and upsidedown, so read it again!]
+.note[This may seem backwards and upside down, so read it again!]
 
 ---
 
-So then, if is it VALID we then want to know whether it is SOUND.
+So if it's VALID we then want to know whether it's SOUND.
 
 --
 
@@ -351,25 +359,89 @@ If the premises *were* true would the conclusion *have to be true* as well?
  
 --
 
-.note[The point here is important sometimes the problem with an argument is even if it is VALID, one or more premises are false. There is more than one way for an argument to fail.]
+.note[Even if the premises are FALSE, an argument can still be VALID. With false premises it would still be UNSOUND.]
 
 ---
-layout: true
+layout: false
 class: inverse
 
 ### *proving validity*
 
----
-
 .argument[
 
+Either Fred or Betty killed Mr. Slate at the quarry.
 
+Either Fred or Wilma were home since somebody let Dino in.
+
+But Wilma was working late.
 
 ***
 
+So Betty killed Mr. Slate.
+
 ]
 
+--
+
+Assuming the premises are TRUE, we can prove the conclusion like so:
+
+--
+
+Fred must have been home -- this follows from the second and third premises, since Wilma was out and either Fred or Wilma was home. But then the only way for the first premise to be true is if Betty killed Mr. Slate, which is the conclusion.
+
+--
+
+.note[note: Even those this is a VALID argument it might not be SOUND, since we don't know if the premises are true, but then this is a  *fictional* case.]
+
 ---
+class: inverse
+
+### *counterexamples*
+
+--
+
+.example[
+
+Betty is older than Barney and younger than Fred.
+
+Wilma is younger than Fred.
+
+***
+
+Thus Betty is younger than Wilma.
+
+]
+
+--
+
+.pull-left[
+
+To show that an argument is INVALID it is enough to come up with a single case with TRUE premises and a FALSE conclusion. 
+
+In a VALID argument this would be impossible.
+
+]
+
+--
+
+.pull-right[
+
+.center[a counterexample]
+
+|  person   | age  |
+|:---------:|:----:|
+| Barney    |  35  |
+| Betty     |  40  |
+| Fred      |  45  |
+| Wilma     |  38  |
+
+]
+
+.inv[.]
+
+--
+
+.note[note: With these ages the premises would all be true but the conclusion false. INVALID!]
 
 ---
 layout:false
@@ -380,17 +452,31 @@ name: glossary
 
 - **Argument**: a series of statements in which the premises are intended to logically support the conclusion.
 
-- **Valid**: an argument is valid when it is impossible for the presmises to be true and the conclusion false.
+- **Valid**: an argument is valid when it is impossible for the premises to be true and the conclusion false.
 
 - **Sound**: an argument is sound when it is valid and has true premises.
 
-- **True**: said only of statements, not of arguments, and suprisingly hard to define.
+- **True**: said only of statements, not of arguments, and surprisingly hard to define.
 
 - **False**: the opposite of true and once again said only of individual statements, not arguments.
 
 - **Proof**: a step by step demonstration of the validity of an argument. In a proof we spell out exactly how we can derive the conclusion from nothing but the information contained in the premises.
 
-- **Counterexample**: a possible case in which the presmise of an argument are true and the conclusion is false -- used to show that an argument is invalid.
+- **Counterexample**: a possible case in which the premises of an argument are true and the conclusion is false -- used to show that an argument is invalid.
+
+---
+class: inverse
+
+### find out more
+
+[Critical Thinking Web](https://philosophy.hku.hk/think/): A great site with over 100 free tutorials on many aspects of logic and critical thinking. A nice way to hone your logical thinking skills.
+
+[Deductive and Inductive Arguments](https://www.iep.utm.edu/ded-ind/): An in depth look at the subject at the Internet Encyclopedia of Philosophy.
+
+[Abduction](https://plato.stanford.edu/entries/abduction/#): A close look at the logic of scientific explanation. Gets technical, but the introduction is accessible.
+
+[The Irrationality of Politics](https://youtu.be/4JYL5VUe5NQ): Michael Huemer is a professor of philosophy at the University of Colorado. This TED Talk by him adresses the question of why we are so irrational when it comes to politics.
+
 
 ---
 class: inverse, bottom, center, credits
@@ -416,12 +502,11 @@ class: inverse, bottom, center, credits
 <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=706380">Gerd Altmann</a>
 and <a href="https://pixabay.com/users/Photorama-5047024/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2337525">Photorama</a> @ <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3232784">Pixabay</a>
 
+**For more slideshows visit:**
 
-*Source code:*
+[ethics slideshows home page](./index.html)
 
-[GitHub](https://github.com/gwmatthews/ethics-slideshows) 
-
-.
+[or get the source code](https://github.com/gwmatthews/ethics-slideshows) 
 
 
 

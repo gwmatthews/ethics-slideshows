@@ -2,8 +2,12 @@
 title: "ethics slideshows"
 ---
 
-![](img/001.jpg){width=400px}
+<br>
 
+![](img/001.jpg){class="photo" width=400px}
+
+
+<br><br>
 
 1. [Introduction](01-introduction.html)
 2. [Logic](02-logic.html)

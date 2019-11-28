@@ -4,6 +4,10 @@
   color: rgb(249, 38, 114);
 }
 
+.lightgray {
+  color: #999;
+}
+
 .gray {
   color: #555;
 }
@@ -12,7 +16,9 @@
   color: #333;
 }
 
-
+.inverse {
+  text-shadow: none;
+}
 
 .inv {
   color: #272822;
@@ -46,8 +52,7 @@
   background-color: #ccc;
   color: black;
   box-shadow: 8px 8px 10px #111;
-  text-shadow: none;
-}
+  }
 
 .inverse .argument {
   padding: 10px 20px;
@@ -55,8 +60,7 @@
   background-color: #ccc;
   color: black;
   box-shadow: 8px 8px 10px #111;
-  text-shadow: none;
-  width: 60%;
+  width: 65%;
   margin-bottom: 40px;
   margin-left: auto;
   margin-right: auto;
@@ -70,10 +74,9 @@
   color: white;
   box-shadow: 8px 8px 10px #111;
   text-shadow: none;
-  width: 60%;
+  width: 65%;
   margin-left: auto;
   margin-right: auto;
-  
 }
 
 ul ul, ol ul {
@@ -82,8 +85,8 @@ ul ul, ol ul {
 
 .note {
   font-size: smaller;
-  color: #b5c;
-  line-height: initial;
+  color: #95a;
+  line-height: normal;
 }
 
 /* creative commons symbol for title page */
@@ -118,5 +121,21 @@ img.photo {
 /* for final slide */
 
 .credits {
+  font-size: small;
+}
+
+/* redo tables  */
+
+.remark-slide table {
+  margin: auto;
+  border-top: 1px solid #666;
+  border-bottom: 1px solid #666;
+}
+
+.remark-slide table thead th { border-bottom: 1px solid #ddd; }
+th, td { padding: 5px; }
+.remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) { background: #222 }
+
+.remark-slide-number {
   font-size: small;
 }
