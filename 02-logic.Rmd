@@ -4,6 +4,8 @@ output:
     seal: false
     css: [default, "my-style.css"]
     lib_dir: libs
+    includes:
+       in_header: my-header.html
     nature:
       countIncrementalSlides: false
       beforeInit: macros.js
