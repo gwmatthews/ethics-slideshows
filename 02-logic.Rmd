@@ -487,7 +487,7 @@ class: inverse, bottom, center, credits
 
 .space[.]
 
-**Credits**
+#### Credits
 
 *Built with:*
 

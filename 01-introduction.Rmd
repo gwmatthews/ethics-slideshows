@@ -29,7 +29,7 @@ George Matthews, Pennsylvania College of Technology
 .note[press "h" for help on keyboard controls]
 
 ---
-class: converse
+class: inverse
 
 ### *the case of the runaway trolley*
 
@@ -112,7 +112,7 @@ Is this a correct assumption? Do better consequences *really* make an act morall
 ]
 
 ---
-class: converse
+class: inverse
 
 ### *another runaway trolley*
 
@@ -163,7 +163,7 @@ Or can we make other kinds of claims and *what exactly might they be?*
 
 ---
 layout: true
-class: double, converse
+class: double, inverse
 
 ### *elements of philosophical ethics*
 ---
@@ -285,7 +285,7 @@ Finally we see how all of this plays out in the real world. Here we will examine
 
 ---
 layout: false
-class: converse
+class: inverse
 ### find out more
 
 
@@ -308,7 +308,7 @@ class: inverse, bottom, center, credits
 
 .space[.]
 
-**Credits**
+#### Credits
 
 *Built with:*
 
