@@ -1,0 +1,375 @@
+---
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: [default, "my-style.css"]
+    lib_dir: libs
+    includes:
+       in_header: my-header.html
+    nature:
+      countIncrementalSlides: false
+      beforeInit: macros.js
+      
+---
+class: inverse, middle, center
+
+### *fallacies and biases*
+
+*how NOT to think logically*
+
+![:scale 50%, #222;](img/03/jonaskim-confusion-.jpg)
+
+.space[.]
+
+George Matthews, Pennsylvania College of Technology
+
+*2019*
+
+
+.note[press "h" for help on keyboard controls]
+
+---
+class: inverse, middle
+
+.pull-left[
+
+![:scale 90%, #222](img/03/crescoli-electrical-cable-mess.jpg)
+
+]
+
+.pull-right[
+
+#### How logical are we really?
+
+We are all capable of listening to reason but...
+
+- We get fooled by fallacies.
+
+- Our thinking gets short-circuited by biases.
+
+]
+
+---
+layout: true
+class: inverse
+
+### *types of fallacies*
+
+---
+
+#### .purple[Fallacies of relevance]
+
+--
+
+- Rely on irrelevant information to push the argument along.
+
+---
+
+#### Fallacies of relevance
+
+- Rely on irrelevant information to push the argument along.
+
+#### .purple[Fallacies of ambiguity]
+
+--
+
+- Depend on multiple meanings of key terms to fool us.
+
+---
+
+#### Fallacies of relevance
+
+- Rely on irrelevant information to push the argument along.
+
+#### Fallacies of ambiguity
+
+- Depend on multiple meanings of key terms to fool us.
+
+#### .purple[Fallacies of presumption]
+
+--
+
+- Rely on hidden assumptions to establish their conclusions.
+
+---
+
+#### Fallacies of relevance
+
+- Rely on irrelevant information to push the argument along.
+
+#### Fallacies of ambiguity
+
+- Depend on multiple meanings of key terms to fool us.
+
+#### Fallacies of presumption
+
+- Rely on hidden assumptions to establish their conclusions.
+
+.space[.]
+
+.note[NOTE: fallacies are typically invalid arguments that rely on tricks to close the gap between premises and conclusions.]
+
+---
+layout: false
+layout: true
+class: inverse, middle
+
+.left-column[
+
+#### .purple[fallacies of relevance]
+
+]
+
+---
+
+### .center[*appeal to authority*]
+
+.right-column[
+.example[
+
+Stephanie is a scientist and she says that vaccines cause autism.
+
+***
+
+Thus vaccines are not as safe as the doctors are telling us.
+
+]
+]
+
+--
+
+.space[.]
+
+While we often have no choice but to rely on experts, simply appealing to their expertise is never a good idea. 
+
+--
+
+Instead we should actually see what their claims are based on, otherwise we still have no real reason to believe what they tell us. 
+
+---
+
+### .center[*ad hominem*]
+
+.right-column[
+.example[
+
+My trainer has me on a strict diet and syas that my health will be better if I lose some wait.
+
+***
+
+But I saw him binge eating ice cream the other day, so I guess his advice is worthless.
+
+]
+]
+
+--
+
+.space[.]
+
+Here we are attacking what is said based on who is saying it by pointing out their failure to "practice what they preach."
+
+--
+
+But that isn't relevant since the same argument might be given by anyone else.
+
+---
+
+### .center[*popular appeal*]
+
+.right-column[
+.example[
+
+Segregation laws were once popular in the American south, they were democratically enacted.
+
+***
+
+Therefore segregation was acceptable.
+
+]
+]
+
+--
+
+.space[.]
+
+There are limitations on the principle of "the majority rules" and these are known as rights.
+
+--
+
+In committing this fallacy we overlook the fact that sometimes a majority of people might just be wrong and that asking for opinions about something is not always the best way to find out the truth about it.
+
+---
+
+### .center[*appeal to force*]
+
+.right-column[
+.example[
+
+Matthews, either I pass this class or you might end up having a "accident."
+
+***
+
+Ha! I knew you would realize my work was better than you first said it was.
+
+]
+]
+
+--
+
+.space[.]
+
+Threats might be effective as a way of getting people to so what you want, but they can't really provide us with any reasons for belief, can they?
+
+--
+
+At best they provide incentives, but never *reasons* in support.
+
+---
+
+### .center[*appeal to consequences*]
+
+.right-column[
+.example[
+
+If evolution is correct then we are all related to all other organisms on the planet.
+
+I refuse to admit that I am related to cockroaches in any way.
+
+***
+
+Therefore evolution must be wrong.
+
+]
+]
+
+--
+
+.space[.]
+
+While we may not *like* the consequences of a theory, if the evidence really supports it, we'll just have to get used to them.
+
+---
+
+### .center[*naturalistic fallacy*]
+
+.right-column[
+.example[
+
+Women should not be allowed into combat positions in the military, since, after all, women are not as agressive as men are.
+
+]
+]
+
+--
+
+.space[.]
+
+There are a couple of problems with this argument, first that it judges individuals in terms of generalizations about the group they belong to. Not all men and women fit the general pattern.
+
+--
+
+Second it ignores the distinction between the way things are *by nature* and what we decide based on such concepts as rights and duties.
+
+---
+
+### .center[*red herring*]
+
+.right-column[
+.example[
+
+Why do you keep saying that I am guilty of comitting a crime, when there are important business decisions that need to be made in running this company?
+
+]
+]
+
+--
+
+.space[.]
+
+This is less of a formal argument style and more of a debating tactic. 
+
+--
+
+Diverting attention from the topic at hand doesn't settle it one way or the other.
+
+---
+
+### .center[*weak analogy*]
+
+.right-column[
+.example[
+
+I oppose taxation because it involves taking money from me unwillingly and that is the same thing as theft!
+
+]
+]
+
+--
+
+.space[.]
+
+Analogies can help us illuminate obscure or abstract concepts, but they can also mislead us since they only go so far.
+
+--
+
+We may wonder in this case about any relevant differences.
+
+---
+layout: false
+layout: true
+class: inverse, middle
+
+.left-column[
+
+#### .darkgray[fallacies of relevance]
+
+#### .purple[fallacies of ambiguity]
+]
+
+---
+
+### .center[*equivocation*]
+
+.right-column[
+.example[
+
+XXX
+
+]
+]
+
+--
+
+.space[.]
+
+Y
+
+---
+
+layout: false
+class: inverse, bottom, center, credits
+
+.credit-image[
+![:scale 60%, #222;](img/03/aitoff-telephone.jpg)
+]
+
+.space[.]
+
+**Credits**
+
+*Built with:*
+
+[Rstudio](https://rstudio.com/products/rstudio/) 
+ 
+[xarignan](https://github.com/yihui/xaringan) html presentation framework 
+
+*Images by:*
+Image by <a href="https://pixabay.com/users/AbsolutVision-6158753/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2654084">Gino Crescoli</a>, <a href="https://pixabay.com/users/JonasKIM-7133458/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3233392">Jonas KIM</a>, and <a href="https://pixabay.com/users/aitoff-388338/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1822040">Andrew Martin</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1822040">Pixabay</a>
+
+**For more slideshows visit:**
+
+[ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
+
+[or get the source code](https://github.com/gwmatthews/ethics-slideshows) 
+
+

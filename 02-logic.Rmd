@@ -16,17 +16,17 @@ class: inverse, middle, center
 
 *arguments, reasoning and proof*
 
-.inv[.]
+.space[.]
 
-![:scale 50%, #222;](img/lane-fractal-01.jpg)
+![:scale 50%, #222;](img/02/lane-fractal-01.jpg)
 
-.inv[.]
+.space[.]
 
 George Matthews, Pennsylvania College of Technology
 
 *2019*
 
-.inv[.]
+.space[.]
 
 .note[press "h" for help on keyboard controls]
 ---
@@ -35,7 +35,7 @@ class: inverse
 
 ### *What do I know?*
 
-.inv[.]
+.space[.]
 
 ---
 
@@ -53,7 +53,7 @@ class: inverse
 
 .right-column[
 
-![:scale 70%, #222](img/books-photorama.jpg)
+![:scale 70%, #222](img/02/books-photorama.jpg)
 
 ]
 
@@ -154,7 +154,7 @@ class:inverse
 
 .pull-right[
 
-![:scale 90%, #222](img/sudoku.jpg)
+![:scale 90%, #222](img/02/sudoku.jpg)
 
 .note[Sudoku puzzles are pure deduction, no guesswork is required.]
 
@@ -177,7 +177,7 @@ class:inverse
 
 .pull-right[
 
-![:scale 90%, #222](img/sea-level.png)
+![:scale 90%, #222](img/02/sea-level.png)
 
 .note[Probability theory and statistics enable us to make reliable guesses with incomplete information.]
 
@@ -201,7 +201,7 @@ class:inverse
 
 .pull-right[
 
-![:scale 90%, #222](img/principia.jpg)
+![:scale 90%, #222](img/02/principia.jpg)
 
 .note[Scientific progress happens when scientists come up with better explanations. Isaac Newton did just that when he showed how all motion in the heavens and on earth followed a few basic laws.]
 
@@ -395,7 +395,7 @@ Fred must have been home -- this follows from the second and third premises, sin
 
 --
 
-.note[note: Even those this is a VALID argument it might not be SOUND, since we don't know if the premises are true, but then this is a  *fictional* case.]
+.note[note: Even though this is a VALID argument it might not be SOUND, since we don't know if the premises are true, but then this is a  *fictional* case.]
 
 ---
 class: inverse
@@ -418,7 +418,7 @@ Thus Betty is younger than Wilma.
 
 --
 
-.inv[.]
+.space[.]
 
 .pull-left[
 
@@ -482,10 +482,10 @@ class: inverse
 class: inverse, bottom, center, credits
 
 .credit-image[
-![:scale 60%, #222;](img/lane-fractal-05.jpg)
+![:scale 60%, #222;](img/02/lane-fractal-05.jpg)
 ]
 
-.inv[.]
+.space[.]
 
 **Credits**
 
@@ -504,7 +504,7 @@ and <a href="https://pixabay.com/users/Photorama-5047024/?utm_source=link-attrib
 
 **For more slideshows visit:**
 
-[ethics slideshows home page](./index.html)
+[ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
 
 [or get the source code](https://github.com/gwmatthews/ethics-slideshows) 
 

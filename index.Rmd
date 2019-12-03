@@ -9,6 +9,6 @@ title: "ethics slideshows"
 
 <br><br>
 
-1. [Introduction](01-introduction.html)
-2. [Logic](02-logic.html)
-3. Fallacies
+1. [Introduction](01-introduction.html) ([downloadable pdf version](./01-introduction.pdf))
+2. [Logic](02-logic.html) ([downloadable pdf version](./02-logic.pdf))
+3. [Fallacies](03-fallacies.html)
