@@ -29,8 +29,9 @@ George Matthews, Pennsylvania College of Technology
 .note[press "h" for help on keyboard controls]
 
 ---
+name: how-logical
 class: inverse, middle
-
+### How logical are we really?
 .pull-left[
 
 ![:scale 90%, #222](img/03/crescoli-electrical-cable-mess.jpg)
@@ -39,17 +40,56 @@ class: inverse, middle
 
 .pull-right[
 
-#### How logical are we really?
+{{content}}
 
-We are all capable of listening to reason but...
+]
+---
+template: how-logical
+
+We may all be *capable* of listening to reason but...
+
+---
+template: how-logical
+
+We may all be *capable* of listening to reason but...
 
 - We get fooled by fallacies.
 
-- Our thinking gets short-circuited by biases.
+---
+template: how-logical
 
-]
+We may all be *capable* of listening to reason but...
+
+- We get fooled by fallacies.
+
+  - Fallacies are bad arguments that can look good if we are not paying attention.
 
 ---
+template: how-logical
+
+We may all be *capable* of listening to reason but...
+
+- We get fooled by fallacies.
+
+  - Fallacies are bad arguments that can look good if we are not paying attention.
+
+- Our thinking gets short-circuited by cognitive biases.
+
+---
+template: how-logical
+
+We may all be *capable* of listening to reason but...
+
+- We get fooled by fallacies.
+
+  - Fallacies are bad arguments that can look good if we are not paying attention.
+
+- Our thinking gets short-circuited by cognitive biases.
+
+  - Cognitive biases are "bugs" in our mental operating systems the convince us that we know what just isn't so.
+
+---
+layout: false
 class: inverse
 
 ### *types of fallacies*
@@ -109,7 +149,7 @@ class: inverse
 
 .space[.]
 
-.note[NOTE: cognitive biases are the result of the complexity of our mental "software" and the fact that our reasoning mind is not entirely separate from our emotional mind.]
+.note[NOTE: cognitive biases are the result of the complexity of our mental "software" and the fact that our reasoning minds are not entirely separate from our emotional and perceptual minds.]
 
 ---
 layout: false
@@ -155,7 +195,7 @@ Instead we should actually see what their claims are based on, otherwise we stil
 .right-column[
 .example[
 
-My trainer has me on a strict diet and syas that my health will be better if I lose some wait.
+My trainer has me on a strict diet and says that my health will be better if I lose some weight.
 
 ***
 
@@ -207,7 +247,7 @@ In committing this fallacy we overlook the fact that sometimes a majority of peo
 .right-column[
 .example[
 
-Matthews, either I pass this class or you might end up having a "accident."
+Matthews, either I pass this class or you might end up having an unfortunate "accident."
 
 ***
 
@@ -220,7 +260,7 @@ Ha! I knew you would realize my work was better than you first said it was.
 
 .space[.]
 
-Threats might be effective as a way of getting people to so what you want, but they can't really provide us with any reasons for belief, can they?
+Threats might be effective as a way of getting people to do what you want, but they don't really provide us with any *reasons* for belief.
 
 --
 
@@ -257,7 +297,7 @@ While we may not *like* the consequences of a theory, if the evidence really sup
 .right-column[
 .example[
 
-Women should not be allowed into combat positions in the military, since, after all, women are not as agressive as men are.
+Women should not be allowed into combat positions in the military, since, after all, women are not as aggressive as men are.
 
 ]
 ]
@@ -270,7 +310,29 @@ There are a couple of problems with this argument, first that it judges individu
 
 --
 
-Second it ignores the distinction between the way things are *by nature* and what we decide based on such concepts as rights and duties.
+Second it ignores the distinction between the way things are *by nature* and what *we decide* based on such concepts as rights and duties.
+
+---
+
+### .center[*genetic fallacy*]
+
+.right-column[
+.example[
+
+This study was funded by a large pharmaceutical company, so we can dismiss it as propaganda intended only to serve the interests of the corporation's stockholders.
+
+]
+]
+
+--
+
+.space[.]
+
+This fallacy is a generalization of the last one -- it appeals to the origins of something to determine the basic nature of that thing.
+
+--
+
+Like other fallacies of relevance this argument mistakes the messenger for the message -- isn't *what* is said decisive, not *who says it*?
 
 ---
 
@@ -279,7 +341,7 @@ Second it ignores the distinction between the way things are *by nature* and wha
 .right-column[
 .example[
 
-Why do you keep saying that I am guilty of comitting a crime, when there are important business decisions that need to be made in running this company?
+Why do you keep saying that I am guilty of committing a crime, when there are important business decisions that need to be made in running this company?
 
 ]
 ]
@@ -314,7 +376,7 @@ Analogies can help us illuminate obscure or abstract concepts, but they can also
 
 --
 
-We may wonder in this case about any relevant differences.
+We may wonder in this case about any relevant differences between taxation and theft.
 
 ---
 layout: false
@@ -335,7 +397,13 @@ class: inverse, middle
 .right-column[
 .example[
 
+Religion depends on faith in God.
 
+Science depends on faith in observation and data-analysis.
+
+***
+
+Therefore science is not really very different from religious belief.
 
 ]
 ]
@@ -344,7 +412,11 @@ class: inverse, middle
 
 .space[.]
 
-Y
+This argument overlooks important differences between the meaning of "faith" in these two contexts.
+
+--
+
+So a scientist would be rightfully criticized for simply saying "I believe my results are correct even though the data just don't show it." 
 
 ---
 
@@ -353,7 +425,11 @@ Y
 .right-column[
 .example[
 
+My opponent in this debate has stated that she doesn't believe in the Biblical creation story.
 
+***
+
+But that amounts to saying that there is no meaning at all in life, which is ridiculous.
 
 ]
 ]
@@ -362,7 +438,11 @@ Y
 
 .space[.]
 
-Y
+This is another debating trick that fails to address the topic at hand in the interest of scoring points with an audience sympathetic to your viewpoint.
+
+--
+
+In debates it may be tempting to paraphrase our opponent's viewpoint, but we really should be careful not to misrepresent it.
 
 ---
 
@@ -371,7 +451,11 @@ Y
 .right-column[
 .example[
 
+There are studies that show that vaccines are linked with autism.
 
+***
+
+So parents should have the right to opt out of childhood vaccination.
 
 ]
 ]
@@ -380,7 +464,11 @@ Y
 
 .space[.]
 
-Y
+There is likely to be "evidence" for just about anything that we want if we look hard enough and ignore any evidence to the contrary.
+
+--
+
+But the question is not whether *some* evidence supports our preferred viewpoint, but what the overall pattern of evidence shows. Even a broken clock is right twice a day.
 
 ---
 layout: false
@@ -403,7 +491,7 @@ class: inverse, middle
 .right-column[
 .example[
 
-
+There is no evidence linking asbestos to cancer.
 
 ]
 ]
@@ -412,7 +500,11 @@ class: inverse, middle
 
 .space[.]
 
-Y
+This is not even really an argument, but a simple statement offered without evidence.
+
+--
+
+It may seem like just stating something without argument would fail to convince anyone, and yet there is nothing like repeating a simple statement enough to get it stuck in people's heads. See [anchoring effects.](#anchoring-effects)
 
 ---
 
@@ -421,7 +513,7 @@ Y
 .right-column[
 .example[
 
-
+I know that ghosts exist because I have seen them with my own eyes.
 
 ]
 ]
@@ -430,7 +522,11 @@ Y
 
 .space[.]
 
-Y
+While many people trust eyewitness testimony, the question here is how someone might *know* that what they saw was really a ghost.
+
+--
+
+At a minimum this would require the assumption that ghosts exist, but isn't that what the argument is claiming to prove?
 
 ---
 
@@ -439,7 +535,11 @@ Y
 .right-column[
 .example[
 
+There is no proof that the CIA did *not* assassinate Kennedy and then cover it up.
 
+***
+
+That's why I think that they did.
 
 ]
 ]
@@ -448,7 +548,11 @@ Y
 
 .space[.]
 
-Y
+Conspiracy theories often rely on appeals to ignorance like this.
+
+--
+
+They shift the "burden of proof" to someone opposing their viewpoint as opposed to providing sufficient evidence to prove their claims to be correct.
 
 ---
 
@@ -457,7 +561,7 @@ Y
 .right-column[
 .example[
 
-
+Either you are on the reservation or you are off the reservation.
 
 ]
 ]
@@ -466,7 +570,11 @@ Y
 
 .space[.]
 
-Y
+This is a quote from Richard Nixon, who in the last days of his presidency, believed that everyone who was not completely on his side was completely against him.
+
+--
+
+There certainly were other options, such as being partly on his side and partly opposed. This is also known as the "black or white fallacy."
 
 ---
 
@@ -475,7 +583,11 @@ Y
 .right-column[
 .example[
 
+Three Democrats I spoke with are opposed to abortion.
 
+***
+
+Thus all Deomcrats are opposed to abortion.
 
 ]
 ]
@@ -484,7 +596,11 @@ Y
 
 .space[.]
 
-Y
+This is clearly an insufficient sample size to be convincing evidence for the a claim made about millions of people.
+
+--
+
+Reliance on "anecdotal evidence" is another variety of this fallacy in that anecdotes report individual cases that may or may not show a general pattern.
 
 ---
 
@@ -493,7 +609,7 @@ Y
 .right-column[
 .example[
 
-
+If we allow human cloning, we'll end up with a dystopian future like in the movie "The Island" where clones are made just for "spare parts" and have no rigfhts of their own.
 
 ]
 ]
@@ -502,7 +618,11 @@ Y
 
 .space[.]
 
-Y
+Alarmist claims about what will *inevitably* happen as a result of doing something or other are hard to avoid since we do tend to think of the worst case scenario.
+
+--
+
+In this case, since a clone is nothing but an artificially produced *twin* why would we expect laws against murder not to be enforced in their case?
 
 ---
 

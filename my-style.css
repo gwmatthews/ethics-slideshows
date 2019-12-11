@@ -146,3 +146,7 @@ th, td { padding: 5px; }
 .remark-slide-number {
   font-size: small;
 }
+
+.left-column {
+  margin-right: 1em;
+}
