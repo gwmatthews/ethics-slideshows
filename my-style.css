@@ -16,6 +16,10 @@
   color: #333;
 }
 
+.vdarkgray {
+  color: #272822;
+}
+
 .inverse {
   text-shadow: none;
 }
@@ -59,17 +63,17 @@
   background-color: #ccc;
   color: black;
   box-shadow: 8px 8px 10px #111;
-  margin-bottom: 40px;
+  margin-bottom: 10px;
+  line-height: 1.5;
   }
 
 .inverse .argument {
-  padding: 10px 20px;
+  padding: 10px 30px;
   border-radius: 10px;
   background-color: #ccc;
   color: black;
   box-shadow: 8px 8px 10px #111;
   width: 65%;
-  margin-bottom: 40px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -147,6 +151,14 @@ th, td { padding: 5px; }
   font-size: small;
 }
 
-.left-column {
-  margin-right: 1em;
+.myright-column {
+  width: 75%;
+  float: right;
+  padding-top: 1em;
+  line-height: 1.5;
+}
+
+.smaller-text {
+  font-size: smaller;
+  line-height: 1.5;
 }

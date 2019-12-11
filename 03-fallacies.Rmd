@@ -1,6 +1,7 @@
 ---
 output:
   xaringan::moon_reader:
+    self_contained: TRUE
     seal: false
     css: [default, "my-style.css"]
     lib_dir: libs
@@ -40,8 +41,8 @@ class: inverse, middle
 
 .pull-right[
 
-{{content}}
-
+.smaller-text[{{content}}
+]
 ]
 ---
 template: how-logical
@@ -86,7 +87,7 @@ We may all be *capable* of listening to reason but...
 
 - Our thinking gets short-circuited by cognitive biases.
 
-  - Cognitive biases are "bugs" in our mental operating systems the convince us that we know what just isn't so.
+  - Cognitive biases are "bugs" in our mental operating systems that convince us that we know what just isn't so.
 
 ---
 layout: false
@@ -154,11 +155,19 @@ class: inverse
 ---
 layout: false
 layout: true
-class: inverse, middle
+class: inverse
 
 .left-column[
 
 #### fallacies of relevance
+
+#### .darkgray[fallacies of ambiguity]
+
+#### .darkgray[fallacies of presumption]
+
+#### .darkgray[hot biases]
+
+#### .darkgray[cold biases]
 
 ]
 
@@ -180,13 +189,9 @@ Thus vaccines are not as safe as the doctors are telling us.
 
 --
 
-.space[.]
-
-While we often have no choice but to rely on experts, simply appealing to their expertise is never a good idea. 
-
---
-
-Instead we should actually see what their claims are based on, otherwise we still have no real reason to believe what they tell us. 
+.myright-column[
+While we often have no choice but to rely on experts, simply appealing to their expertise is never a good idea. Instead we should actually see what their claims are based on, otherwise we still have no real reason to believe what they tell us. 
+]
 
 ---
 
@@ -206,13 +211,9 @@ But I saw him binge eating ice cream the other day, so I guess his advice is wor
 
 --
 
-.space[.]
-
-Here we are attacking what is said based on who is saying it by pointing out their failure to "practice what they preach."
-
---
-
-But that isn't relevant since the same argument might be given by anyone else.
+.myright-column[
+Here we are attacking what is said based on who is saying it by pointing out their failure to "practice what they preach." But that isn't relevant since the same argument might be given by anyone else.
+]
 
 ---
 
@@ -232,13 +233,9 @@ Therefore segregation was acceptable.
 
 --
 
-.space[.]
-
-There are limitations on the principle of "the majority rules" and these are known as rights.
-
---
-
-In committing this fallacy we overlook the fact that sometimes a majority of people might just be wrong and that asking for opinions about something is not always the best way to find out the truth about it.
+.myright-column[
+There are limitations on the principle of "the majority rules" and these are known as rights. In committing this fallacy we overlook the fact that sometimes a majority of people might just be wrong and that asking for opinions about something is not always the best way to find out the truth about it.
+]
 
 ---
 
@@ -258,13 +255,11 @@ Ha! I knew you would realize my work was better than you first said it was.
 
 --
 
-.space[.]
+.myright-column[
 
 Threats might be effective as a way of getting people to do what you want, but they don't really provide us with any *reasons* for belief.
 
---
-
-At best they provide incentives, but never *reasons* in support.
+]
 
 ---
 
@@ -286,9 +281,11 @@ Therefore evolution must be wrong.
 
 --
 
-.space[.]
+.myright-column[
 
 While we may not *like* the consequences of a theory, if the evidence really supports it, we'll just have to get used to them.
+
+]
 
 ---
 
@@ -304,13 +301,11 @@ Women should not be allowed into combat positions in the military, since, after 
 
 --
 
-.space[.]
+.myright-column[
 
-There are a couple of problems with this argument, first that it judges individuals in terms of generalizations about the group they belong to. Not all men and women fit the general pattern.
+There are a couple of problems with this argument, first that it judges individuals in terms of generalizations about the group they belong to. Not all men and women fit the general pattern. Second it ignores the distinction between the way things are *by nature* and what *we decide* based on such concepts as rights and duties.
 
---
-
-Second it ignores the distinction between the way things are *by nature* and what *we decide* based on such concepts as rights and duties.
+]
 
 ---
 
@@ -326,13 +321,11 @@ This study was funded by a large pharmaceutical company, so we can dismiss it as
 
 --
 
-.space[.]
+.myright-column[
 
-This fallacy is a generalization of the last one -- it appeals to the origins of something to determine the basic nature of that thing.
+This fallacy is a generalization of the last one -- it appeals to the origins of something to determine the basic nature of that thing. Like other fallacies of relevance this argument mistakes the messenger for the message -- isn't *what* is said decisive, not *who says it*?
 
---
-
-Like other fallacies of relevance this argument mistakes the messenger for the message -- isn't *what* is said decisive, not *who says it*?
+]
 
 ---
 
@@ -348,13 +341,11 @@ Why do you keep saying that I am guilty of committing a crime, when there are im
 
 --
 
-.space[.]
+.myright-column[
 
-This is less of a formal argument style and more of a debating tactic. 
+This is less of a formal argument style and more of a debating tactic. Diverting attention from the topic at hand doesn't settle it one way or the other.
 
---
-
-Diverting attention from the topic at hand doesn't settle it one way or the other.
+]
 
 ---
 
@@ -370,24 +361,28 @@ I oppose taxation because it involves taking money from me unwillingly and that 
 
 --
 
-.space[.]
+.myright-column[
 
-Analogies can help us illuminate obscure or abstract concepts, but they can also mislead us since they only go so far.
+Analogies can help us illuminate obscure or abstract concepts, but they can also mislead us since they only go so far. We may wonder in this case about any relevant differences between taxation and theft.
 
---
-
-We may wonder in this case about any relevant differences between taxation and theft.
+]
 
 ---
 layout: false
 layout: true
-class: inverse, middle
+class: inverse
 
 .left-column[
 
 #### .darkgray[fallacies of relevance]
 
 #### fallacies of ambiguity
+
+#### .darkgray[fallacies of presumption]
+
+#### .darkgray[hot biases]
+
+#### .darkgray[cold biases]
 ]
 
 ---
@@ -410,13 +405,11 @@ Therefore science is not really very different from religious belief.
 
 --
 
-.space[.]
+.myright-column[
 
-This argument overlooks important differences between the meaning of "faith" in these two contexts.
+This argument overlooks important differences between the meaning of "faith" in these two contexts. Science is based on public evidence, religion is not. 
 
---
-
-So a scientist would be rightfully criticized for simply saying "I believe my results are correct even though the data just don't show it." 
+]
 
 ---
 
@@ -436,13 +429,11 @@ But that amounts to saying that there is no meaning at all in life, which is rid
 
 --
 
-.space[.]
+.myright-column[
 
-This is another debating trick that fails to address the topic at hand in the interest of scoring points with an audience sympathetic to your viewpoint.
+This is another debating trick that fails to address the topic at hand in the interest of scoring points with the audience. In debates it may be tempting to paraphrase our opponent's viewpoint, but be careful not to misrepresent it!
 
---
-
-In debates it may be tempting to paraphrase our opponent's viewpoint, but we really should be careful not to misrepresent it.
+]
 
 ---
 
@@ -462,18 +453,16 @@ So parents should have the right to opt out of childhood vaccination.
 
 --
 
-.space[.]
+.myright-column[
 
-There is likely to be "evidence" for just about anything that we want if we look hard enough and ignore any evidence to the contrary.
+There is likely to be "evidence" for just about anything that we want if we look hard enough and ignore any evidence to the contrary. But the question is  what the *evidence as a whole* shows. Even a broken clock is right twice a day.
 
---
-
-But the question is not whether *some* evidence supports our preferred viewpoint, but what the overall pattern of evidence shows. Even a broken clock is right twice a day.
+]
 
 ---
 layout: false
 layout: true
-class: inverse, middle
+class: inverse
 
 .left-column[
 
@@ -482,6 +471,10 @@ class: inverse, middle
 #### .darkgray[fallacies of ambiguity]
 
 #### fallacies of presumption
+
+#### .darkgray[hot biases]
+
+#### .darkgray[cold biases]
 ]
 
 ---
@@ -498,13 +491,11 @@ There is no evidence linking asbestos to cancer.
 
 --
 
-.space[.]
+.myright-column[
 
-This is not even really an argument, but a simple statement offered without evidence.
+This is not even really an argument, but a simple statement offered without evidence. It may seem like just stating something without argument would fail to convince anyone, and yet there is nothing like repeating a simple statement enough to get it stuck in people's heads. See [anchoring effects.](#anchoring-effects)
 
---
-
-It may seem like just stating something without argument would fail to convince anyone, and yet there is nothing like repeating a simple statement enough to get it stuck in people's heads. See [anchoring effects.](#anchoring-effects)
+]
 
 ---
 
@@ -520,13 +511,11 @@ I know that ghosts exist because I have seen them with my own eyes.
 
 --
 
-.space[.]
+.myright-column[
 
-While many people trust eyewitness testimony, the question here is how someone might *know* that what they saw was really a ghost.
+While many people trust eyewitness testimony, the question here is how someone might *know* that what they saw was really a ghost. At a minimum this would require the assumption that ghosts exist, but isn't that what the argument is claiming to prove?
 
---
-
-At a minimum this would require the assumption that ghosts exist, but isn't that what the argument is claiming to prove?
+]
 
 ---
 
@@ -546,13 +535,11 @@ That's why I think that they did.
 
 --
 
-.space[.]
+.myright-column[
 
-Conspiracy theories often rely on appeals to ignorance like this.
+Conspiracy theories often rely on appeals to ignorance like this. They shift the "burden of proof" to someone opposing their viewpoint as opposed to providing sufficient evidence to prove their claims to be correct.
 
---
-
-They shift the "burden of proof" to someone opposing their viewpoint as opposed to providing sufficient evidence to prove their claims to be correct.
+]
 
 ---
 
@@ -568,13 +555,11 @@ Either you are on the reservation or you are off the reservation.
 
 --
 
-.space[.]
+.myright-column[
 
-This is a quote from Richard Nixon, who in the last days of his presidency, believed that everyone who was not completely on his side was completely against him.
+This is a quote from Richard Nixon, who in the last days of his presidency, believed that everyone who was not completely on his side was completely against him. There certainly were other options, such as being partly on his side and partly opposed. This is also known as the "black or white fallacy."
 
---
-
-There certainly were other options, such as being partly on his side and partly opposed. This is also known as the "black or white fallacy."
+]
 
 ---
 
@@ -587,20 +572,18 @@ Three Democrats I spoke with are opposed to abortion.
 
 ***
 
-Thus all Deomcrats are opposed to abortion.
+Thus all Democrats are opposed to abortion.
 
 ]
 ]
 
 --
 
-.space[.]
+.myright-column[
 
-This is clearly an insufficient sample size to be convincing evidence for the a claim made about millions of people.
+This is clearly an insufficient sample size to be convincing evidence for the a claim made about millions of people. Reliance on "anecdotal evidence" is another variety of this fallacy in that anecdotes report individual cases that may or may not show a general pattern.
 
---
-
-Reliance on "anecdotal evidence" is another variety of this fallacy in that anecdotes report individual cases that may or may not show a general pattern.
+]
 
 ---
 
@@ -609,20 +592,18 @@ Reliance on "anecdotal evidence" is another variety of this fallacy in that anec
 .right-column[
 .example[
 
-If we allow human cloning, we'll end up with a dystopian future like in the movie "The Island" where clones are made just for "spare parts" and have no rigfhts of their own.
+If we allow human cloning, we'll end up with a dystopian future like in the movie "The Island" where clones are made just for "spare parts" and have no rights of their own.
 
 ]
 ]
 
 --
 
-.space[.]
+.myright-column[
 
-Alarmist claims about what will *inevitably* happen as a result of doing something or other are hard to avoid since we do tend to think of the worst case scenario.
+Alarmist claims about what will *inevitably* happen as a result of doing something or other are hard to avoid since we do tend to think of the worst case scenario. In this case, since a clone is nothing but an artificially produced *twin* why would we expect laws against murder not to be enforced in their case?
 
---
-
-In this case, since a clone is nothing but an artificially produced *twin* why would we expect laws against murder not to be enforced in their case?
+]
 
 ---
 
@@ -631,17 +612,24 @@ In this case, since a clone is nothing but an artificially produced *twin* why w
 .right-column[
 .example[
 
+When the coach yells at us for losing badly, we play better the next game.
 
+When he praises us after a great win, we don't do so well the next game.
+
+***
+
+Thus negative reinforcement works, and positive reinfrcement does not work.
 
 ]
 ]
 
 --
 
-.space[.]
+.myright-column[
 
-Y
+Isn't a better explanation here that after playing either better or worse than average, the team reaturns to the average? This is a classic case of confusing correlation with causation.
 
+]
 ---
 
 ### .center[*circular reasoning*]
@@ -649,21 +637,27 @@ Y
 .right-column[
 .example[
 
+You must be mentally ill if you commit a mass murder.
 
+***
+
+This is because only mentally ill people would do such a thing.
 
 ]
 ]
 
 --
 
-.space[.]
+.myright-column[
 
-Y
+Circular reasoning is kind of like the old question -- which came first the chicken or the egg? Which explains which according to this argument: does mental illness explain mass-murder or does mass murder prove mental illess? In either case no evidence is presented.
+
+]
 
 ---
 layout: false
 layout: true
-class: inverse, middle
+class: inverse
 
 .left-column[
 
@@ -674,6 +668,8 @@ class: inverse, middle
 #### .darkgray[fallacies of presumption]
 
 #### hot biases
+
+#### .darkgray[cold biases]
 ]
 
 ---
@@ -683,22 +679,24 @@ class: inverse, middle
 .right-column[
 .example[
 
-
+There is evidence wherever I look that the universe is governed by a malicious demon. Just consider the evidence of epidemics and hurricanes!
 
 ]
 ]
 
 --
 
-.space[.]
+.myright-column[
 
-Y
+The problem here lies in not taking into account *all* of the available evidence. Good explanations of the data are not found by looking only at evidence that appears to confirm one's hypothesis.
+
+]
 
 ---
 
 layout: false
 layout: true
-class: inverse, middle
+class: inverse
 
 .left-column[
 
@@ -727,9 +725,11 @@ class: inverse, middle
 
 --
 
-.space[.]
+.myright-column[
 
 Y
+
+]
 
 ---
 layout: false
