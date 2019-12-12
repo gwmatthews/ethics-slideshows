@@ -11,4 +11,4 @@ title: "ethics slideshows"
 
 1. [Introduction](01-introduction.html) ([downloadable pdf version](./01-introduction.pdf))
 2. [Logic](02-logic.html) ([downloadable pdf version](./02-logic.pdf))
-3. [Fallacies](03-fallacies.html)([downloadable pdf version](./03-falllacies.pdf))
+3. [Fallacies](03-fallacies.html) ([downloadable pdf version](./03-falllacies.pdf))
