@@ -212,7 +212,7 @@ But I saw him binge eating ice cream the other day, so I guess his advice is wor
 --
 
 .myright-column[
-Here we are attacking what is said based on who is saying it by pointing out their failure to "practice what they preach." But that isn't relevant since the same argument might be given by anyone else.
+Even if we might attack someone for not "praticing what they preach," that is really irrelevant in that the same argument might have been uttered by someone else.
 ]
 
 ---
@@ -715,6 +715,27 @@ We often forget that we are fundamentally social beings heavily invested in what
 
 ---
 
+### .center[*wishful thinking*]
+
+.right-column[
+.example[
+
+We really can have endless economic growth and protect the enivornment at the same time!
+
+]
+]
+
+--
+
+.myright-column[
+
+The old saying that if it sounds too good to be true, it probably is applies here. 
+
+]
+
+
+---
+
 layout: false
 layout: true
 class: inverse
@@ -774,6 +795,40 @@ When we account for our own behavior we have a (realistic) sense of the large in
 
 ---
 layout: false
+### .center[*the availability heuristic*]
+
+.right-column[
+.example[
+
+I just heard the news about a terrorist hijacking a plane, so rather than fly to Florida I will drive.
+
+]
+]
+
+--
+
+.myright-column[
+
+A heuristic is a "rule of thumb" that might work in some contexts but fails in others. In this case even if a terroristic attack sticks out in one's mind, since it is dramatic, it is far *more* likely that you will get hurt or killed in a car wreck. What is available to the mind is not always the same as what is really more likely.
+
+]  
+---
+
+class: inverse
+
+### find out more
+
+[Your Logical Fallacy Is](https://yourlogicalfallacyis.com/): A well designed website with good examples of a variety of fallacies.
+
+[Your Bias Is](https://yourbias.is/): By the creators of Your Logical Fallacy Is, this site is devoted to some important cognitive biases.
+
+[Logically Fallacious](https://www.logicallyfallacious.com/tools/lp/Bo/LogicalFallacies): a comprehensive list of hundereds of types of fallacies and biases.
+
+[Fallacies](https://www.iep.utm.edu/fallacy/): The Internet Encyclopedia page on logical fallacies has another comprehensive list.
+
+
+
+---
 class: inverse, bottom, center, credits
 
 .credit-image[
