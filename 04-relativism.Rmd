@@ -1,0 +1,125 @@
+---
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: [default, "my-style.css"]
+    lib_dir: libs
+    includes:
+       in_header: my-header.html
+    nature:
+      countIncrementalSlides: false
+      beforeInit: macros.js
+---
+class: inverse, middle, center
+
+### *relativism*
+
+*Is ethics in the eye of the beholder?*
+
+.space[.]
+
+![:scale 50%, #222;](img/04/noiresur-01-sushi.jpg)
+
+.space[.]
+
+George Matthews, Pennsylvania College of Technology
+
+*2019*
+
+.space[.]
+
+.note[press "h" for help on keyboard controls]
+
+---
+layout: true
+class: inverse
+
+### *a basic distinction*
+
+---
+
+.pull-left[
+
+.center[
+#### facts
+]
+
+]
+
+--
+
+.pull-right[
+
+.center[
+#### values
+]
+
+]
+
+---
+
+.pull-left[
+
+.center[
+#### facts
+]
+
+.argument[
+Factual statements report on how the world *is.*
+]
+
+]
+
+.pull-right[
+
+.center[
+#### values
+]
+]
+
+---
+
+.pull-left[
+
+.center[
+#### facts
+]
+
+.argument[
+Factual statements report on how the world *is.*
+]
+]
+
+.pull-right[
+
+.center[
+#### values
+]
+
+.argument[
+Statements about values express claims about how things *should be.*
+]
+]
+
+--
+
+.space[.
+
+.]
+
+
+- The big question is whether statements about values are just a matter of opinion.
+
+--
+
+- If they are, there would be little point to ethical debate and discussion.
+
+
+---
+layout: true
+class: inverse
+
+### *relativism*
+
+---
+
