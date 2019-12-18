@@ -97,7 +97,7 @@ ul ul, ol ul {
 .note {
   font-size: smaller;
   color: #c8d;
-  line-height: normal;
+  line-height: 110%;
 }
 
 /* creative commons symbol for title page */
@@ -126,7 +126,15 @@ img.photo {
 */
 
 .double {
-  line-height: 150%;
+  line-height: 130%;
+}
+
+.double ul {
+  line-height: 130%;
+}
+
+.wide ul {
+  line-height: 170%;
 }
 
 /* for final slide */

@@ -32,7 +32,7 @@ George Matthews, Pennsylvania College of Technology
 
 ---
 layout: true
-class: inverse
+class: inverse double
 
 ### *a basic distinction*
 
@@ -101,12 +101,9 @@ Statements about values express claims about how things *should be.*
 ]
 ]
 
+.space[.]
+
 --
-
-.space[.
-
-.]
-
 
 - The big question is whether statements about values are just a matter of opinion.
 
@@ -114,12 +111,95 @@ Statements about values express claims about how things *should be.*
 
 - If they are, there would be little point to ethical debate and discussion.
 
+--
+
+- If they are not, and they are not statements of fact what *are* they?
 
 ---
 layout: true
-class: inverse
+class: inverse wide
 
 ### *relativism*
 
+![:scale 50%, #222;](img/04/sushi-prafalarcomomarcos.jpg)
+
 ---
+
+--
+
+.note[
+
+According to relativism...
+
+]
+
+--
+
+- Value judgments are personal, rooted in our sense of identity.
+
+--
+
+- They are absorbed from our cultural environment.
+
+--
+
+- Like cultural norms regarding food, manners and personal affairs they are not subject to critical evaluation.
+
+---
+
+.space[.]
+
+.pull-left[
+
+> There is no disputing taste.
+>
+> -- David Hume
+
+]
+
+--
+
+.space[.]
+
+.note[
+
+QUESTION: are ethical norms like taste in food, subject to disagreement with no way of settling disputes? Either you like sushi or you don't... 
+
+]
+
+---
+layout: false
+class: inverse
+
+### *a note on ethical theories*
+
+![:scale 50%, #222;](img/04/sushi-2-sfbistrodubai.jpg)
+
+--
+
+.space[.]
+
+Every theory we will look at:
+
+--
+
+- Makes certain .purple[assumptions]: we have to start *somewhere*.
+
+--
+
+- Has .purple[implications]: *if it is true*, then we have to accept other stuff too.
+
+--
+
+- Requires support in an .purple[argument]: none are *obvious* even if they might seem believable at first glance.
+
+
+
+
+
+
+
+
+
+
 
