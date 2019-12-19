@@ -133,6 +133,10 @@ img.photo {
   line-height: 130%;
 }
 
+.wide {
+  line-height: 170%;
+}
+
 .wide ul {
   line-height: 170%;
 }
