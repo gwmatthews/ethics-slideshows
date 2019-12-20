@@ -1,3 +1,12 @@
+/* main them colors */
+
+.remark-slide-content {
+  
+  background-color: #272822;
+  color: #d6d6d6;
+  
+}
+
 /* text colors */
 
 .red {
@@ -32,32 +41,14 @@
   color: #c8d;
 }
 
-.inverse h1, .inverse h2, .inverse h3, .inverse h4 {
+h1, h2, h3, h4 {
   color: #e9f;
 }
 
-/* opposite of inverse */
 
-.converse {
-  background-color: #ccc;
-  color: #222;
-}
 
-.converse h1, .converse h2, .converse h3 {
-  color: #555;
-}
 
-/* text boxes */
-
-.converse .example{
-  padding: 10px 40px;
-  border-radius: 10px;
-  background-color: #333;
-  color: white;
-  box-shadow: 8px 8px 10px #211;
-  }
-
-.inverse .example {
+.example {
   padding: 10px 40px;
   border-radius: 10px;
   background-color: #ccc;
@@ -67,7 +58,7 @@
   line-height: 1.5;
   }
 
-.inverse .argument {
+.argument {
   padding: 10px 30px;
   border-radius: 10px;
   background-color: #ccc;
@@ -78,18 +69,7 @@
   margin-right: auto;
 }
 
-.converse .argument {
-  padding: 10px 20px;
-  border-radius: 10px;
-  background-color: #333;
-  color: white;
-  box-shadow: 8px 8px 10px #111;
-  text-shadow: none;
-  width: 65%;
-  margin-left: auto;
-  margin-right: auto;
-}
-
+.
 ul ul, ol ul {
   list-style-type: none;
 }

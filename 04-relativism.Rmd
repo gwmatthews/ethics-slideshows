@@ -2,7 +2,7 @@
 output:
   xaringan::moon_reader:
     seal: false
-    css: [default, "my-style.css"]
+    css: [default, my-fonts.css, my-style.css]
     lib_dir: libs
     includes:
        in_header: my-header.html
@@ -10,11 +10,11 @@ output:
       countIncrementalSlides: false
       beforeInit: macros.js
 ---
-class: inverse, middle, center
+class:  middle, center
 
 ### *relativism*
 
-*Is ethics in the eye of the beholder?*
+#### *Is ethics in the eye of the beholder?*
 
 .space[.]
 
@@ -30,7 +30,7 @@ George Matthews, Pennsylvania College of Technology
 
 ---
 layout: true
-class: inverse double
+class: double
 
 ### *a basic distinction*
 
@@ -63,7 +63,7 @@ class: inverse double
 ]
 
 .argument[
-Factual statements report on how the world *is.*
+Factual statements report on how the world really *is.*
 ]
 
 ]
@@ -84,7 +84,7 @@ Factual statements report on how the world *is.*
 ]
 
 .argument[
-Factual statements report on how the world *is.*
+Factual statements report on how the world really *is.*
 ]
 ]
 
@@ -95,7 +95,7 @@ Factual statements report on how the world *is.*
 ]
 
 .argument[
-Statements about values express claims about how things *should be.*
+Statements about values express how we think things *should be.*
 ]
 ]
 
@@ -103,19 +103,19 @@ Statements about values express claims about how things *should be.*
 
 --
 
-- The big question is whether statements about values are just a matter of opinion.
+- Are claims about values just a matter of opinion?
 
 --
 
-- If they are, there would be little point to ethical debate and discussion.
+- If they are just opinions, there would be little point to ethical debate and discussion.
 
 --
 
-- If they are not, and they are not statements of fact what *are* they?
+- If they are not just opinion, what *are* they all about?
 
 ---
 layout: true
-class: inverse wide
+class: wide
 
 ### *relativism*
 
@@ -137,7 +137,7 @@ According to relativism...
 
 --
 
-- They are absorbed from our cultural environment.
+- They are absorbed from our cultural environments.
 
 --
 
@@ -162,14 +162,14 @@ According to relativism...
 .note[
 .wide[
 
-QUESTION: are ethical norms like taste in food, subject to disagreement with no way of settling disputes? Either you like sushi or you don't... 
+QUESTION: are ethical norms like taste in food and thus subject to disagreement with no way of settling disputes? Either you like sushi or you don't... 
 
 ]
 ]
 
 ---
 layout: false
-class: inverse
+
 
 ### *a note on ethical theories*
 
@@ -195,7 +195,7 @@ Every theory we will look at:
 
 ---
 layout: true
-class: inverse wide
+class: wide
 
 ### *implications of relativism*
 
@@ -259,7 +259,7 @@ If there is no common framework for discussion, we must live in morally distinct
 
 ---
 layout: true
-class: inverse double
+class: double
 
 
 ### *Is relativism true?*
@@ -290,7 +290,7 @@ Therefore there are no moral standards that can apply in all cases.
 
 --
 
-- Do different views abut how to deal with *stop signs* imply that there are no standards in that case?
+- Do different views about how to deal with *stop signs* imply that there are no standards in that case?
 
 ---
 
@@ -346,7 +346,7 @@ Thus in the interests of tolerance we should accept that relativism is true.
 
 ---
 layout: true
-class: inverse wide
+class: wide
 
 ### *the big question*
 
@@ -377,7 +377,7 @@ Or are moral claims more like judgments about facts or the law?
 
 ---
 layout: true
-class: inverse wide
+class: wide
 
 ### *assessing relativism*
 
@@ -421,7 +421,7 @@ Plus it gets us off the hook and out of the hard work of really trying to unders
 
 ---
 layout: true
-class: inverse wide
+class: wide
 
 ### *assessing relativism*
 
@@ -485,7 +485,7 @@ But wouldn't a relativist also have to accept that intolerance is just as "good"
 
 ---
 layout: true
-class: inverse wide
+class: wide
 
 ### *assessing relativism*
 
@@ -557,12 +557,12 @@ All human cultures seem to share values like:
 
 ---
 layout:false
-class: inverse wide
+class: wide
 
 ### find out more
 
 ---
-class: inverse, bottom, center, credits
+class:  bottom, center, credits
 
 .credit-image[
 ![:scale 60%, #222;](img/04/sushi-draws-and-cooks.jpg)

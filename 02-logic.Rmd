@@ -2,7 +2,7 @@
 output:
   xaringan::moon_reader:
     seal: false
-    css: [default, "my-style.css"]
+    css: [default, my-fonts.css, my-style.css]
     lib_dir: libs
     includes:
        in_header: my-header.html
@@ -10,7 +10,7 @@ output:
       countIncrementalSlides: false
       beforeInit: macros.js
 ---
-class: inverse, middle, center
+class: middle center
 
 ### *a little logic*
 
@@ -31,7 +31,6 @@ George Matthews, Pennsylvania College of Technology
 .note[press "h" for help on keyboard controls]
 ---
 layout: true
-class: inverse
 
 ### *What do I know?*
 
@@ -132,7 +131,6 @@ class: inverse
 ---
 layout: false
 layout: true
-class:inverse
 
 ### *reasoning & logic*
 
@@ -211,7 +209,7 @@ class:inverse
 
 layout: false
 layout: true
-class: inverse
+
 
 ### *basic concepts*
 
@@ -301,7 +299,6 @@ So if it's VALID we then want to know whether it's SOUND.
 ---
 layout: false
 layout: true
-class: inverse
 
 ### *more examples*
 
@@ -367,7 +364,6 @@ If the premises *were* true would the conclusion *have to be true* as well?
 
 ---
 layout: false
-class: inverse
 
 ### *proving validity*
 
@@ -398,7 +394,6 @@ Assuming the premises are TRUE, we can prove the conclusion like so:
 .note[note: Even though this is a VALID argument it might not be SOUND, since we don't know if the premises are true, but then this is a  *fictional* case.]
 
 ---
-class: inverse
 
 ### *counterexamples*
 
@@ -445,7 +440,6 @@ Its easier then it seems -- in this case we just find some ages that make the pr
 
 ---
 layout:false
-class: inverse
 name: glossary
 
 ### *glossary*
@@ -465,7 +459,6 @@ name: glossary
 - **Counterexample**: a possible case in which the premises of an argument are true and the conclusion is false -- used to show that an argument is invalid.
 
 ---
-class: inverse
 
 ### find out more
 
@@ -479,7 +472,7 @@ class: inverse
 
 
 ---
-class: inverse, bottom, center, credits
+class: bottom center credits
 
 .credit-image[
 ![:scale 60%, #222;](img/02/lane-fractal-05.jpg)
