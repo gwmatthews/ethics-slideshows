@@ -1,4 +1,5 @@
 ---
+title: "A Little Logic"
 output:
   xaringan::moon_reader:
     seal: false

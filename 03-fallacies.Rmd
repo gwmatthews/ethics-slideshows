@@ -1,4 +1,5 @@
 ---
+title: "Fallacies and Biases: how NOT to think logically"
 output:
   xaringan::moon_reader:
     self_contained: TRUE

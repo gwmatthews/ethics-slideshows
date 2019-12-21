@@ -1,4 +1,5 @@
 ---
+title: "Philosophical Ethics: an introduction"
 output:
   xaringan::moon_reader:
     seal: false
