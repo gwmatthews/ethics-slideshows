@@ -7,8 +7,8 @@
     
     <!-- disable "show simplified view" in android -->
     <meta name="viewport" content="width=device-width, initial-scale=0.6, maximum-scale=2">
-    <link rel="stylesheet" href="my-fonts.css" type="text/css" />
-    <link rel="stylesheet" href="my-style.css" type="text/css" />
+    <link rel="stylesheet" href="raspberry-fonts.css" type="text/css" />
+    <link rel="stylesheet" href="raspberry.css" type="text/css" />
   </head>
   <body>
     <textarea id="source">
@@ -19,17 +19,11 @@ class: middle center
 
 *arguments, reasoning and proof*
 
-.space[.]
-
 ![:scale 50%, #222;](img/02/lane-fractal-01.jpg)
-
-.space[.]
 
 George Matthews, Pennsylvania College of Technology
 
 *2020*
-
-.space[.]
 
 .note[press "h" for help on keyboard controls]
 ---
@@ -213,7 +207,6 @@ layout: true
 layout: false
 layout: true
 
-
 ### *basic concepts*
 
 .argument[
@@ -242,19 +235,11 @@ We'd like to know two things about it:
 
 --
 
-1. Is it .red[VALID]?
+1. Is it .red[VALID]? Does the reasoning work?
 
 --
 
-   - That is, does the reasoning work?
-
---
-
-2. And if so is it .red[SOUND]?
-
---
-
-   - Is the information in the premises true?
+2. And if so is it .red[SOUND]? Is the information in the premises true?
 
 --
 
@@ -275,10 +260,6 @@ So is this argument VALID?
 
 - If not, then the argument is .red[VALID], as this one clearly is.
 
---
-
-.note[This may seem backwards and upside down, so read it again!]
-
 ---
 
 So if it's VALID we then want to know whether it's SOUND.
@@ -293,11 +274,7 @@ So if it's VALID we then want to know whether it's SOUND.
 
 --
 
-- The nice thing about sound arguments is that their .red[conclusions are really true]!
-
---
-
-.note[The not so nice thing is that they are hard to come by for things we'd like to know about.]
+- So this argument is .red[SOUND]!
 
 ---
 layout: false
@@ -327,16 +304,12 @@ Once again we start with an *assumption* -- let's suppose that the premises are 
 
 --
 
-- Clearly not, just ask him.
+- Clearly not, just ask him. Sound it is INVALID and thus alos UNSOUND.
 
 --
 
- - The premises here refer to three *different* categories: animals and two subcategories of animals, which are related in some way, but not in the way the conclusion states.
+- The premises here refer to three *different* categories which are related in some way, but not in the way the conclusion states.
  
---
-
-Since this argument is INVALID it is thus also UNSOUND.
-
 ---
 
 .argument[
@@ -361,16 +334,12 @@ If the premises *were* true would the conclusion *have to be true* as well?
 
 - If cats were part of the larger class "fish" and fish were themselves part of a larger class "things made of wood" then cats would have to be made of wood. (This is a mini PROOF of validity, more on that later.)
  
---
-
-.note[Even if the premises are FALSE, an argument can still be VALID. With false premises it would still be UNSOUND.]
-
 ---
 layout: false
 
 ### *proving validity*
 
-.argument[
+.example[
 
 Either Fred or Betty killed Mr. Slate at the quarry.
 
@@ -394,7 +363,7 @@ Assuming the premises are TRUE, we can prove the conclusion like so:
 
 --
 
-.note[note: Even though this is a VALID argument it might not be SOUND, since we don't know if the premises are true, but then this is a  *fictional* case.]
+.note[note: Even though the argument is VALID it is not SOUND, since it is a  *fictional* case.]
 
 ---
 
@@ -415,8 +384,6 @@ Thus Betty is younger than Wilma.
 ]
 
 --
-
-.space[.]
 
 .pull-left[
 
@@ -443,7 +410,7 @@ Its easier then it seems -- in this case we just find some ages that make the pr
 
 ---
 layout:false
-name: glossary
+class: medium-text
 
 ### *glossary*
 
@@ -475,13 +442,11 @@ name: glossary
 
 
 ---
-class: bottom center credits
+class: center credits
 
 .credit-image[
 ![:scale 60%, #222;](img/02/lane-fractal-05.jpg)
 ]
-
-.space[.]
 
 #### Credits
 

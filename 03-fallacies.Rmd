@@ -4,7 +4,7 @@ output:
   xaringan::moon_reader:
     self_contained: TRUE
     seal: false
-    css: [default, my-fonts.css, my-style.css]
+    css: [default, raspberry-fonts.css, raspberry.css]
     lib_dir: libs
     includes:
        in_header: my-header.html
@@ -614,7 +614,7 @@ When he praises us after a great win, we don't do so well the next game.
 
 ***
 
-Thus negative reinforcement works, and positive reinforcement does not work.
+SO negative reinforcement works, and positive reinforcement doesn't.
 
 ]
 ]
@@ -623,7 +623,7 @@ Thus negative reinforcement works, and positive reinforcement does not work.
 
 .myright-column[
 
-Isn't a better explanation here that after playing either better or worse than average, the team returns to their average? This is a classic case of confusing correlation with causation.
+Isn't a better explanation here that after playing either better or worse than average, the team returns to their average? 
 
 ]
 ---
@@ -808,7 +808,6 @@ A heuristic is a "rule of thumb" that might work in some contexts but fails in o
 ]  
 ---
 layout:false
-class: wide
 
 ### find out more
 
@@ -823,13 +822,11 @@ class: wide
 
 
 ---
-class: bottom center credits
+class: center credits
 
 .credit-image[
 ![:scale 60%, #222;](img/03/aitoff-telephone.jpg)
 ]
-
-.space[.]
 
 #### Credits
 

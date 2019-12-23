@@ -13,6 +13,6 @@ navbar:
 output:
   html_document:
     theme: simplex
-    css: my-style.css
+    css: non-slides.css
     includes:
        in_header: my-header.html

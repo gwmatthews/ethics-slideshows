@@ -3,7 +3,7 @@ title: "Relativism: Is ethics in the eye of the beholder?"
 output:
   xaringan::moon_reader:
     seal: false
-    css: [default, my-fonts.css, my-style.css]
+    css: [default, raspberry-fonts.css, raspberry.css]
     lib_dir: libs
     includes:
        in_header: my-header.html
@@ -17,21 +17,16 @@ class:  middle, center
 
 #### *Is ethics in the eye of the beholder?*
 
-.space[.]
-
 ![:scale 50%, #222;  alt="photo"](img/04/noiresur-01-sushi.jpg)
 
 George Matthews, Pennsylvania College of Technology
 
 *2020*
 
-.space[.]
-
 .note[press "h" for help on keyboard controls]
 
 ---
 layout: true
-class: double
 
 ### *a basic distinction*
 
@@ -116,7 +111,6 @@ Statements about values express how we think things *should be.*
 
 ---
 layout: true
-class: wide
 
 ### *relativism*
 
@@ -178,8 +172,6 @@ layout: false
 
 --
 
-.space[.]
-
 Every theory we will look at:
 
 --
@@ -196,7 +188,6 @@ Every theory we will look at:
 
 ---
 layout: true
-class: wide
 
 ### *implications of relativism*
 
@@ -260,12 +251,8 @@ If there is no common framework for discussion, we must live in morally distinct
 
 ---
 layout: true
-class: double
-
 
 ### *Is relativism true?*
-
-.space[.]
 
 ---
 
@@ -284,8 +271,6 @@ Therefore there are no moral standards that can apply in all cases.
 ]
 
 --
-
-.space[.]
 
 - Is this argument even valid?
 
@@ -308,8 +293,6 @@ We acquire our sense of right and wrong from our immediate cultural environments
 Thus there are no such thing as moral universals.
 
 ]
-
-.space[.]
 
 --
 
@@ -335,8 +318,6 @@ Thus in the interests of tolerance we should accept that relativism is true.
 
 ]
 
-.space[.]
-
 --
 
 - The premise is true, but does this imply that that there are *no* deeper values that *all* cultures share and implement in different ways?
@@ -347,15 +328,12 @@ Thus in the interests of tolerance we should accept that relativism is true.
 
 ---
 layout: true
-class: wide
 
 ### *the big question*
 
 ![:scale 50%, #222; alt="photo"](img/04/sushi-juan-gallardo.jpg)
 
 ---
-
-.space[.]
 
 --
 
@@ -367,8 +345,6 @@ Are moral claims more like aesthetic judgments?
 
 ---
 
-.space[.]
-
 Or are moral claims more like judgments about facts or the law?
 
 --
@@ -378,7 +354,6 @@ Or are moral claims more like judgments about facts or the law?
 
 ---
 layout: true
-class: wide
 
 ### *assessing relativism*
 
@@ -398,8 +373,6 @@ class: wide
 
 .right-column[
 
-.space[.]
-
 .example[
 
 Relativism gives us a quick and easy way to account for disagreements about right and wrong and the fact that it may seem like we live in different moral universes than others.
@@ -411,8 +384,6 @@ Relativism gives us a quick and easy way to account for disagreements about righ
 
 .right-column[
 
-.space[.]
-
 .example[
 
 Plus it gets us off the hook and out of the hard work of really trying to understand someone we deeply disagree with.
@@ -422,7 +393,6 @@ Plus it gets us off the hook and out of the hard work of really trying to unders
 
 ---
 layout: true
-class: wide
 
 ### *assessing relativism*
 
@@ -443,8 +413,6 @@ class: wide
 
 .right-column[
 
-.space[.]
-
 .example[
 
 Arguments in favor of relativism tend to beg the question.
@@ -457,8 +425,6 @@ What *does* disagreement show about values, besides the fact that we tend to hav
 ---
 
 .right-column[
-
-.space[.]
 
 .example[
 
@@ -473,8 +439,6 @@ Don't we all have the ability to independently reevaluate our cultural programmi
 
 .right-column[
 
-.space[.]
-
 .example[
 
 Yes tolerance of other peoples' approach to life is typically a good thing.
@@ -486,7 +450,6 @@ But wouldn't a relativist also have to accept that intolerance is just as "good"
 
 ---
 layout: true
-class: wide
 
 ### *assessing relativism*
 
@@ -504,8 +467,6 @@ class: wide
 
 .right-column[
 
-.space[.]
-
 .example[
 
 Maybe our disagreements are so bitter because we agree on a deeper level.
@@ -519,8 +480,6 @@ What if our disagreements were about how to implement common core values?
 ---
 
 .right-column[
-
-.space[.]
 
 .example[
 
@@ -541,8 +500,6 @@ All human cultures seem to share values like:
 
 .right-column[
 
-.space[.]
-
 .example[
 
 *Open questions:*
@@ -558,18 +515,15 @@ All human cultures seem to share values like:
 
 ---
 layout:false
-class: wide
 
 ### find out more
 
 ---
-class:  bottom, center, credits
+class:  center credits
 
 .credit-image[
 ![:scale 60%, #222;](img/04/sushi-draws-and-cooks.jpg)
 ]
-
-.space[.]
 
 #### Credits
 
@@ -591,4 +545,3 @@ from <a href="https://pixabay.com/">Pixabay</a>
 
 .space[.]
 
-.space[.]
