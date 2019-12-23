@@ -4,7 +4,7 @@ title: "ethics slideshows"
 
 <br>
 
-![](img/001.jpg){class="photo" width=400px}
+![photo](img/001.jpg){class="photo" width=400px}\
 
 
 <br><br>

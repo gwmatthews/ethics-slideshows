@@ -12,7 +12,7 @@ navbar:
 
 output:
   html_document:
-    theme: flatly
+    theme: simplex
     css: my-style.css
     includes:
        in_header: my-header.html

@@ -1,4 +1,15 @@
-/* main them colors */
+body {
+  background-color: #222;
+  color: #888;
+  font-size: 16px;
+  line-height: 2;
+}
+
+a {
+  color: rgb(249, 38, 114);
+}
+
+/* main theme colors */
 
 .remark-slide-content {
   
