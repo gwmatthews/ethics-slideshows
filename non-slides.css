@@ -9,12 +9,19 @@ a {
   color: rgb(249, 38, 114);
 }
 
+a {
+  color: #8C326E;
+}
+
 a:hover {
   color: #c8d;
   text-decoration: none;
 }
 
-ol { 
-  line-height: 2.0;
+ol {
+  font-size: large;
 }
-  
+
+.smaller {
+  font-size: x-small;
+}
