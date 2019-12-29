@@ -10,11 +10,12 @@ output:
     nature:
       countIncrementalSlides: false
       beforeInit: macros.js
+#    chakra: ./libs
       
 ---
 class: middle center
 
-### *philosophical ethics*
+### *Philosophical Ethics*
 
 *an introduction*
 

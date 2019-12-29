@@ -1,0 +1,195 @@
+---
+title: "Ethics and Religion: which comes first?"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: [default, raspberry-fonts.css, raspberry.css]
+    lib_dir: libs
+    includes:
+       in_header: my-header.html
+    nature:
+      countIncrementalSlides: false
+      beforeInit: macros.js
+---
+class:  middle, center
+
+### *Ethics and Religion*
+
+#### *which comes first?*
+
+![:scale 50%, #222;  alt="photo"](img/05/peter-h-1.jpg)
+
+George Matthews, Pennsylvania College of Technology
+
+*2020*
+
+.note[press "h" for help on keyboard controls]
+
+---
+layout: true
+
+### *Some common assumptions*
+
+![:scale 50%, #222;  alt="photo"](img/05/peter-h-2.jpg)
+
+<br>
+
+---
+
+--
+
+.argument[
+
+Moral rules are taught by adults to children, often in religious contexts.
+
+]
+
+---
+
+.argument[
+
+Without this kind of moral training children end up not having a solid sense of right and wrong.
+
+]
+
+
+---
+
+.argument[
+
+Religion in fact has historically provided a normative framework for social life -- religion is the source of ethics.
+
+]
+
+
+
+---
+layout: false
+
+### *Basing ethics on religion*
+
+<br>
+
+--
+
+From these assumptions it seems to follow that morality can and should  be based on religious teachings. 
+
+--
+
+The two chief ways of attempting to do this are:
+
+<br>
+
+--
+
+#### .purple[*Divine Command Theory*]
+
+- Appeals to *divine authority* as the basis of ethical rules.
+
+
+--
+
+#### .purple[*Natural Law Theory*] 
+
+- Appeals to a religiously based conception of *human nature* as the basis of ethics.
+
+
+---
+### *Divine Command Theory*
+
+--
+
+- DCT is a theory of the meaning of moral language.
+
+--
+
+- Morality takes the form of overriding and absolute commands: "Thou shalt not, do this that or the other thing."
+
+--
+
+- Such commands are binding on us only to the extent that there is a sufficiently powerful moral authority behind them, otherwise they would be optional.
+
+--
+
+.example[
+*for example:*
+
+"Murder is wrong," really means "God commands us not to murder each other."
+
+]
+
+---
+### *If DCT is true...*
+
+
+
+
+---
+layout: true
+### *Is DCT true?*
+
+---
+#### *the theological argument*
+
+--
+
+.argument[
+
+If God created everything, this certainly must include the rules of morality.
+
+God created everything.
+
+***
+
+Thus God must have created the rules of morality.
+]
+
+--
+
+- A valid argument, but are the premises are really true? 
+
+--
+
+- We'll see a reason to doubt the truth of the first in a moment...
+
+---
+#### another argument
+
+.argument[
+
+
+
+]
+
+---
+layout: false
+class: center credits
+
+![:scale 50%, #222;](img/05/peter-h-6.jpg)
+
+#### Credits
+
+*Built with:*
+
+[Rstudio](https://rstudio.com/products/rstudio/) 
+
+[xarignan](https://github.com/yihui/xaringan) html presentation framework 
+
+*Photos by:*
+
+[Peter H](https://pixabay.com/users/tama66-1032521/) at Pixabay
+
+**For more slideshows visit:**
+
+[ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
+
+[or get the source code](https://github.com/gwmatthews/ethics-slideshows) 
+
+
+
+.space[.]
+
+
+
+
+

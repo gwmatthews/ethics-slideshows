@@ -13,7 +13,7 @@ output:
 ---
 class:  middle, center
 
-### *relativism*
+### *Relativism*
 
 #### *Is ethics in the eye of the beholder?*
 
