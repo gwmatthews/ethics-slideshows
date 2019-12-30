@@ -1,10 +1,11 @@
-/*@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Goudy+Bookletter+1911&display=swap');
+*/
 
- 
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
 
 body {
-  font-family: 'Gaudy Bookletter 1911', serif;
+  font-family: 'Lora', serif;
 }
 
 h1, h2, h3, h4 {
