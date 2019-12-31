@@ -28,13 +28,13 @@ George Matthews, Pennsylvania College of Technology
 ---
 layout: true
 
-### *Some common assumptions*
+### *Common assumptions*
+
+---
 
 ![:scale 50%, #222;  alt="photo"](img/05/peter-h-2.jpg)
 
 <br>
-
----
 
 --
 
@@ -46,6 +46,10 @@ Moral rules are taught by adults to children, often in religious contexts.
 
 ---
 
+![:scale 50%, #222;  alt="photo"](img/05/peter-h-4.jpg)
+
+<br> 
+
 .argument[
 
 Without this kind of moral training children end up not having a solid sense of right and wrong.
@@ -54,21 +58,25 @@ Without this kind of moral training children end up not having a solid sense of 
 
 
 ---
+![:scale 50%, #222;  alt="photo"](img/05/peter-h-5.jpg)
+
+<br>
+
 
 .argument[
 
-Religion in fact has historically provided a normative framework for social life -- religion is the source of ethics.
+Religion *in fact* has historically provided a normative framework for social life -- religion is the source of social and ethical rules.
 
 ]
 
 
 
 ---
-layout: false
+layout: true
 
-### *Basing ethics on religion*
+### *How to base ethics on religion*
 
-<br>
+---
 
 --
 
@@ -78,23 +86,37 @@ From these assumptions it seems to follow that morality can and should  be based
 
 The two chief ways of attempting to do this are:
 
-<br>
-
 --
 
-#### .purple[*Divine Command Theory*]
+.topcap[Divine Command Theory]
 
-- Appeals to *divine authority* as the basis of ethical rules.
+.argument[
 
+Appeals to *divine authority* as the basis of ethical rules.
 
---
+"God creates the rules and we all have to follow those rules or else."
 
-#### .purple[*Natural Law Theory*] 
-
-- Appeals to a religiously based conception of *human nature* as the basis of ethics.
-
+]
 
 ---
+
+From these assumptions it seems to follow that morality *can and should  be* based on religious teachings. 
+
+The two chief ways of attempting to do this are:
+
+.topcap[Natural Law Theory]
+
+.argument[
+
+Appeals to a religiously based conception of *human nature* as the basis of ethics.
+
+"God created us with a built-in purpose and the ability to see for ourselves what that purpose requires us to do."
+
+]
+
+---
+layout: false
+
 ### *Divine Command Theory*
 
 --
@@ -111,8 +133,9 @@ The two chief ways of attempting to do this are:
 
 --
 
-.example[
-*for example:*
+.topcap[for example:]
+
+.argument[
 
 "Murder is wrong," really means "God commands us not to murder each other."
 
@@ -121,15 +144,25 @@ The two chief ways of attempting to do this are:
 ---
 ### *If DCT is true...*
 
-- Morality would have an objective basis.
+--
 
-- We could avoid relatvism.
+- Morality would have an objective basis and we would have a strong reason to follow the rules.
 
-- But...
+--
 
-- We would have to settle religious questions before we could settle moral ones.
+- We could avoid the trap of relativism.
 
-- Atheists would be unable to be moral.
+--
+
+.topcap[But...]
+
+--
+
+- We would have to settle religious questions before we could settle moral ones -- what *exactly* does God command?
+
+--
+
+- Non-religious people can't really have morality -- for them nothing would be ultimately forbidden.
 
 
 ---
@@ -137,9 +170,10 @@ layout: true
 ### *Is DCT true?*
 
 ---
-#### *the theological argument*
 
 --
+
+.topcap[A theological argument]
 
 .argument[
 
@@ -161,13 +195,132 @@ Thus God must have created the rules of morality.
 - We'll see a reason to doubt the truth of the first in a moment...
 
 ---
-#### another argument
+
+.topcap[The argument from moral facts]
 
 .argument[
 
+If God didn't exist, there would be nothing that is just plain wrong .
 
+But some things are in fact just plain wrong.
+
+***
+
+Thus Divine Command Theory is true -- God exists and is the basis of morality.
+]
+
+--
+
+- This argument is sometimes used to prove that there must be a God. 
+
+--
+
+- But doesn't it beg the question by assuming that the existence of God is *required* for morality?
+
+---
+layout: true
+
+### The Dilemma of DCT
+
+---
+
+--
+
+Even if these arguments worked DCT would face a dilemma in trying to account for *why* we should listen to God's commands.
+
+<br>
+
+--
+
+.argument[
+
+Is it because God commands us to do something that makes it the right thing to do?
+
+Or is it the fact that it is right that leads God to command us to do it?
 
 ]
+
+--
+
+<br>
+
+.center[Let's consider these one at a time, to see why neither works.]
+
+---
+
+<br>
+
+.argument[
+
+Are murder, stealing, lying, etc. wrong **_because_** God says so?
+
+]
+
+--
+
+<br>
+
+.narrow-text[
+- But then God *could have said otherwise* and that makes these rules arbitrary.]
+
+--
+
+.narrow-text[ 
+- Instead there must be a *reason* why God made the laws He, She or It made...
+]
+
+---
+
+<br>
+
+.argument[
+
+Does God command us not to murder, steal, lie, etc. **_because_** those things are wrong?
+
+]
+
+--
+
+<br>
+
+.narrow-text[
+- But then moral rules would be *independent of God* and that makes God's commands irrelevant.]
+
+--
+
+.narrow-text[ 
+- If the rules themselves have *reasons* God is no longer a foundation of morality, but at best a messenger.
+]
+
+--
+
+.narrow-text[ 
+- What then might be the source of moral rules? That question remains unanswered.
+]
+
+---
+layout: false
+
+### Natural Law Theory
+
+--
+
+- Religion not only offers and account of the orgins of human laws, but of the natural order of things in general.
+
+--
+
+- Perhaps *this* could provide a basis for ethics and explain *why* God might command or forbid particular behavior.
+
+--
+
+.topcap[for example:]
+
+.argument[
+
+Murder is wrong because it violates one of the fundamental tendencies of all living things which is to preserve life itself.
+
+]
+
 
 ---
 layout: false

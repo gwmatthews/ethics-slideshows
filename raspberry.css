@@ -164,3 +164,17 @@ th, td { padding: 5px; }
   font-size: medium;
   line-height: 1.5;
 }
+
+.topcap {
+  color: #c8d;
+  font-size: x-large;
+  font-style: italic;
+  margin-left: 10%;
+}
+
+.narrow-text {
+  
+  width: 75%;
+  margin: auto;
+  
+}
