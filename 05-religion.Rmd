@@ -305,7 +305,7 @@ layout: false
 
 --
 
-- Religion not only offers and account of the origins of human laws, but of the natural order of things in general.
+- Religion not only offers an account of the origins of human laws, but of the natural order of things in general.
 
 --
 
@@ -533,7 +533,7 @@ layout: false
 
 --
 
-- Would could discover the fundamental principles of ethics and how to implement them by relying on our innate capacity to reason.
+- We could discover the fundamental principles of ethics and how to implement them by relying on our innate capacity to reason.
 
 --
 
@@ -545,7 +545,7 @@ layout: false
 
 --
 
-- This view emphasizes hierarchy in nature, which we may doubt really exists.
+- This view emphasizes hierarchy of values in nature, which we may doubt really exists.
 
 --
 
@@ -584,7 +584,7 @@ The first brings up a long and involved debate about what is innate in human bei
 
 --
 
-The second requires another slide.
+What exactly do we mean by nature here? See next slides...
 
 ---
 layout: true
@@ -670,7 +670,7 @@ $4$. What violates natural functions is unnatural and wrong.
 
 --
 
-- Since this is a morally loaded idea, it must in some way depend on our choices -- we longer take it for granted that there is a natural order of things in the universe that dictates right and wrong as Aquinas and Aristotle once did.
+- Since this is a morally loaded idea, it must in some way depend on our choices -- we can no longer take it for granted that there is a natural order of things in the universe that dictates right and wrong as Aquinas and Aristotle once did.
 
 --
 
@@ -693,7 +693,7 @@ layout: false
 
 --
 
-- They are independent of "human nature," whatever it actually means.
+- They are independent of "human nature," whatever that actually means.
 
 --
 
