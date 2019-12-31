@@ -220,7 +220,7 @@ Thus Divine Command Theory is true -- God exists and is the basis of morality.
 ---
 layout: true
 
-### The Dilemma of DCT
+### *The Dilemma of DCT*
 
 ---
 
@@ -301,11 +301,11 @@ Does God command us not to murder, steal, lie, etc. **_because_** those things a
 ---
 layout: false
 
-### Natural Law Theory
+### *Natural Law Theory*
 
 --
 
-- Religion not only offers and account of the orgins of human laws, but of the natural order of things in general.
+- Religion not only offers and account of the origins of human laws, but of the natural order of things in general.
 
 --
 
@@ -321,12 +321,400 @@ Murder is wrong because it violates one of the fundamental tendencies of all liv
 
 ]
 
+---
+layout: true
+### *Aristotle on Natural Law*
+
+.left-column[
+
+<br>
+
+![:scale 80%, #222;](img/05/aristotle.jpg)
+
+.center[
+.note[384-322 BCE]
+]
+]
+---
+
+--
+
+.right-column[
+.note[
+
+Explaining anything in nature requires specifying its "four causes."
+
+]
+
+.example[
+
+1. **Material cause:** what is it made of?
+2. **Formal cause:** What kind of thing is it? 
+3. **Efficient cause:** What led to its current state? 
+4. **Final cause:** What is its purpose? 
+
+]
+]
+
+---
+
+.right-column[
+.note[
+
+Explaining anything in nature requires specifying its "four causes."
+
+]
+
+.example[
+
+1. **Material cause:** what is it made of?
+2. **Formal cause:** What kind of thing is it? 
+3. **Efficient cause:** What led to its current state? 
+4. **Final cause:** What is its purpose? 
+
+]
+
+<br>
+
+Aristotle provided the foundation for the ancient and medieval view of the natural world as a *hierarchical order* where everything has its proper place,  causes and functions.
+]
+
+---
+.right-column[
+
+.topcap[How does this apply to human beings?]
+
+]
+
+---
+.right-column[
+
+.topcap[How does this apply to human beings?]
+
+.argument[
+1. We are made of flesh and blood.
+2. We are rational and political animals.
+3. Our parents are the cause of our being as we are.
+4. Our function is to realize our natures, to attain true happiness through virtuous behavior.
+]
+]
 
 ---
 layout: false
+
+### *Aristotle on the good life*
+
+![:scale 40%, #222;](img/05/valtercirillo-paestum-1.jpg)
+
+
+True happiness arises from fulfilling our natures and this is the purpose of our lives. This requires cultivating our natural abilities to:
+
+--
+
+- reason and understand
+
+--
+
+- relate to others as friends, colleagues and family members
+
+--
+
+- participate in public life
+
+--
+
+- exercise good judgment in practical affairs
+
+---
+
+layout: true
+### *Aquinas on Natural Law*
+
+.left-column[
+
+<br>
+
+![:scale 80%, #222;](img/05/aquinas.jpg)
+
+.center[
+.note[1225-1274 CE]
+]
+]
+
+---
+
+--
+
+.right-column[
+.note[
+
+Aquinas took Aristotle's account of the order of nature and "Christianized" it, placing God at the top of the "Great Chain of Being." 
+
+]
+]
+
+---
+
+.right-column[
+.note[
+
+Aquinas took Aristotle's account of the order of nature and "Christianized" it, placing God at the top of the "Great Chain of Being." 
+
+]
+
+.example[
+
+Thus he argues that there are four "cardinal virtues."
+
+1. Prudence
+2. Temperance
+3. Courage
+4. Justice
+
+]
+]
+
+---
+
+.right-column[
+.note[
+
+Aquinas took Aristotle's account of the order of nature and "Christianized" it, placing God at the top of the "Great Chain of Being." 
+
+]
+
+.example[
+
+And four basic moral values, the maintenance of which is required to enable us to realize these virtues.
+
+1. Life
+2. Procreation
+3. Knowledge
+4. Sociability
+
+]
+]
+
+---
+
+.right-column[
+.note[
+
+Aquinas took Aristotle's account of the order of nature and "Christianized" it, placing God at the top of the "Great Chain of Being." 
+
+]
+
+.example[
+
+And four basic moral values, the maintenance of which is required to enable us to realize these virtues.
+
+1. Life
+2. Procreation
+3. Knowledge
+4. Sociability
+
+]
+
+.note[
+
+All of this is based on the idea that the universe was created by God for a purpose, with us at the center of things.
+
+]
+]
+
+---
+layout: false
+
+### *If NLT is true...*
+
+--
+
+- Morality would be an integral part of the order of things.
+
+--
+
+- Would could discover the fundamental principles of ethics and how to implement them by relying on our innate capacity to reason.
+
+--
+
+- We could assess societies based on whether or not they help their members to fulfill themselves as well-rounded, and virtuous people.
+
+--
+
+.topcap[But...]
+
+--
+
+- This view emphasizes hierarchy in nature, which we may doubt really exists.
+
+--
+
+- The human capacity for free choice is not emphasized and so freely choosing *not* to cultivate virtue would be morally wrong and not a matter to be left up to the individual.
+
+
+---
+layout: false
+### *Is NLT true?*
+
+--
+
+.topcap[The argument from human nature]
+
+--
+
+.example[
+
+Human beings have a definite nature, a set of built-in capacities.
+
+In general it is better to follow nature than go against it.
+
+*** 
+
+So we should act in such a way as to fulfill our nature as human beings and avoid violating what it is in our nature to do.
+
+]
+
+--
+
+This is a valid argument, but are the premises true?
+
+--
+
+The first brings up a long and involved debate about what is innate in human beings and what is learned or a product of our environments. It is far from clear...
+
+--
+
+The second requires another slide.
+
+---
+layout: true
+### *Is it wrong to go against nature?*
+
+---
+
+--
+
+.argument[
+
+$1$. What follows the Laws of Nature is better than what doesn't. 
+
+]
+
+--
+
+- One first definition of what is natural is the modern scientific definition: whatever is a part of Nature, the laws of which are described by science. 
+
+--
+
+- But *nothing* that exists violates these laws since they merely describe observed regularities.
+
+--
+ 
+- So in this sense it is .red[FALSE] that what is unnatural is wrong.
+
+---
+
+.argument[
+
+$2$. What is statistically uncommon is not natural and this is worse than what isn't. 
+
+]
+
+--
+
+- A second definition of the natural and the unnatural has to do with what follows statistical norms and what doesn't.
+
+--
+
+- Although it is true that some uncommon things are bad, such as terrorist attacks, others are neutral or good, such as talent and important discoveries. 
+
+--
+
+- So in this sense it is .red[FALSE] that what is unnatural is wrong.
+
+---
+
+.argument[
+
+$3$ What is artificial is unnatural and what is not artificial is both natural and inherently better. 
+
+]
+
+--
+
+- A third definition of the natural and the unnatural distinguishes between what is a product of Mother Nature and what is synthetic or created by us.
+
+--
+
+- Although many people assume that "natural" foods and ingredients are automatically better for us that artificial ones, there are plenty of perfectly natural diseases out there too, plus some artificial things like clothes are great. 
+
+--
+
+- So in this sense it is .red[FALSE] that what is unnatural is wrong.
+
+---
+
+.argument[
+
+$4$. What violates natural functions is unnatural and wrong. 
+
+]
+
+--
+
+- This last definition the natural and the unnatural is what Natural Law Theory rests on.
+
+--
+
+- The question here is who gets to decide what the natural functions of our bodies and our behaviors really are?  
+
+--
+
+- Since this is a morally loaded idea, it must in some way depend on our choices -- we longer take it for granted that there is a natural order of things in the universe that dictates right and wrong as Aquinas and Aristotle once did.
+
+--
+
+- So once again it is .red[FALSE] that what is unnatural is automatically wrong.
+
+---
+layout: false
+
+### *Which comes first ethics or religion?*
+
+- Historicially speaking cultures often express ethical concepts in religious terms and so religion *seems* to come first.
+
+--
+
+- But *logically* speaking ethics is independent of religion as we have seen.
+
+--
+
+- Ethical rules don't depend on authority.
+
+--
+
+- They are independent of "human nature," whatever it actually means.
+
+--
+
+- So *what* are ethical principles based on? 
+
+--
+
+.topcap[Stay tuned ...]
+
+---
+### find out more
+
+
+.example[
+
+]
+
+---
 class: center credits
 
-![:scale 50%, #222;](img/05/peter-h-6.jpg)
+![:scale 50%, #222;](img/05/valtercirillo-paestum-2.jpg)
 
 #### Credits
 
@@ -338,7 +726,7 @@ class: center credits
 
 *Photos by:*
 
-[Peter H](https://pixabay.com/users/tama66-1032521/) at Pixabay
+[Peter H](https://pixabay.com/users/tama66-1032521/) and [Valter Cirillo](https://pixabay.com/users/valtercirillo-3274677/) at Pixabay
 
 **For more slideshows visit:**
 
