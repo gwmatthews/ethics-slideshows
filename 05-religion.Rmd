@@ -681,7 +681,7 @@ layout: false
 
 ### *Which comes first ethics or religion?*
 
-- Historicially speaking cultures often express ethical concepts in religious terms and so religion *seems* to come first.
+- Historically speaking cultures often express ethical concepts in religious terms and so religion *seems* to come first.
 
 --
 
@@ -706,10 +706,13 @@ layout: false
 ---
 ### find out more
 
+[Religion and Morality](https://plato.stanford.edu/entries/religion-morality/): a comprehensive account of the long and complex interactions between these two important aspects of human culture at the *Stanford Encyclopedia of Philosophy*.
 
-.example[
+[Crash course video: Divine Command Theory](https://youtu.be/wRHBwxC8b8I): Hank Green's account is short succinct and to the point.
 
-]
+[Crash Course video: Natural Law Theory](https://youtu.be/r_UfYY7aWKo): another great video.
+
+[Can We Have Ethics Without Religion?](https://press.rebus.community/intro-to-phil-ethics/chapter/can-we-have-ethics-without-religion-on-divine-command-theory-and-natural-law-theory/), Jeffrey Morgan. Another helpful overview of the complex issues here from the *Introduction to Philosophy: Ethics* textbook.
 
 ---
 class: center credits
