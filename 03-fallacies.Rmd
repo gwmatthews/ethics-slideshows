@@ -232,7 +232,7 @@ Therefore segregation was acceptable.
 --
 
 .myright-column[
-The majority of course might be wrong, no matter how numerous there are. This is why democratic societies are not only based on the principle that the majority gets to decide but instead we all have rights that protect us from the majority.
+The majority of course might be wrong, no matter how numerous they are. This is why democratic societies are not only based on the principle that the majority gets to decide but instead we all have rights that protect us from the majority.
 ]
 
 ---
