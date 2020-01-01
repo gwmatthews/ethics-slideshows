@@ -1,0 +1,297 @@
+
+class: middle center
+
+### *Philosophical Ethics*
+
+*an introduction*
+
+![:scale 50%, #222;](img/01/tracks-04.jpg)
+
+George Matthews, Pennsylvania College of Technology
+
+*2020*
+
+.note[press "h" for help on keyboard controls]
+
+---
+
+### *the case of the runaway trolley*
+
+.example[
+
+You are standing near a switch next a railroad track when you notice a runaway trolley coming down the tracks in your direction. There are five children playing on the track below too far away to hear you. There is one worker on the other track where the trolley would go if you threw the switch.
+
+]
+
+--
+
+- *Would* you throw the switch?
+
+--
+
+- *Should* you throw the switch?
+
+--
+
+- **WHY?**
+
+---
+
+### *descriptive ethics*
+
+--
+
+- How do people actually respond to ethical dilemmas?
+
+--
+
+- What psychological and sociological explanations account for our ethical thinking and behavior?
+
+--
+
+- How might ethical thinking and behavior vary with circumstances, upbringing, culture or education?
+
+--
+
+.example[
+
+Cases like the runaway trolley have been studied extensively by moral psychologists.
+ 
+**One result**: most people say they would throw the switch.
+
+]
+
+---
+
+### *prescriptive ethics*
+
+--
+
+- How *should* we respond to ethical dilemmas and problems?
+
+--
+
+- What justifications are there for our moral claims and assumptions?
+
+--
+
+- How can we use critical rationality to establish ethical norms?
+
+--
+
+.example[
+
+Many of us assume that the consequences of our actions determine their rightness or wrongness.
+ 
+Is this a correct assumption? Do better consequences *really* make an act morally right?
+
+]
+
+---
+
+### *another runaway trolley*
+
+.example[
+
+You are standing on a bridge over a railroad track railroad when you notice a runaway trolley coming down the tracks in your direction. There are five children playing on the track below too far away to hear you. There is a rather large person next to you and if you push him in front of the trolley it will stop the trolley but kill him.
+
+]
+
+--
+
+- Most people would **not** push the person off the bridge to save the children.
+
+--
+
+- Why not, given that the consequences are the same in this case and the last?
+
+---
+
+### *meta-ethics*
+
+--
+
+- How do ethical language and thinking differ from other ways of speaking or thinking?
+
+--
+
+- Are ethical claims about the facts, are they opinions or are they something else entirely?
+
+--
+
+- Is there any hope for rationally settling conflicts in ethics?
+
+--
+
+.example[
+
+Are facts and opinions the only kinds of statements we can make?
+ 
+Or can we make other kinds of claims and *what exactly might they be?*
+
+]
+
+---
+layout: true
+class: double
+
+### *elements of philosophical ethics*
+---
+
+.example[1. .red[Appeal to reason]
+
+2. Attempt at universality
+
+3. Commitment to impartiality
+
+4. Insistence on overriding character of ethical principles
+]
+
+<br>
+
+- Philosophers trust reason as a method of discovering truth and producing genuine conviction. That might strike you as naive, but if you argue, aren't you relying on reasoning?
+
+---
+
+.example[1. Appeal to reason
+
+2. .red[Attempt at universality]
+
+3. Commitment to impartiality
+
+4. Insistence on overriding character of ethical principles
+]
+
+<br>
+
+- Ethics aspires to find principles that transcend individual cases and apply to all relevantly similar situations.
+
+---
+
+.example[1. Appeal to reason
+
+2. Attempt at universality
+
+3. .red[Commitment to impartiality]
+
+4. Insistence on overriding character of ethical principles
+]
+
+<br>
+
+- Right and wrong shouldn't depend on who you are, should they?
+
+---
+
+.example[1. Appeal to reason
+
+2. Attempt at universality
+
+3. Commitment to impartiality
+
+4. .red[Insistence on overriding character of ethical principles]
+]
+
+<br>
+
+- If ethics is about what is fundamentally right and wrong it overrides preference, customs and convenience.
+
+---
+layout: true
+class: wide
+
+### *our plan of attack*
+
+---
+.left-column[
+
+### .red[logic]
+
+]
+
+.right-column[
+
+![:scale 70%, #222;](img/01/tracks-01.jpg)]
+
+<br>
+
+Before anything else we need to know something about toolkit used by philosophers -- the critical assessment of arguments and the ways in which we often get things wrong in reasoning.
+
+---
+.left-column[
+
+### .gray[logic]
+
+### .red[ethical theory]
+
+]
+
+.right-column[
+
+![:scale 70%, #222;](img/01/tracks-02.jpg)]
+
+<br>
+
+Next we consider various theoretical approaches ethics. Here we examine the nature of and justification for ethical norms.
+
+---
+.left-column[
+
+### .gray[logic]
+
+### .gray[ethical theory]
+
+### .red[applied ethics]
+
+]
+
+.right-column[
+
+![:scale 70%, #222;](img/01/tracks-03.jpg)]
+
+<br>
+
+Finally we see how all of this plays out in the real world. Here we will examine many particular cases where values are at stake.
+
+---
+layout: false
+
+### find out more
+
+
+
+[The Trolley Problem](https://www.theguardian.com/science/head-quarters/2016/dec/12/the-trolley-problem-would-you-kill-one-person-to-save-many-others): an account of some recent rearch on the problem.
+
+[Socrates on self-confidence](https://youtu.be/_gVyEOefhIQ) and questioning others about their values. A great video outlining the motivation for doing philosophy in the first place.
+
+[It's impossible to lead a totally ethical life](https://qz.com/1327804/its-impossible-to-lead-a-totally-ethical-life-but-its-fun-to-try/): Ephrat Livni reflects on ethics and everyday life.
+
+[Introduction to Philosophy: Ethics](https://press.rebus.community/intro-to-phil-ethics/), ed. George Matthews. A free textbook, part of a series edited by Christina Hendricks.
+
+
+---
+class: center credits
+
+![:scale 50%, #222;](img/01/tracks-05.jpg)
+
+#### Credits
+
+*Built with:*
+
+[Rstudio](https://rstudio.com/products/rstudio/) 
+
+[xarignan](https://github.com/yihui/xaringan) html presentation framework 
+
+*Photos by:*
+
+James Matthews 
+
+**For more slideshows visit:**
+
+[ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
+
+[or get the source code](https://github.com/gwmatthews/ethics-slideshows) 
+
+
+
+.space[.]

@@ -1,18 +1,3 @@
----
-title: "Philosophical Ethics: an introduction"
-output:
-  xaringan::moon_reader:
-    seal: false
-    css: [default, raspberry-fonts.css, raspberry.css]
-    lib_dir: libs
-    includes:
-       in_header: my-header.html
-    nature:
-      countIncrementalSlides: false
-      beforeInit: macros.js
-#    chakra: ./libs
-      
----
 class: middle center
 
 ### *Philosophical Ethics*
