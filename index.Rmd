@@ -10,16 +10,22 @@ title: "ethics slideshows"
 <br><br>
 
 1. Philosophical Ethics
-
-[web](01-introduction-web.html)
-
-[print](01-introduction-print.html)
-
-[.pdf](./pdf/01-introduction.pdf)
-
-[print.pdf](./pdf/01-introduction-print.pdf)
-
-2. [A Little Logic](02-logic.html)  <span class="smaller">[.pdf](./02-logic.pdf)</span>
-3. [Fallacies and Biases](03-fallacies.html)  <span class="smaller">[.pdf](./03-fallacies.pdf)</span>
-4. [Moral Relativism](04-relativism.html)  <span class="smaller"> -- [download](./04-relativism.pdf) -- [printable](./04-relativism-print.pdf)</span>
-5. [Ethics and Religion](05-religion.html)  <span class="smaller">[.pdf](./05-religion.pdf)</span>
+- [web](01-introduction.html)
+- [download](./pdf/01-introduction.pdf)
+- [print](./pdf/01-introduction-print.pdf)
+2. A Little Logic
+- [web](02-logic.html)
+- [download](./pdf/02-logic.pdf)
+- [print](./pdf/02-logic-print.pdf)
+3. Fallacies and Biases
+- [web](03-fallacies.html)
+- [download](./pdf/03-fallacies.pdf)
+- [print](./pdf/03-fallacies-print.pdf)
+4. Moral Relativism
+- [web](04-relativism.html)
+- [download](./pdf/04-relativism.pdf)
+- [print](./pdf/04-relativism-print.pdf)
+5. Ethics and Religion
+- [web](05-religion.html)
+- [download](./pdf/05-religion.pdf)
+- [print](./pdf/05-religion-print.pdf)

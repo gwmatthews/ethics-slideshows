@@ -1,0 +1,14 @@
+---
+title: "Ethics and Religion: which comes first?"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: [default, raspberry-fonts.css, print.css]
+    lib_dir: libs
+    includes:
+       in_header: my-header.html
+    nature:
+      sourceUrl: 'source/05-religion'
+      countIncrementalSlides: false
+      beforeInit: macros.js
+---

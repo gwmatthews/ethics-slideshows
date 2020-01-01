@@ -140,3 +140,15 @@ th, td { padding: 5px; }
   display: none;
 }
 
+.remark-slide thead {
+  background: none;
+}
+
+.remark-slide tr:nth-child(2n) {
+  background: none;
+}
+
+h4 {
+  font-weight: bold;
+  color: black;
+}
