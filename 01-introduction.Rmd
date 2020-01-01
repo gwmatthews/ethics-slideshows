@@ -273,17 +273,15 @@ layout: false
 ### find out more
 
 
-.example[
 
-- [The Trolley Problem](https://www.theguardian.com/science/head-quarters/2016/dec/12/the-trolley-problem-would-you-kill-one-person-to-save-many-others): an account of some recent rearch on the problem.
+[The Trolley Problem](https://www.theguardian.com/science/head-quarters/2016/dec/12/the-trolley-problem-would-you-kill-one-person-to-save-many-others): an account of some recent rearch on the problem.
 
-- [Socrates on self-confidence](https://youtu.be/_gVyEOefhIQ) and questioning others about their values. A great video outlining the motivation for doing philosophy in the first place.
+[Socrates on self-confidence](https://youtu.be/_gVyEOefhIQ) and questioning others about their values. A great video outlining the motivation for doing philosophy in the first place.
 
-- [It's impossible to lead a totally ethical life](https://qz.com/1327804/its-impossible-to-lead-a-totally-ethical-life-but-its-fun-to-try/): Ephrat Livni reflects on ethics and everyday life.
+[It's impossible to lead a totally ethical life](https://qz.com/1327804/its-impossible-to-lead-a-totally-ethical-life-but-its-fun-to-try/): Ephrat Livni reflects on ethics and everyday life.
 
-- [Introduction to Philosophy: Ethics](https://press.rebus.community/intro-to-phil-ethics/), ed. George Matthews. A free textbook, part of a series edited by Christina Hendricks.
+[Introduction to Philosophy: Ethics](https://press.rebus.community/intro-to-phil-ethics/), ed. George Matthews. A free textbook, part of a series edited by Christina Hendricks.
 
-]
 
 ---
 class: center credits
