@@ -12,5 +12,5 @@ title: "ethics slideshows"
 1. [Philosophical Ethics](01-introduction.html)  <span class="smaller">[.pdf](./01-introduction.pdf)</span>
 2. [A Little Logic](02-logic.html)  <span class="smaller">[.pdf](./02-logic.pdf)</span>
 3. [Fallacies and Biases](03-fallacies.html)  <span class="smaller">[.pdf](./03-fallacies.pdf)</span>
-4. [Moral Relativism](04-relativism.html)  <span class="smaller"> -- [download](./04-relativism.pdf) -- [printable](./04-print.pdf)</span>
+4. [Moral Relativism](04-relativism.html)  <span class="smaller"> -- [download](./04-relativism.pdf) -- [printable](./04-relativism-print.pdf)</span>
 5. [Ethics and Religion](05-religion.html)  <span class="smaller">[.pdf](./05-religion.pdf)</span>
