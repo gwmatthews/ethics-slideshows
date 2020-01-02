@@ -19,6 +19,7 @@ clean :
 	rm -f ./pdf/*.log
 	rm -f ./pdf/*.synctex.gz
 	rm -f ./pdf/*.aux
+	rm -f *-src.html
 
 
 
