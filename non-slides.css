@@ -25,3 +25,11 @@ ol {
 .smaller {
   font-size: x-small;
 }
+
+ul {
+  margin-left: 2em;
+}
+
+ul > li {
+  list-style-type: circle;
+}

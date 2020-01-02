@@ -2,9 +2,9 @@ class:  middle, center
 
 ### *Egoism*
 
-#### *ethics and seflishness*
+#### *on ethics and seflishness*
 
-![:scale 50%, #222;  alt="photo"](img/06/michaelgaida-grafitti-1.jpg)
+![:scale 50%, #222;](img/06/michaelgaida-grafitti-1.jpg)
 
 George Matthews, Pennsylvania College of Technology
 
@@ -13,4 +13,192 @@ George Matthews, Pennsylvania College of Technology
 .note[press "h" for help on keyboard controls]
 
 ---
-### Are we all just selfish?
+### *What's in it for me?*
+
+
+
+
+---
+### *Two Varieties of Egoism*
+
+--
+
+.topcap[
+psychological egoism
+]
+
+.argument[
+
+We *cannot* be unselfish, so we should forget about even trying to be ethical.
+
+]
+
+--
+
+.topcap[
+ethical egoism
+]
+
+.argument[
+
+We *should not* be unselfish since there are good reasons to always put yourself first.
+
+]
+
+--
+
+.note[
+
+These are related but different ways of pointing out the limitations of ethics, as either *unrealistic* or *counter-productive.*
+
+]
+
+---
+### *Psychological Egoism*
+
+![:scale 50%, #222;](img/06/jinkyr-grafitti-1.jpg)
+
+--
+
+- A purely *descriptive* theory about the nature of human motivation.
+
+--
+
+- Claims that ethics is *impossible* since there are is such thing as "selfless good deeds."
+
+--
+
+- Presents itself as a realistic alternative to sentimental idealism about human beings.
+
+---
+### *Deflating altruism*
+
+--
+
+Psychological Egoism (PE) claims that all claims about selfless good deeds are exagerrated since we *always* have hidden selfish motives.
+
+--
+
+.topcap[
+
+one example:
+
+]
+
+.argument[
+
+So what if somebody gives their money to charity?
+
+They are probably just doing it to make themselves feel better.
+
+]
+
+--
+
+- How is this not just a cynical dismissal of generosity and a theory to be taken seriously?
+
+--
+
+- Let's consider the arguments...
+
+---
+layout: true
+### *Is PE true?*
+
+---
+
+--
+
+.topcap[
+
+my choices are for me
+
+]
+
+--
+
+.argument[
+
+If I freely decide to do something it must be for my own reasons, otherwise I couldn't act.
+
+This means all decisions of mine have motives.
+
+***
+
+So PE is true, everything I do deliberately is selfish.
+
+]
+
+--
+
+- This seems like common sense psychology.
+
+--
+
+- But perhaps there is a subtle shift of meaning here: does it follow that all motives are *for my sake alone* just because they are *mine?*
+
+---
+
+--
+
+.topcap[
+
+appealing to hidden motives
+
+]
+
+--
+
+.argument[
+
+In arguing against PE people often come up with counterexamples: cases of apparent altruism.
+
+And yet all of these can be explained away as the result of hidden selfish motives.
+
+***
+
+So psychological egoism is true.
+
+]
+
+--
+
+- Good theories need evidence to back them up.
+
+--
+
+- PE has *unlimited evidence* to back it up, since *any* action that seems altruistic can be dismissed as the result of hidden selfish motives, so it's a great theory, right?
+
+---
+layout: false
+
+### *Theories, evidence and testing*
+
+---
+
+layout: false
+class: center credits
+
+![:scale 50%, #222;](img/06/michaelgaida-grafitti-4.jpg)
+
+#### Credits
+
+*Built with:*
+
+[Rstudio](https://rstudio.com/products/rstudio/) 
+
+[xarignan](https://github.com/yihui/xaringan) html presentation framework 
+
+*Photos by:*
+
+
+
+**For more slideshows visit:**
+
+[ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
+
+[or get the source code](https://github.com/gwmatthews/ethics-slideshows) 
+
+[download](./pdf/06-egoism.pdf) -- [printable version](./pdf/06-egoism-print.pdf)
+
+
