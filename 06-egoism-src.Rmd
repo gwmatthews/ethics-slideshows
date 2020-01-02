@@ -13,13 +13,33 @@ George Matthews, Pennsylvania College of Technology
 .note[press "h" for help on keyboard controls]
 
 ---
-### *What's in it for me?*
+### *The Ring of Gyges*
 
+--
+
+.example[
+
+Gyges was a shepherd who found a golden ring in a cave, which made him invisible when he wore it. So he seduced the queen, killed the king and lived happily ever after.
+]
+
+.note[
+From an Ancient Persian tale related by Plato in *The Republic*.
+]
+
+--
+
+<br>
+
+- If you had such power, would you be able to resist the temptation to act on your selfish desires?
+
+--
+
+- Are people inherently selfish and only kept in check by fear of getting caught?
 
 
 
 ---
-### *Two Varieties of Egoism*
+### *The philosophy of selfishness*
 
 --
 
@@ -48,6 +68,8 @@ We *should not* be unselfish since there are good reasons to always put yourself
 --
 
 .note[
+
+<br>
 
 These are related but different ways of pointing out the limitations of ethics, as either *unrealistic* or *counter-productive.*
 
@@ -174,6 +196,28 @@ layout: false
 
 ### *Theories, evidence and testing*
 
+- A theory is an attempt to explain something.
+
+---
+
+
+---
+### *Ethical Egoism*
+
+![:scale 50%, #222;](img/06/jinkyr-grafitti-2.jpg)
+
+--
+
+- A *normative* theory about what we should and shouldn't do.
+
+--
+
+- Claims that ethics is *self-defeating* since acting for the sake of others ultimately leads to a worse outcome, for *all of us.*
+
+--
+
+- Often used in political and economic arguments about capitalism and socialism.
+
 ---
 
 layout: false
@@ -197,8 +241,4 @@ class: center credits
 
 [ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
 
-[or get the source code](https://github.com/gwmatthews/ethics-slideshows) 
-
-[download](./pdf/06-egoism.pdf) -- [printable version](./pdf/06-egoism-print.pdf)
-
-
+[download this presentation](./pdf/06-egoism.pdf) or [print it](./pdf/06-egoism-print.pdf)

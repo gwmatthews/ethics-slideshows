@@ -18,7 +18,7 @@ George Matthews, Pennsylvania College of Technology
 ---
 name: how-logical
 class: middle
-### How logical are we really?
+### *How logical are we really?*
 .pull-left[
 
 ![:scale 90%, #222](img/03/crescoli-electrical-cable-mess.jpg)
@@ -78,7 +78,7 @@ We may all be *capable* of listening to reason but...
 ---
 layout: false
 
-### *types of fallacies*
+### *Types of fallacies*
 
 --
 
@@ -112,7 +112,7 @@ layout: false
 
 ---
 
-### *types of cognitive biases*
+### *Types of cognitive biases*
 
 --
 
@@ -156,7 +156,7 @@ layout: true
 
 ---
 
-### .center[*appeal to authority*]
+### .center[*Appeal to authority*]
 
 .right-column[
 .example[
@@ -178,7 +178,7 @@ While we often have no choice but to rely on experts, simply appealing to their 
 
 ---
 
-### .center[*ad hominem*]
+### .center[*Ad hominem*]
 
 .right-column[
 .example[
@@ -200,7 +200,7 @@ Even if we might attack someone for not "praticing what they preach," that is re
 
 ---
 
-### .center[*popular appeal*]
+### .center[*Popular appeal*]
 
 .right-column[
 .example[
@@ -222,7 +222,7 @@ The majority of course might be wrong, no matter how numerous they are. This is 
 
 ---
 
-### .center[*appeal to force*]
+### .center[*Appeal to force*]
 
 .right-column[
 .example[
@@ -246,7 +246,7 @@ Threats might be effective as a way of getting people to do what you want, but t
 
 ---
 
-### .center[*appeal to consequences*]
+### .center[*Appeal to consequences*]
 
 .right-column[
 .example[
@@ -272,7 +272,7 @@ While we may not *like* the consequences of a theory, if the evidence really sup
 
 ---
 
-### .center[*naturalistic fallacy*]
+### .center[*Naturalistic fallacy*]
 
 .right-column[
 .example[
@@ -292,7 +292,7 @@ There are a couple of problems with this argument, first not all men and women f
 
 ---
 
-### .center[*genetic fallacy*]
+### .center[*Genetic fallacy*]
 
 .right-column[
 .example[
@@ -312,7 +312,7 @@ This fallacy is a generalization of the last one -- it appeals to the origins of
 
 ---
 
-### .center[*red herring*]
+### .center[*Red herring*]
 
 .right-column[
 .example[
@@ -332,7 +332,7 @@ This is less of a formal argument style and more of a debating tactic. Diverting
 
 ---
 
-### .center[*weak analogy*]
+### .center[*Weak analogy*]
 
 .right-column[
 .example[
@@ -369,7 +369,7 @@ layout: true
 
 ---
 
-### .center[*equivocation*]
+### .center[*Equivocation*]
 
 .right-column[
 .example[
@@ -395,7 +395,7 @@ This argument overlooks important differences between the meaning of "faith" in 
 
 ---
 
-### .center[*straw person*]
+### .center[*Straw person*]
 
 .right-column[
 .example[
@@ -419,7 +419,7 @@ This is a debating trick that fails to address the topic at hand in the interest
 
 ---
 
-### .center[*cherry picking*]
+### .center[*Cherry picking*]
 
 .right-column[
 .example[
@@ -460,7 +460,7 @@ layout: true
 
 ---
 
-### .center[*mere assertion*]
+### .center[*Mere assertion*]
 
 .right-column[
 .example[
@@ -480,7 +480,7 @@ This is not even really an argument, but a simple statement offered without evid
 
 ---
 
-### .center[*begging the question*]
+### .center[*Begging the question*]
 
 .right-column[
 .example[
@@ -500,7 +500,7 @@ While many people trust eyewitness testimony, the question here is how someone m
 
 ---
 
-### .center[*appeal to ignorance*]
+### .center[*Appeal to ignorance*]
 
 .right-column[
 .example[
@@ -524,7 +524,7 @@ Conspiracy theories often rely on appeals to ignorance like this. They shift the
 
 ---
 
-### .center[*false dilemma*]
+### .center[*False dilemma*]
 
 .right-column[
 .example[
@@ -544,7 +544,7 @@ This is a quote from Richard Nixon, who in the last days of his presidency, beli
 
 ---
 
-### .center[*hasty generalization*]
+### .center[*Hasty generalization*]
 
 .right-column[
 .example[
@@ -568,7 +568,7 @@ This is clearly too small a sample size to provide evidence for a claim about mi
 
 ---
 
-### .center[*slippery slope*]
+### .center[*Slippery slope*]
 
 .right-column[
 .example[
@@ -588,7 +588,7 @@ Alarmist claims about what *will* happen as a result of doing something or other
 
 ---
 
-### .center[*false cause*]
+### .center[*False cause*]
 
 .right-column[
 .example[
@@ -613,7 +613,7 @@ Isn't a better explanation here that after playing either better or worse than a
 ]
 ---
 
-### .center[*circular reasoning*]
+### .center[*Circular reasoning*]
 
 .right-column[
 .example[
@@ -654,7 +654,7 @@ layout: true
 
 ---
 
-### .center[*confirmation bias*]
+### .center[*Confirmation bias*]
 
 .right-column[
 .example[
@@ -674,7 +674,7 @@ The problem here lies in not taking into account *all* of the available evidence
 
 ---
 
-### .center[*group think*]
+### .center[*Group think*]
 
 .right-column[
 .example[
@@ -695,7 +695,7 @@ We often forget that we are fundamentally social beings heavily invested in what
 
 ---
 
-### .center[*wishful thinking*]
+### .center[*Wishful thinking*]
 
 .right-column[
 .example[
@@ -734,7 +734,7 @@ layout: true
 
 ---
 
-### .center[*anchoring effects*]
+### .center[*Anchoring effects*]
 
 .right-column[
 .example[
@@ -754,7 +754,7 @@ Even if nobody would pay such an outrageous price for a T-shirt just asking for 
 
 ---
 
-### .center[*the fundamental attribution error*]
+### .center[*The fundamental attribution error*]
 
 .right-column[
 .example[
@@ -774,7 +774,7 @@ When we account for our own behavior we have a (realistic) sense of the large in
 
 ---
 
-### .center[*the availability heuristic*]
+### .center[*The availability heuristic*]
 
 .right-column[
 .example[
@@ -794,7 +794,7 @@ A heuristic is a "rule of thumb" that might work in some contexts but fails in o
 ---
 layout:false
 
-### find out more
+### *Find out more*
 
 [Your Logical Fallacy Is](https://yourlogicalfallacyis.com/): A well designed website with good examples of a variety of fallacies.
 
@@ -828,6 +828,6 @@ Image by <a href="https://pixabay.com/users/AbsolutVision-6158753/?utm_source=li
 
 [ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
 
-[or get the source code](https://github.com/gwmatthews/ethics-slideshows) 
+[download this presentation](./pdf/03-fallacies.pdf) or [print it](./pdf/03-fallacies-print.pdf)
 
 

@@ -15,7 +15,7 @@ George Matthews, Pennsylvania College of Technology
 ---
 layout: true
 
-### *a basic distinction*
+### *A basic distinction*
 
 ---
 
@@ -99,7 +99,7 @@ Statements about values express how we think things *should be.*
 ---
 layout: true
 
-### *relativism*
+### *Moral relativism*
 
 ![:scale 50%, #222;  alt="photo"](img/04/sushi-prafalarcomomarcos.jpg)
 
@@ -109,7 +109,7 @@ layout: true
 
 .note[
 
-According to relativism...
+According to moral relativism...
 
 ]
 
@@ -153,7 +153,7 @@ QUESTION: are ethical norms like taste in food and thus subject to disagreement 
 layout: false
 
 
-### *a note on ethical theories*
+### *A note on ethical theories*
 
 ![:scale 50%, #222;  alt="photo"](img/04/sushi-2-sfbistrodubai.jpg)
 
@@ -176,7 +176,7 @@ Every theory we will look at:
 ---
 layout: true
 
-### *implications of relativism*
+### *Implications of relativism*
 
 <br>
 
@@ -316,7 +316,7 @@ Thus in the interests of tolerance we should accept that relativism is true.
 ---
 layout: true
 
-### *the big question*
+### *The big question*
 
 ![:scale 50%, #222; alt="photo"](img/04/sushi-juan-gallardo.jpg)
 
@@ -342,7 +342,7 @@ Or are moral claims more like judgments about facts or the law?
 ---
 layout: true
 
-### *assessing relativism*
+### *Assessing relativism*
 
 .left-column[
 
@@ -381,7 +381,7 @@ Plus it gets us off the hook and out of the hard work of really trying to unders
 ---
 layout: true
 
-### *assessing relativism*
+### *Assessing relativism*
 
 .left-column[
 
@@ -438,7 +438,7 @@ But wouldn't a relativist also have to accept that intolerance is just as "good"
 ---
 layout: true
 
-### *assessing relativism*
+### *Assessing relativism*
 
 .left-column[
 
@@ -503,7 +503,7 @@ All human cultures seem to share values like:
 ---
 layout:false
 
-### find out more
+### *Find out more*
 
 [Moral Relativism](https://plato.stanford.edu/entries/moral-relativism/): an in-depth examination at the *Stanford Encyclopedia of Philosophy*.
 
@@ -534,7 +534,4 @@ from <a href="https://pixabay.com/">Pixabay</a>
 
 [ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
 
-[or get the source code](https://github.com/gwmatthews/ethics-slideshows) 
-
-<br>
-
+[download this presentation](./pdf/04-relativism.pdf) or [print it](./pdf/04-relativism-print.pdf)

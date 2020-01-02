@@ -2,7 +2,7 @@ class:  middle, center
 
 ### *Ethics and Religion*
 
-#### *which comes first?*
+#### *Which comes first?*
 
 ![:scale 50%, #222;  alt="photo"](img/05/peter-h-1.jpg)
 
@@ -207,7 +207,7 @@ Thus Divine Command Theory is true -- God exists and is the basis of morality.
 ---
 layout: true
 
-### *The Dilemma of DCT*
+### *The dilemma of DCT*
 
 ---
 
@@ -310,7 +310,7 @@ Murder is wrong because it violates one of the fundamental tendencies of all liv
 
 ---
 layout: true
-### *Aristotle on Natural Law*
+### *Aristotle on natural law*
 
 .left-column[
 
@@ -415,7 +415,7 @@ True happiness arises from fulfilling our natures and this is the purpose of our
 ---
 
 layout: true
-### *Aquinas on Natural Law*
+### *Aquinas on natural law*
 
 .left-column[
 
@@ -691,7 +691,7 @@ layout: false
 .topcap[Stay tuned ...]
 
 ---
-### find out more
+### *Find out more*
 
 [Religion and Morality](https://plato.stanford.edu/entries/religion-morality/): a comprehensive account of the long and complex interactions between these two important aspects of human culture at the *Stanford Encyclopedia of Philosophy*.
 
@@ -722,12 +722,7 @@ class: center credits
 
 [ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
 
-[or get the source code](https://github.com/gwmatthews/ethics-slideshows) 
-
-
-
-<br>
-
+[download this presentation](./pdf/05-religion.pdf) or [print it](./pdf/05-religion-print.pdf)
 
 
 

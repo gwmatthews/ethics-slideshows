@@ -14,7 +14,7 @@ George Matthews, Pennsylvania College of Technology
 
 ---
 
-### *the case of the runaway trolley*
+### *The case of the runaway trolley*
 
 .example[
 
@@ -36,7 +36,7 @@ You are standing near a switch next a railroad track when you notice a runaway t
 
 ---
 
-### *descriptive ethics*
+### *Descriptive ethics*
 
 --
 
@@ -62,7 +62,7 @@ Cases like the runaway trolley have been studied extensively by moral psychologi
 
 ---
 
-### *prescriptive ethics*
+### *Prescriptive ethics*
 
 --
 
@@ -88,7 +88,7 @@ Is this a correct assumption? Do better consequences *really* make an act morall
 
 ---
 
-### *another runaway trolley*
+### *Another runaway trolley*
 
 .example[
 
@@ -106,7 +106,7 @@ You are standing on a bridge over a railroad track railroad when you notice a ru
 
 ---
 
-### *meta-ethics*
+### *Meta-ethics*
 
 --
 
@@ -134,7 +134,7 @@ Or can we make other kinds of claims and *what exactly might they be?*
 layout: true
 class: double
 
-### *elements of philosophical ethics*
+### *Elements of philosophical ethics*
 ---
 
 .example[1. .red[Appeal to reason]
@@ -199,7 +199,7 @@ class: double
 layout: true
 class: wide
 
-### *our plan of attack*
+### *Our plan of attack*
 
 ---
 .left-column[
@@ -255,7 +255,7 @@ Finally we see how all of this plays out in the real world. Here we will examine
 ---
 layout: false
 
-### find out more
+### *Find out more*
 
 
 
@@ -289,11 +289,6 @@ James Matthews
 
 [ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
 
-[or get the source code](https://github.com/gwmatthews/ethics-slideshows) 
-
-
-
-<br>
-
+[download this presentation](./pdf/01-introduction.pdf) or [print it](./pdf/01-introduction-print.pdf)
 
 

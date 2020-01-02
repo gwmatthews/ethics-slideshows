@@ -115,7 +115,7 @@ layout: true
 layout: false
 layout: true
 
-### *reasoning & logic*
+### *Reasoning & logic*
 
 ---
 
@@ -193,7 +193,7 @@ layout: true
 layout: false
 layout: true
 
-### *basic concepts*
+### *Basic concepts*
 
 .argument[
 All humans are mortal.
@@ -266,7 +266,7 @@ So if it's VALID we then want to know whether it's SOUND.
 layout: false
 layout: true
 
-### *more examples*
+### *More examples*
 
 ---
 
@@ -323,7 +323,7 @@ If the premises *were* true would the conclusion *have to be true* as well?
 ---
 layout: false
 
-### *proving validity*
+### *Proving validity*
 
 .example[
 
@@ -353,7 +353,7 @@ Assuming the premises are TRUE, we can prove the conclusion like so:
 
 ---
 
-### *counterexamples*
+### *Counterexamples*
 
 --
 
@@ -398,7 +398,7 @@ Its easier then it seems -- in this case we just find some ages that make the pr
 layout:false
 class: medium-text
 
-### *glossary*
+### *Glossary*
 
 - **Argument**: a series of statements in which the premises are intended to logically support the conclusion.
 
@@ -416,7 +416,7 @@ class: medium-text
 
 ---
 
-### find out more
+### *Find out more*
 
 [Critical Thinking Web](https://philosophy.hku.hk/think/): A great site with over 100 free tutorials on many aspects of logic and critical thinking. A nice way to hone your logical thinking skills.
 
@@ -453,9 +453,4 @@ and <a href="https://pixabay.com/users/Photorama-5047024/?utm_source=link-attrib
 
 [ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
 
-[or get the source code](https://github.com/gwmatthews/ethics-slideshows) 
-
-
-
-
-
+[download this presentation](./pdf/02-logic.pdf) or [print it](./pdf/02-logic-print.pdf)
