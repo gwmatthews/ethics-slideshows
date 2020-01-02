@@ -23,7 +23,7 @@ Gyges was a shepherd who found a golden ring in a cave, which made him invisible
 ]
 
 .note[
-From an Ancient Persian tale related by Plato in *The Republic*.
+From an Ancient Persian tale retold by Plato in *The Republic*.
 ]
 
 --
@@ -157,7 +157,7 @@ So PE is true, everything I do deliberately is selfish.
 
 --
 
-- But perhaps there is a subtle shift of meaning here: does it follow that all motives are *for my sake alone* just because they are *mine?*
+- But perhaps there is a subtle shift of meaning here: does it follow that all motives are *for my sake alone* just because they are *my motives*?
 
 ---
 
@@ -173,13 +173,13 @@ appealing to hidden motives
 
 .argument[
 
-In arguing against PE people often come up with counterexamples: cases of apparent altruism.
+If PE is true, it should be possible to find a hidden motive behind all apparently altruistic acts.
 
-And yet all of these can be explained away as the result of hidden selfish motives.
+We can find a hidden motive behind all apparently altruistic acts.
 
 ***
 
-So psychological egoism is true.
+So PE is true.
 
 ]
 
@@ -192,16 +192,88 @@ So psychological egoism is true.
 - PE has *unlimited evidence* to back it up, since *any* action that seems altruistic can be dismissed as the result of hidden selfish motives, so it's a great theory, right?
 
 ---
-layout: false
+layout: true
 
 ### *Theories, evidence and testing*
 
-- A theory is an attempt to explain something.
+---
+
+--
+
+- A theory is an attempt to explain something, but there are always many possible explanations for anything so how can we pick the best?
+
+--
+
+.topcap[
+Appealing to evidence in favor of your theory won't work.
+]
+
+--
+
+.example[
+
+If autism is caused by vaccinations, then many people who were vaccinated will have autism.
+
+Many vaccinated people do have autism.
+
+***
+
+Thus vaccination causes autism.
+
+]
+
+--
+
+- The problem here is a logical problem: this argument is .red[INVALID].
+
 
 ---
 
+- A theory is an attempt to explain something, but there are always many possible explanations for anything so how can we pick the best?
+
+--
+
+.topcap[
+A better approach is to test your claims.
+]
+
+--
+
+.example[
+
+If autism is caused by vaccinations, then people who were not vaccinated would have autism at lower rates.
+
+But autism rates are the same among people who were vaccinated and those who were not.
+
+***
+
+Thus vaccination does not cause autism.
+
+]
+
+--
+
+- This argument is .red[INVALID], and shows our explanation to be a bad explanation.
 
 ---
+
+- The best explanations are one that *can* be tested and that have not yet failed. 
+
+--
+
+- They is *falsifiable* but not *falsified.*
+
+--
+
+- The problem with Psychological Egoism is that it is *non-falsifiable*.
+
+--
+
+- No matter what examples of unselfish activity we give to a backer of this theory they always have a response, so there is no possible test that the theory can fail.
+
+---
+layout: false 
+
 ### *Ethical Egoism*
 
 ![:scale 50%, #222;](img/06/jinkyr-grafitti-2.jpg)

@@ -32,4 +32,4 @@ title: "ethics slideshows"
 6. Egoism
 - [web](06-egoism.html)
 - [download](./pdf/06-egoism.pdf)
-- [print](./pdf/05-egoism-print.pdf)
+- [print](./pdf/06-egoism-print.pdf)
