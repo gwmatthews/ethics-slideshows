@@ -1,0 +1,304 @@
+3/usr/bin/makepp
+VERSION2.0.98.55.26.1x86_64-linux-gnu-thread-multi
+DEBUG0
+LOAD56186c3987b0Makefile56186c5ae600/home/george/Documents/github/slides/ethics-slideshows56186c5ae600
+TRY56186c3987b0
+USEdefault rule
+DEPEND56186c3987b0
+UP_TO_DATE56186c3987b0
+LOAD_INCL56186ce34130makepp_builtin_rules.mk56186c395b88/usr/share/makepp56186c3987b0
+LOAD_END56186c3987b0
+TRY56186ce0ac78all56186c5ae600
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:8
+SCAN_INFO56186ce0ac78
+LEX_RULE56186ce0ac78info not cached
+PARSEecho All files are now up to date56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:8
+DEPEND56186ce0ac7856186ce3384801-introduction-print.pdf56186c5ae60056186c398dc801-introduction.pdf56186c5ae60056186ce24c5801-print.pdf56186c5ae60056186ce336c802-logic-print.pdf56186c5ae60056186ce24e2002-logic.pdf56186c5ae60056186ce24fe802-print.pdf56186c5ae60056186ce33d5803-fallacies-print.pdf56186c5ae60056186ce251b003-fallacies.pdf56186c5ae60056186ce2537803-print.pdf56186c5ae60056186ce2554004-print.pdf56186c5ae60056186ce33b0004-relativism-print.pdf56186c5ae60056186ce2570804-relativism.pdf56186c5ae60056186ce258d005-print.pdf56186c5ae60056186ce3320005-religion-print.pdf56186c5ae60056186ce2fc1005-religion.pdf56186c5ae60056186ce3357806-egoism-print.pdf56186c5ae60056186ce2fdd806-egoism.pdf56186c5ae60056186ce2ffa006-print.pdf56186c5ae600
+TRY56186ce33848
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+SCAN_INFO56186ce33848
+LEX_RULE56186ce33848info not cached
+PARSEpdflatex -output-directory ./pdf 01-introduction-print.tex 56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+LOAD_DEFAULT56186ce540a0bin56186ce53860/home/george/gems
+LOAD_INCL56186ce3413056186ce559e0makepp_default_makefile.mk56186c395b88
+LOAD_END56186ce559e0
+LOAD_DEFAULT56186ce78270bin56186ce76470/home/linuxbrew/.linuxbrew
+LOAD_INCL56186ce3413056186ce559e0
+LOAD_END56186ce559e0
+LOAD_DEFAULT56186ce7af70sbin56186ce76470
+LOAD_INCL56186ce3413056186ce559e0
+LOAD_END56186ce559e0
+TRY56186ce925f8pdflatex56186ce8a0c0/home/george/bin
+LOAD_DEFAULT56186ce8a0c0
+LOAD_INCL56186ce3413056186ce559e0
+LOAD_END56186ce559e0
+USEdefault rule
+DEPEND56186ce925f8
+UP_TO_DATE56186ce925f8
+PARSErm -f ./pdf/*.log56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+TRY56186ceae7c8rm56186ceac208/bin
+USEdefault rule
+DEPEND56186ceae7c8
+UP_TO_DATE56186ceae7c8
+PARSErm -f ./pdf/*.synctex.gz56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+PARSErm -f ./pdf/*.aux56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+DEPEND56186ce3384856186ce2bd3001-introduction-print.tex56186c5ae60056186ce925f856186ceae7c8
+TRY56186ce2bd30
+USEdefault rule
+DEPEND56186ce2bd30
+UP_TO_DATE56186ce2bd30
+BUILD_NONE56186ce33848
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1756186ce33848
+*** warning: I attempted to build /home/george/Documents/github/slides/ethics-slideshows/01-introduction-print.pdf,
+  but after successfully executing the commands, the target does not exist.
+  Perhaps it is a phony target?	 If so, the rule defining it should be modified
+  like this:
+    $(phony 01-introduction-print.pdf): dependencies
+	actions
+
+  or you could also declare it as phony like this:
+    .PHONY: 01-introduction-print.pdf
+TRY56186c398dc8
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+SCAN_INFO56186c398dc8
+LEX_RULE56186c398dc8info not cached
+PARSER -e 'pagedown::chrome_print("01-introduction.html", "pdf/01-introduction.pdf")'56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+TRY56186ceb1cb0R56186ceae1e0/usr/bin
+USEdefault rule
+DEPEND56186ceb1cb0
+UP_TO_DATE56186ceb1cb0
+DEPEND56186c398dc856186ce289c801-introduction.html56186c5ae60056186ceb1cb0
+TRY56186ce289c8
+USEdefault rule
+DEPEND56186ce289c8
+UP_TO_DATE56186ce289c8
+BUILD_NONE56186c398dc8
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1456186c398dc8
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/01-introduction.pdf is probably also phony.
+TRY56186ce24c58
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+SCAN_INFO56186ce24c58
+LEX_RULE56186ce24c58info not cached
+PARSER -e 'pagedown::chrome_print("01-print.html", "pdf/01-print.pdf")'56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+DEPEND56186ce24c5856186ce2bca001-print.html56186c5ae60056186ceb1cb0
+TRY56186ce2bca0
+USEdefault rule
+DEPEND56186ce2bca0
+UP_TO_DATE56186ce2bca0
+BUILD_NONE56186ce24c58
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1456186ce24c58
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/01-print.pdf is probably also phony.
+TRY56186ce336c8
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+SCAN_INFO56186ce336c8
+LEX_RULE56186ce336c8info not cached
+PARSEpdflatex -output-directory ./pdf 02-logic-print.tex 56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+PARSErm -f ./pdf/*.log56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+PARSErm -f ./pdf/*.synctex.gz56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+PARSErm -f ./pdf/*.aux56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+DEPEND56186ce336c856186ce2c51002-logic-print.tex56186c5ae60056186ce925f856186ceae7c8
+TRY56186ce2c510
+USEdefault rule
+DEPEND56186ce2c510
+UP_TO_DATE56186ce2c510
+BUILD_NONE56186ce336c8
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1756186ce336c8
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/02-logic-print.pdf is probably also phony.
+TRY56186ce24e20
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+SCAN_INFO56186ce24e20
+LEX_RULE56186ce24e20info not cached
+PARSER -e 'pagedown::chrome_print("02-logic.html", "pdf/02-logic.pdf")'56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+DEPEND56186ce24e2056186ce27f1802-logic.html56186c5ae60056186ceb1cb0
+TRY56186ce27f18
+USEdefault rule
+DEPEND56186ce27f18
+UP_TO_DATE56186ce27f18
+BUILD_NONE56186ce24e20
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1456186ce24e20
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/02-logic.pdf is probably also phony.
+TRY56186ce24fe8
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+SCAN_INFO56186ce24fe8
+LEX_RULE56186ce24fe8info not cached
+PARSER -e 'pagedown::chrome_print("02-print.html", "pdf/02-print.pdf")'56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+DEPEND56186ce24fe856186ce2c2d002-print.html56186c5ae60056186ceb1cb0
+TRY56186ce2c2d0
+USEdefault rule
+DEPEND56186ce2c2d0
+UP_TO_DATE56186ce2c2d0
+BUILD_NONE56186ce24fe8
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1456186ce24fe8
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/02-print.pdf is probably also phony.
+TRY56186ce33d58
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+SCAN_INFO56186ce33d58
+LEX_RULE56186ce33d58info not cached
+PARSEpdflatex -output-directory ./pdf 03-fallacies-print.tex 56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+PARSErm -f ./pdf/*.log56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+PARSErm -f ./pdf/*.synctex.gz56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+PARSErm -f ./pdf/*.aux56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+DEPEND56186ce33d5856186ce2c48003-fallacies-print.tex56186c5ae60056186ce925f856186ceae7c8
+TRY56186ce2c480
+USEdefault rule
+DEPEND56186ce2c480
+UP_TO_DATE56186ce2c480
+BUILD_NONE56186ce33d58
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1756186ce33d58
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/03-fallacies-print.pdf is probably also phony.
+TRY56186ce251b0
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+SCAN_INFO56186ce251b0
+LEX_RULE56186ce251b0info not cached
+PARSER -e 'pagedown::chrome_print("03-fallacies.html", "pdf/03-fallacies.pdf")'56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+DEPEND56186ce251b056186ce2827803-fallacies.html56186c5ae60056186ceb1cb0
+TRY56186ce28278
+USEdefault rule
+DEPEND56186ce28278
+UP_TO_DATE56186ce28278
+BUILD_NONE56186ce251b0
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1456186ce251b0
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/03-fallacies.pdf is probably also phony.
+TRY56186ce25378
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+SCAN_INFO56186ce25378
+LEX_RULE56186ce25378info not cached
+PARSER -e 'pagedown::chrome_print("03-print.html", "pdf/03-print.pdf")'56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+DEPEND56186ce2537856186ce2c75003-print.html56186c5ae60056186ceb1cb0
+TRY56186ce2c750
+USEdefault rule
+DEPEND56186ce2c750
+UP_TO_DATE56186ce2c750
+BUILD_NONE56186ce25378
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1456186ce25378
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/03-print.pdf is probably also phony.
+TRY56186ce25540
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+SCAN_INFO56186ce25540
+LEX_RULE56186ce25540info not cached
+PARSER -e 'pagedown::chrome_print("04-print.html", "pdf/04-print.pdf")'56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+DEPEND56186ce2554056186ce286f804-print.html56186c5ae60056186ceb1cb0
+TRY56186ce286f8
+USEdefault rule
+DEPEND56186ce286f8
+UP_TO_DATE56186ce286f8
+BUILD_NONE56186ce25540
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1456186ce25540
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/04-print.pdf is probably also phony.
+TRY56186ce33b00
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+SCAN_INFO56186ce33b00
+LEX_RULE56186ce33b00info not cached
+PARSEpdflatex -output-directory ./pdf 04-relativism-print.tex 56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+PARSErm -f ./pdf/*.log56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+PARSErm -f ./pdf/*.synctex.gz56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+PARSErm -f ./pdf/*.aux56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+DEPEND56186ce33b0056186ce2c24004-relativism-print.tex56186c5ae60056186ce925f856186ceae7c8
+TRY56186ce2c240
+USEdefault rule
+DEPEND56186ce2c240
+UP_TO_DATE56186ce2c240
+BUILD_NONE56186ce33b00
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1756186ce33b00
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/04-relativism-print.pdf is probably also phony.
+TRY56186ce25708
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+SCAN_INFO56186ce25708
+LEX_RULE56186ce25708info not cached
+PARSER -e 'pagedown::chrome_print("04-relativism.html", "pdf/04-relativism.pdf")'56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+DEPEND56186ce2570856186ce2839804-relativism.html56186c5ae60056186ceb1cb0
+TRY56186ce28398
+USEdefault rule
+DEPEND56186ce28398
+UP_TO_DATE56186ce28398
+BUILD_NONE56186ce25708
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1456186ce25708
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/04-relativism.pdf is probably also phony.
+TRY56186ce258d0
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+SCAN_INFO56186ce258d0
+LEX_RULE56186ce258d0info not cached
+PARSER -e 'pagedown::chrome_print("05-print.html", "pdf/05-print.pdf")'56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+DEPEND56186ce258d056186ce2854805-print.html56186c5ae60056186ceb1cb0
+TRY56186ce28548
+USEdefault rule
+DEPEND56186ce28548
+UP_TO_DATE56186ce28548
+BUILD_NONE56186ce258d0
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1456186ce258d0
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/05-print.pdf is probably also phony.
+TRY56186ce33200
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+SCAN_INFO56186ce33200
+LEX_RULE56186ce33200info not cached
+PARSEpdflatex -output-directory ./pdf 05-religion-print.tex 56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+PARSErm -f ./pdf/*.log56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+PARSErm -f ./pdf/*.synctex.gz56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+PARSErm -f ./pdf/*.aux56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+DEPEND56186ce3320056186ce2bb8005-religion-print.tex56186c5ae60056186ce925f856186ceae7c8
+TRY56186ce2bb80
+USEdefault rule
+DEPEND56186ce2bb80
+UP_TO_DATE56186ce2bb80
+BUILD_NONE56186ce33200
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1756186ce33200
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/05-religion-print.pdf is probably also phony.
+TRY56186ce2fc10
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+SCAN_INFO56186ce2fc10
+LEX_RULE56186ce2fc10info not cached
+PARSER -e 'pagedown::chrome_print("05-religion.html", "pdf/05-religion.pdf")'56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+DEPEND56186ce2fc1056186ce27e8805-religion.html56186c5ae60056186ceb1cb0
+TRY56186ce27e88
+USEdefault rule
+DEPEND56186ce27e88
+UP_TO_DATE56186ce27e88
+BUILD_NONE56186ce2fc10
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1456186ce2fc10
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/05-religion.pdf is probably also phony.
+TRY56186ce33578
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+SCAN_INFO56186ce33578
+LEX_RULE56186ce33578info not cached
+PARSEpdflatex -output-directory ./pdf 06-egoism-print.tex 56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+PARSErm -f ./pdf/*.log56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+PARSErm -f ./pdf/*.synctex.gz56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+PARSErm -f ./pdf/*.aux56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:17
+DEPEND56186ce3357856186ce27df806-egoism-print.tex56186c5ae60056186ce925f856186ceae7c8
+TRY56186ce27df8
+USEdefault rule
+DEPEND56186ce27df8
+UP_TO_DATE56186ce27df8
+BUILD_NONE56186ce33578
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1756186ce33578
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/06-egoism-print.pdf is probably also phony.
+TRY56186ce2fdd8
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+SCAN_INFO56186ce2fdd8
+LEX_RULE56186ce2fdd8info not cached
+PARSER -e 'pagedown::chrome_print("06-egoism.html", "pdf/06-egoism.pdf")'56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+DEPEND56186ce2fdd856186ce280c806-egoism.html56186c5ae60056186ceb1cb0
+TRY56186ce280c8
+USEdefault rule
+DEPEND56186ce280c8
+UP_TO_DATE56186ce280c8
+BUILD_NONE56186ce2fdd8
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1456186ce2fdd8
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/06-egoism.pdf is probably also phony.
+TRY56186ce2ffa0
+USE/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+SCAN_INFO56186ce2ffa0
+LEX_RULE56186ce2ffa0info not cached
+PARSER -e 'pagedown::chrome_print("06-print.html", "pdf/06-print.pdf")'56186c5ae600/home/george/Documents/github/slides/ethics-slideshows/Makefile:14
+DEPEND56186ce2ffa056186ce2c6c006-print.html56186c5ae60056186ceb1cb0
+TRY56186ce2c6c0
+USEdefault rule
+DEPEND56186ce2c6c0
+UP_TO_DATE56186ce2c6c0
+BUILD_NONE56186ce2ffa0
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:1456186ce2ffa0
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/06-print.pdf is probably also phony.
+BUILD_NONE56186ce0ac78
+SUCCESS/home/george/Documents/github/slides/ethics-slideshows/Makefile:856186ce0ac78
+*** warning: Target /home/george/Documents/github/slides/ethics-slideshows/all is probably also phony.
+N_FILES0190

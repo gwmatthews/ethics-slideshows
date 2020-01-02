@@ -9,7 +9,7 @@ output:
     includes:
        in_header: my-header.html
     nature:
-      sourceUrl: 'source/06-egoism-src.Rmd'
+      sourceUrl: '06-egoism-src.Rmd'
       countIncrementalSlides: false
       beforeInit: macros.js
       

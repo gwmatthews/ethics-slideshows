@@ -5,7 +5,7 @@ PDF_FILES=01-introduction.pdf 01-print.pdf 01-introduction-print.pdf \
 05-religion.pdf 05-print.pdf 05-religion-print.pdf \
 06-egoism.pdf 06-print.pdf 06-egoism-print.pdf
  
-all : $(PDF_FILES) 
+all : $(PDF_FILES)
 	echo All files are now up to date
 	
 clean :
@@ -15,7 +15,7 @@ clean :
 	R -e 'pagedown::chrome_print("$<", "pdf/$@")'
 
 %.pdf : %.tex
-	pdflatex -output-directory ./pdf $< 
+	pdflatex -output-directory pdf $< 
 	rm -f ./pdf/*.log
 	rm -f ./pdf/*.synctex.gz
 	rm -f ./pdf/*.aux

@@ -8,7 +8,7 @@ output:
     includes:
        in_header: my-header.html
     nature:
-      sourceUrl: 'source/01-introduction-src.Rmd'
+      sourceUrl: '01-introduction-src.Rmd'
       countIncrementalSlides: false
       beforeInit: macros.js
       

@@ -8,7 +8,7 @@ output:
     includes:
        in_header: my-header.html
     nature:
-      sourceUrl: 'source/04-relativism-src.Rmd'
+      sourceUrl: '04-relativism-src.Rmd'
       countIncrementalSlides: false
       beforeInit: macros.js
 ---
