@@ -2,14 +2,13 @@
 title: "Fallacies and Biases: how NOT to think logically"
 output:
   xaringan::moon_reader:
-    self_contained: TRUE
     seal: false
     css: [default, raspberry-fonts.css, raspberry.css]
     lib_dir: libs
     includes:
        in_header: my-header.html
     nature:
-      sourceUrl: 'source/03-fallacies'
+      sourceUrl: 'source/03-fallacies-src.Rmd'
       countIncrementalSlides: false
       beforeInit: macros.js
       

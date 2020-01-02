@@ -17,7 +17,7 @@ layout: true
 
 ### *What do I know?*
 
-.space[.]
+<br>
 
 ---
 

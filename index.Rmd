@@ -29,3 +29,8 @@ title: "ethics slideshows"
 - [web](05-religion.html)
 - [download](./pdf/05-religion.pdf)
 - [print](./pdf/05-religion-print.pdf)
+6. Egoism
+- [web](06-egoism.html)
+- [printable](06-print.html)
+- [download](./pdf/06-egoism.pdf)
+- [print](./pdf/05-egoism-print.pdf)

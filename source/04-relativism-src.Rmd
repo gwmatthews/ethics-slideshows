@@ -82,7 +82,7 @@ Statements about values express how we think things *should be.*
 ]
 ]
 
-.space[.]
+<br>
 
 --
 
@@ -127,7 +127,7 @@ According to relativism...
 
 ---
 
-.space[.]
+<br>
 
 .pull-left[
 
@@ -139,7 +139,7 @@ According to relativism...
 
 --
 
-.space[.]
+<br>
 
 .note[
 .wide[
@@ -178,7 +178,7 @@ layout: true
 
 ### *implications of relativism*
 
-.space[.]
+<br>
 
 ---
 
@@ -192,7 +192,7 @@ layout: true
 
 --
 
-.space[.]
+<br>
 
 .example[
 
@@ -210,7 +210,7 @@ But this implies that there is nothing, no matter how repugnant it seems, that c
 
 --
 
-.space[.]
+<br>
 
 .example[
 
@@ -228,7 +228,7 @@ Since progress assumes that there is a standard to compare one practice or belie
 
 --
 
-.space[.]
+<br>
 
 .example[
 
@@ -536,5 +536,5 @@ from <a href="https://pixabay.com/">Pixabay</a>
 
 [or get the source code](https://github.com/gwmatthews/ethics-slideshows) 
 
-.space[.]
+<br>
 

@@ -6,7 +6,7 @@ class: middle center
 
 ![:scale 50%, #222;](img/03/jonaskim-confusion.jpg)
 
-.space[.]
+<br>
 
 George Matthews, Pennsylvania College of Technology
 
@@ -106,7 +106,7 @@ layout: false
 
 --
 
-.space[.]
+<br>
 
 .note[NOTE: fallacies are typically invalid arguments that rely on tricks to close the gap between premises and conclusions.]
 
@@ -132,7 +132,7 @@ layout: false
 
 --
 
-.space[.]
+<br>
 
 .note[NOTE: cognitive biases are the result of the complexity of our mental "software" and the fact that our reasoning minds are not entirely separate from our emotional and perceptual minds.]
 
