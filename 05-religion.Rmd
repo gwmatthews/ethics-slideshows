@@ -3,12 +3,13 @@ title: "Ethics and Religion: which comes first?"
 output:
   xaringan::moon_reader:
     seal: false
-    css: [default, raspberry-fonts.css, raspberry.css]
+    css: ["default", "raspberry-fonts.css", "raspberry.css"]
     lib_dir: libs
     includes:
-       in_header: my-header.html
+       in_header: "my-header.html"
     nature:
-      sourceUrl: '05-religion-src.Rmd'
+      sourceUrl: "05-religion-src.Rmd"
       countIncrementalSlides: false
-      beforeInit: macros.js
+      beforeInit: "macros.js"
+      
 ---

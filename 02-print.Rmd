@@ -3,12 +3,13 @@ title: "A Little Logic"
 output:
   xaringan::moon_reader:
     seal: false
-    css: [default, raspberry-fonts.css, print.css]
+    css: ["default", "raspberry-fonts.css", "print.css"]
     lib_dir: libs
     includes:
-       in_header: my-header.html
+       in_header: "my-header.html"
     nature:
-      sourceUrl: '02-logic-src.Rmd'
+      sourceUrl: "02-logic-src.Rmd"
       countIncrementalSlides: false
-      beforeInit: macros.js
+      beforeInit: "macros.js"
+      
 ---

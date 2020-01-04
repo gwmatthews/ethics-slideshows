@@ -4,7 +4,7 @@ class:  middle, center
 
 #### *Which comes first?*
 
-![:scale 50%, #222;  alt="photo"](img/05/peter-h-1.jpg)
+![:scale 50%, #222;](img/05/peter-h-1.jpg)
 
 George Matthews, Pennsylvania College of Technology
 
@@ -33,7 +33,7 @@ Moral rules are taught by adults to children, often in religious contexts.
 
 ---
 
-![:scale 50%, #222;  alt="photo"](img/05/peter-h-4.jpg)
+![:scale 50%, #222;](img/05/peter-h-4.jpg)
 
 <br> 
 
@@ -43,20 +43,16 @@ Without this kind of moral training children end up not having a solid sense of 
 
 ]
 
-
 ---
-![:scale 50%, #222;  alt="photo"](img/05/peter-h-5.jpg)
+![:scale 50%, #222;](img/05/peter-h-5.jpg)
 
 <br>
-
 
 .argument[
 
 Religion *in fact* has historically provided a normative framework for social life -- religion is the source of social and ethical rules.
 
 ]
-
-
 
 ---
 layout: true
@@ -129,6 +125,7 @@ layout: false
 ]
 
 ---
+
 ### *If DCT is true...*
 
 --
@@ -151,9 +148,9 @@ layout: false
 
 - Non-religious people can't really have morality -- for them nothing would be ultimately forbidden.
 
-
 ---
 layout: true
+
 ### *Is DCT true?*
 
 ---
@@ -310,6 +307,7 @@ Murder is wrong because it violates one of the fundamental tendencies of all liv
 
 ---
 layout: true
+
 ### *Aristotle on natural law*
 
 .left-column[
@@ -322,6 +320,7 @@ layout: true
 .note[384-322 BCE]
 ]
 ]
+
 ---
 
 --
@@ -367,6 +366,7 @@ Aristotle provided the foundation for the ancient and medieval view of the natur
 ]
 
 ---
+
 .right-column[
 
 .topcap[How does this apply to human beings?]
@@ -541,6 +541,7 @@ layout: false
 
 ---
 layout: false
+
 ### *Is NLT true?*
 
 --
@@ -575,6 +576,7 @@ What does it mean to go against nature? Four different things...
 
 ---
 layout: true
+
 ### *Is it wrong to go against nature?*
 
 ---
@@ -691,6 +693,7 @@ layout: false
 .topcap[Stay tuned ...]
 
 ---
+
 ### *Find out more*
 
 [Religion and Morality](https://plato.stanford.edu/entries/religion-morality/): a comprehensive account of the long and complex interactions between these two important aspects of human culture at the *Stanford Encyclopedia of Philosophy*.

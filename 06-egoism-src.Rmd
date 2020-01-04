@@ -37,6 +37,7 @@ From an Ancient Persian tale retold by Plato in *The Republic*.
 - Are people inherently selfish and only kept in check by fear of getting caught?
 
 ---
+
 ### *The philosophy of selfishness*
 
 --
@@ -74,6 +75,7 @@ These are related but different ways of pointing out the limitations of ethics, 
 ]
 
 ---
+
 ### *Psychological Egoism*
 
 ![:scale 50%, #222;](img/06/jinkyr-grafitti-1.jpg)
@@ -123,6 +125,7 @@ They are probably just doing it to make themselves feel better.
 
 ---
 layout: true
+
 ### *Is PE true?*
 
 ---
@@ -269,6 +272,37 @@ Thus vaccination does not cause autism.
 
 - No matter what examples of unselfish activity we give to a backer of this theory they always have a response, so there is no possible test that the theory can fail.
 
+--
+
+- Is there always a hidden selfish motive behind everything we do? Maybe, maybe not, but PE hasn't shown it.
+
+
+---
+layout:false
+
+### *Me, Myself and I*
+
+--
+
+- Psychological egoism misses something important about human motivation: that it can be complex.
+
+--
+
+- We may easily have self-serving and altruistic motives at the same time and may not even be aware of this when we make decisions.
+
+--
+
+- Ethical egoism starts off by recognizing this.
+
+--
+
+- It argues, however, that we *should* disregard motives that are not self-serving because it is best to look out for ourselves first.
+
+--
+
+- Let's see why someone might argue this way.
+
+
 ---
 layout: false 
 
@@ -289,11 +323,198 @@ layout: false
 - Often used in political and economic arguments about capitalism and socialism.
 
 ---
+layout: true
 
+### *Adam Smith's "invisible hand"*
+
+.left-column[
+
+<br>
+
+![:scale 80%, #222;](img/06/adam-smith.jpg)
+
+.center[
+.note[1723-1790
+]
+]
+]
+
+---
+
+.right-column[
+
+- Adam Smith is often considered the founding father of capitalism due to his defense of the idea of free-market economics in his book *On the Wealth of Nations* published in 1776.
+
+]
+
+---
+
+.right-column[
+
+- Adam Smith is often considered the founding father of capitalism due to his defense of the idea of free-market economics in his book *On the Wealth of Nations* published in 1776.
+
+- Although Smith also spent much time reflecting on our "moral sentiments" he was a firm beleiver in the power of the marketplace to find solutions to social and economic problems.
+
+]
+
+---
+layout: true
+
+### *Rand on the virtue of selfishness*
+
+.left-column[
+
+<br>
+
+![:scale 80%, #222;](img/06/rand.jpg)
+
+.center[
+.note[1905-1982
+]
+]
+]
+
+---
+
+.right-column[
+
+- Ayn Rand, a Russian emigre to the US, a novelist and political thinker who gained an almost cult-like following.
+
+]
+
+
+---
+
+.right-column[
+
+- Ayn Rand, a Russian emigre to the US, a novelist and political thinker who gained an almost cult-like following.
+
+- She was deeply anti-communist and advocated an extreme form of individualism according to which it is just wrong to ever put someone else's interests ahead of one's own.
+
+]
+
+
+---
+
+.right-column[
+
+- Ayn Rand, a Russian emigre to the US, a novelist and political thinker who gained an almost cult-like following.
+
+- She was deeply anti-communist and advocated an extreme form of individualism according to which it is just wrong to ever put someone else's interests ahead of one's own.
+
+- Among her fans are Ronald Reagan, Alan Greenspan, Rand Paul and Donald Trump.
+
+]
+
+---
+layout: true
+
+### *Is Ethical Egoism true?*
+
+.topcap[
+
+The capitalist's argument
+
+]
+
+---
+
+--
+
+.example[
+
+Competition leads to the best social outcomes: greater productivity, innovation, performance, etc.
+
+The best way to encourage competition is by appealing to our individual desires for rewards.
+
+***
+
+So we should allow for and encourage selfish gain for the good of all.
+
+]
+
+--
+
+- Anytime someone appeals to the value of incentives, and attacks "socialism" for undermining incentives and encouraging laziness, this argument is in the backgrountd.
+
+---
+
+--
+
+In some cases competition does lead to a good outcome.
+
+--
+
+.red[But...]
+
+--
+
+- Competition is easily undermined by the winners of each "round."
+
+--
+
+- So monopolies are best broken up, the winning teams in sports get the *worst* draft picks, the rich are taxed at higher rates than the poor.
+
+--
+
+- We may wonder whether it even makes sense to argue that we should be encouraged to *put ourselves first*, since that is the best way *to indirectly help others* -- why not just help them directly?
+
+---
+layout: true
+
+### *Is Ethical Egoism true?*
+
+.topcap[
+
+Rand's argument
+
+]
+
+---
+
+.example[
+
+The most valuable thing about human life is individuality.
+
+Helping others is a denial of one's own individuality.
+
+***
+
+So one should never do anything for others.
+
+]
+
+--
+
+- Rand assumes that the pursuit of happiness is a *zero sum game.* 
+
+--
+
+- But isn't our success as a species a result of our ability to cooperate with each other?
+
+---
 layout: false
+
+### *from me to us*
+
+--
+
+Language, society, economics, governments, militaries, religions -- all require coordination, cooperation and the willingness to set one's own interests aside, to pursue common goals.
+
+
+---
+layout: false
+
+### *Find out more*
+
+[The New Age of Ayn Rand:](https://www.theguardian.com/books/2017/apr/10/new-age-ayn-rand-conquered-trump-white-house-silicon-valley) decades after her death her fiction continues to have an outsized influence on American public life. Read more about this here in this article from the British new site *The Guardian*.
+
+---
+layout: false
+
 class: center credits
 
-![:scale 50%, #222;](img/06/michaelgaida-grafitti-4.jpg)
+![:scale 50%, #222;](img/06/michaelgaida-grafitti-4.jpg) 
 
 #### Credits
 

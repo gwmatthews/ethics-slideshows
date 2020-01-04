@@ -1,0 +1,16 @@
+---
+title: "Kant and the ethics of duty"
+output:
+ xaringan::moon_reader:
+  seal: false
+  css: ["default", "raspberry-fonts.css", "raspberry.css"]
+  lib_dir: libs
+  includes:
+   in_header: "my-header.html"
+  nature:
+   beforeInit: "macros.js"
+   sourceUrl: "09-kant-src.Rmd"
+   countIncrementalSlides: false
+   
+   
+---

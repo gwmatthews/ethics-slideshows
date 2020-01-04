@@ -2,15 +2,14 @@
 title: "Egoism: ethics and selfishness"
 output:
   xaringan::moon_reader:
-    self_contained: TRUE
     seal: false
-    css: [default, raspberry-fonts.css, print.css]
+    css: ["default", "raspberry-fonts.css", "print.css"]
     lib_dir: libs
     includes:
-       in_header: my-header.html
+       in_header: "my-header.html"
     nature:
-      sourceUrl: '06-egoism-src.Rmd'
+      sourceUrl: "06-egoism-src.Rmd"
       countIncrementalSlides: false
-      beforeInit: macros.js
+      beforeInit: "macros.js"
       
 ---

@@ -1,4 +1,3 @@
-
 class: middle center
 
 ### *A Little Logic*
@@ -395,7 +394,7 @@ Its easier then it seems -- in this case we just find some ages that make the pr
 ]
 
 ---
-layout:false
+layout: false
 class: medium-text
 
 ### *Glossary*
