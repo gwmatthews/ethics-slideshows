@@ -1,0 +1,24 @@
+class:  middle, center
+
+### *Utilitarianism*
+
+#### *the best for the most*
+
+<!-- ![:scale 50%, #222;](img/06/michaelgaida-grafitti-1.jpg) -->
+
+George Matthews, Pennsylvania College of Technology
+
+*2020*
+
+.note[press "h" for help on keyboard controls]
+
+---
+
+
+
+---
+layout: false
+
+### *Find out more*
+
+[Poverty and Our Response to it](https://youtu.be/D5sknLy7Smo): in this Crash Course video, Hank Green discusses the morality of our responses to poverty and the work of a contemporary Utilitarian philosopher, Peter Singer.

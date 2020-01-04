@@ -2,7 +2,7 @@ class:  middle, center
 
 ### *Egoism*
 
-#### *on ethics and seflishness*
+#### *on ethics and selfishness*
 
 ![:scale 50%, #222;](img/06/michaelgaida-grafitti-1.jpg)
 
@@ -19,7 +19,7 @@ George Matthews, Pennsylvania College of Technology
 
 .example[
 
-Gyges was a shepherd who found a golden ring in a cave, which made him invisible when he wore it. So he seduced the queen, killed the king and lived happily ever after.
+Gyges was a shepherd who found a golden ring in a cave, and he discovered that it made him invisible when he wore it. So he seduced the local queen, killed the king and they lived happily ever after.
 ]
 
 .note[
@@ -43,8 +43,10 @@ From an Ancient Persian tale retold by Plato in *The Republic*.
 --
 
 .topcap[
-psychological egoism
+Psychological Egoism
 ]
+
+--
 
 .argument[
 
@@ -55,8 +57,10 @@ We *cannot* be unselfish, so we should forget about even trying to be ethical.
 --
 
 .topcap[
-ethical egoism
+Ethical Egoism
 ]
+
+--
 
 .argument[
 
@@ -86,7 +90,7 @@ These are related but different ways of pointing out the limitations of ethics, 
 
 --
 
-- Claims that ethics is *impossible* since there are is such thing as "selfless good deeds."
+- Claims that ethics is *impossible* since there is no such thing as a "selfless good deed."
 
 --
 
@@ -97,7 +101,7 @@ These are related but different ways of pointing out the limitations of ethics, 
 
 --
 
-Psychological Egoism (PE) claims that all claims about selfless good deeds are exagerrated since we *always* have hidden selfish motives.
+Psychological Egoism (PE) argues that all claims about selfless good deeds are mistaken since we *always* have hidden selfish motives.
 
 --
 
@@ -117,7 +121,7 @@ They are probably just doing it to make themselves feel better.
 
 --
 
-- How is this not just a cynical dismissal of generosity and a theory to be taken seriously?
+- How is this not just a cynical dismissal of generosity and instead a theory to be taken seriously?
 
 --
 
@@ -134,7 +138,7 @@ layout: true
 
 .topcap[
 
-my choices are for me
+My choices are mine...
 
 ]
 
@@ -144,7 +148,7 @@ my choices are for me
 
 If I freely decide to do something it must be for my own reasons, otherwise I couldn't act.
 
-This means all decisions of mine have motives.
+This means all decisions of mine have personal motives.
 
 ***
 
@@ -166,7 +170,7 @@ So PE is true, everything I do deliberately is selfish.
 
 .topcap[
 
-appealing to hidden motives
+The argument from hidden motives
 
 ]
 
@@ -201,7 +205,7 @@ layout: true
 
 --
 
-- A theory is an attempt to explain something, but there are always many possible explanations for anything so how can we pick the best?
+- A theory attempts to explain something, but there are always many possible explanations for anything. So how can we pick the best?
 
 --
 
@@ -211,7 +215,7 @@ Appealing to evidence in favor of your theory won't work.
 
 --
 
-.example[
+.argument[
 
 If autism is caused by vaccinations, then many people who were vaccinated will have autism.
 
@@ -229,8 +233,6 @@ Thus vaccination causes autism.
 
 
 ---
-
-- A theory is an attempt to explain something, but there are always many possible explanations for anything so how can we pick the best?
 
 --
 
@@ -254,15 +256,17 @@ Thus vaccination does not cause autism.
 
 --
 
-- This argument is .red[INVALID], and shows our explanation to be a bad explanation.
+- This argument is .red[VALID], and shows our explanation of the cause of autism to be a bad explanation.
 
 ---
 
-- The best explanations are one that *can* be tested and that have not yet failed. 
+--
+
+- All explanations must be *testable* and a real test requires at least the possibility of failure. 
 
 --
 
-- They is *falsifiable* but not *falsified.*
+- Good explanations are testable or *falsifiable* but pass those tests and have not been *falsified.*
 
 --
 
@@ -270,38 +274,41 @@ Thus vaccination does not cause autism.
 
 --
 
-- No matter what examples of unselfish activity we give to a backer of this theory they always have a response, so there is no possible test that the theory can fail.
+- No matter what examples of unselfishness we give to a backer of this theory they can always "find" a selfish motive, so there is *no possible test* that the theory can fail.
 
 --
 
-- Is there always a hidden selfish motive behind everything we do? Maybe, maybe not, but PE hasn't shown it.
+<br>
+
+Is there really always a selfish motive behind everything we do? Maybe, maybe not, but PE simply *assumes* it must be there.
 
 
 ---
 layout:false
 
-### *Me, Myself and I*
+### *Me, myself and I*
 
 --
 
-- Psychological egoism misses something important about human motivation: that it can be complex.
+- Psychological egoism misses something important about human motivation: it can be complex and our motives can be mixed.
 
 --
 
-- We may easily have self-serving and altruistic motives at the same time and may not even be aware of this when we make decisions.
+- We can have self-serving and altruistic motives at the same time and may not even be aware of this when we make decisions.
 
 --
 
-- Ethical egoism starts off by recognizing this.
+- .purple[Ethical Egoism] starts off by recognizing this.
 
 --
 
-- It argues, however, that we *should* disregard motives that are not self-serving because it is best to look out for ourselves first.
+- Ethical Egoists argue, however, that we *should* disregard motives that are not self-serving because it is always best to put ourselves first.
 
 --
 
-- Let's see why someone might argue this way.
+<br>
 
+Let's see why someone might argue this way.
 
 ---
 layout: false 
@@ -312,11 +319,11 @@ layout: false
 
 --
 
-- A *normative* theory about what we should and shouldn't do.
+- Ethical Egoism is a *normative* theory about what we should and shouldn't do.
 
 --
 
-- Claims that ethics is *self-defeating* since acting for the sake of others ultimately leads to a worse outcome, for *all of us.*
+- It claims that ethics is *self-defeating* since acting for the sake of others ultimately leads to a worse outcome, for *all of us.*
 
 --
 
@@ -341,9 +348,11 @@ layout: true
 
 ---
 
+--
+
 .right-column[
 
-- Adam Smith is often considered the founding father of capitalism due to his defense of the idea of free-market economics in his book *On the Wealth of Nations* published in 1776.
+- Adam Smith is often considered the founding father of capitalism for his defense of free-market economic principles the book *On the Wealth of Nations* published in 1776.
 
 ]
 
@@ -351,12 +360,23 @@ layout: true
 
 .right-column[
 
-- Adam Smith is often considered the founding father of capitalism due to his defense of the idea of free-market economics in his book *On the Wealth of Nations* published in 1776.
+- Adam Smith is often considered the founding father of capitalism for his defense of free-market economic principles the book *On the Wealth of Nations* published in 1776.
 
-- Although Smith also spent much time reflecting on our "moral sentiments" he was a firm beleiver in the power of the marketplace to find solutions to social and economic problems.
+- Although Smith also spent much time reflecting on our "moral sentiments" he was a firm believer in the power of competition in the marketplace to find solutions to social and economic problems.
 
 ]
 
+---
+
+.right-column[
+
+- Adam Smith is often considered the founding father of capitalism for his defense of free-market economic principles the book *On the Wealth of Nations* published in 1776.
+
+- Although Smith also spent much time reflecting on our "moral sentiments" he was a firm believer in the power of competition in the marketplace to find solutions to social and economic problems.
+
+- For Smith we need only allow people to pursue private gain in the marketplace and "the invisible hand" of supply and demand will ensure a socially optimal outcome -- fair prices, innovation, economic efficiency.
+
+]
 ---
 layout: true
 
@@ -376,9 +396,11 @@ layout: true
 
 ---
 
+--
+
 .right-column[
 
-- Ayn Rand, a Russian emigre to the US, a novelist and political thinker who gained an almost cult-like following.
+- Ayn Rand, a Russian emigre to the US, was a novelist and political thinker who gained an almost cult-like following.
 
 ]
 
@@ -387,9 +409,9 @@ layout: true
 
 .right-column[
 
-- Ayn Rand, a Russian emigre to the US, a novelist and political thinker who gained an almost cult-like following.
+- Ayn Rand, a Russian emigre to the US, was a novelist and political thinker who gained an almost cult-like following.
 
-- She was deeply anti-communist and advocated an extreme form of individualism according to which it is just wrong to ever put someone else's interests ahead of one's own.
+- She was deeply anti-communist and advocated an extreme form of individualism according to which it is simply *wrong* to ever put someone else's interests ahead of one's own.
 
 ]
 
@@ -398,9 +420,9 @@ layout: true
 
 .right-column[
 
-- Ayn Rand, a Russian emigre to the US, a novelist and political thinker who gained an almost cult-like following.
+- Ayn Rand, a Russian emigre to the US, was a novelist and political thinker who gained an almost cult-like following.
 
-- She was deeply anti-communist and advocated an extreme form of individualism according to which it is just wrong to ever put someone else's interests ahead of one's own.
+- She was deeply anti-communist and advocated an extreme form of individualism according to which it is simply *wrong* to ever put someone else's interests ahead of one's own.
 
 - Among her fans are Ronald Reagan, Alan Greenspan, Rand Paul and Donald Trump.
 
@@ -411,13 +433,15 @@ layout: true
 
 ### *Is Ethical Egoism true?*
 
+---
+
+--
+
 .topcap[
 
 The capitalist's argument
 
 ]
-
----
 
 --
 
@@ -425,17 +449,17 @@ The capitalist's argument
 
 Competition leads to the best social outcomes: greater productivity, innovation, performance, etc.
 
-The best way to encourage competition is by appealing to our individual desires for rewards.
+The best way to encourage competition is by appealing to our individual desires for rewards, our selfish desire to get ahead.
 
 ***
 
-So we should allow for and encourage selfish gain for the good of all.
+So we should encourage people to pursue individual gain and let the good of all take care of itself.
 
 ]
 
 --
 
-- Anytime someone appeals to the value of incentives, and attacks "socialism" for undermining incentives and encouraging laziness, this argument is in the backgrountd.
+- According to this argument, helping others hinders competition and undermines the benefits of competition.
 
 ---
 
@@ -449,20 +473,23 @@ In some cases competition does lead to a good outcome.
 
 --
 
-- Competition is easily undermined by the winners of each "round."
+- Competition is easily undermined by the winners of each "round," so rewarding winners does *not* automatically lead to the best outcomes.
 
 --
 
-- So monopolies are best broken up, the winning teams in sports get the *worst* draft picks, the rich are taxed at higher rates than the poor.
+- Winners in economics can establish monopolies that destroy competition.
 
 --
 
-- We may wonder whether it even makes sense to argue that we should be encouraged to *put ourselves first*, since that is the best way *to indirectly help others* -- why not just help them directly?
+- So they must be broken up, and likewise in sports -- the winning teams in get the *worst* draft picks to ensure *fair* competition in future seasons.
+
+--
+
+- The capitalist's argument has a deeper problem: Why would selfish people even *care* about the good of all? Is it still a defense of *Egoism* if we all do care?
 
 ---
-layout: true
 
-### *Is Ethical Egoism true?*
+--
 
 .topcap[
 
@@ -470,7 +497,7 @@ Rand's argument
 
 ]
 
----
+--
 
 .example[
 
@@ -486,26 +513,51 @@ So one should never do anything for others.
 
 --
 
-- Rand assumes that the pursuit of happiness is a *zero sum game.* 
+- Rand assumes that the pursuit of happiness is a *zero sum game*--my gain requires your loss and vice-versa.
 
 --
 
-- But isn't our success as a species a result of our ability to cooperate with each other?
+- But doesn't cooperation help us *all* out more than always going it alone?
 
 ---
 layout: false
 
-### *from me to us*
+### *From me to us*
 
 --
 
-Language, society, economics, governments, militaries, religions -- all require coordination, cooperation and the willingness to set one's own interests aside, to pursue common goals.
+- Egoism is based on a conception of human beings as *isolated individuals* each pursuing their own personal interests and only arbitrarily connected with others.
 
+--
+
+- This is too simple a model, since our unique capabilities as a species - language, life in complex societies, science, art and industry - require cooperation and coordination with others.
+
+--
+
+.topcap[
+
+The next big question is thus...
+
+]
+
+--
+
+.argument[
+
+Is there a rational basis for the rules governing our lives together in society? Or are we stuck with appealing to custom, authority and our shifting alliances with others to maintain social order?
+
+]
 
 ---
 layout: false
 
 ### *Find out more*
+
+[Egoism](https://plato.stanford.edu/entries/egoism/): a comprehensive account from the Stanford Encyclopedia of Philosophy.
+
+[What's in it for me?](https://press.rebus.community/intro-to-phil-ethics/chapter/whats-in-it-for-me-on-egoism-and-social-contract-theory/), Ya-Yun (Sherry) Kao, in *Introduction to Philosophy: Ethics.* This chapter covers Egoism as well as our next theory, Social Contract Theory.
+
+[Inequality in The USA](https://youtu.be/QPKKQnijnsM): a great video on what Americans want in terms of wealth distribution, our perception of what it is, and the reality. It turns out to be different than you might think.
 
 [The New Age of Ayn Rand:](https://www.theguardian.com/books/2017/apr/10/new-age-ayn-rand-conquered-trump-white-house-silicon-valley) decades after her death her fiction continues to have an outsized influence on American public life. Read more about this here in this article from the British new site *The Guardian*.
 
@@ -526,7 +578,7 @@ class: center credits
 
 *Photos by:*
 
-
+[Quentin Jouvray](https://pixabay.com/users/jinkyr-6852513/) and [Michael Gaida](https://pixabay.com/users/michaelgaida-652234/) at Pixabay
 
 **For more slideshows visit:**
 
