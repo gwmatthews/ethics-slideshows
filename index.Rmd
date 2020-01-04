@@ -33,10 +33,10 @@ title: "ethics slideshows"
 - [web](06-egoism.html)
 - [download](./pdf/06-egoism.pdf)
 - [print](./pdf/06-egoism-print.pdf)
-7. Social Contract Theory <!--
+7. Social Contract Theory
 - [web](07-contract.html)
 - [download](./pdf/07-contract.pdf)
-- [print](./pdf/07-contract-print.pdf)-->
+- [print](./pdf/07-contract-print.pdf)
 8. Utilitarianism <!--
 - [web](08-utilitarianism.html)
 - [download](./pdf/08-utilitarianism.pdf)

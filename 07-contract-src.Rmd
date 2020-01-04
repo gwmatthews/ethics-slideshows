@@ -1,0 +1,244 @@
+class:  middle, center
+
+### *Social Contract Theory*
+
+#### *ethics by agreement*
+
+![:scale 50%, #222;](img/07/police-2-gimp-workshop.jpg)
+
+George Matthews, Pennsylvania College of Technology
+
+*2020*
+
+.note[press "h" for help on keyboard controls]
+
+---
+### *The ties that bind*
+
+- Our social lives depend on our willingness to cooperate -- to sometimes set aside our own interests for the sake of others.
+
+- *Trust* is central to cooperation -- my willingness depends on your willingness and my trust that you will follow through.
+
+---
+layout:true
+
+### *Traditional and modern societies*
+---
+
+--
+
+.pull-left[
+.center[
+
+#### traditional
+
+]
+]
+
+--
+
+.pull-right[
+.center[
+
+#### modern
+
+]
+]
+
+---
+
+.pull-left[
+.center[
+
+#### traditional
+
+]
+
+.example[
+
+Rooted in time, place, culture, established authority and inherited roles.
+
+Conservative values: emphasis on stability and hierarchy.
+
+]
+]
+
+.pull-right[
+.center[
+
+#### modern
+
+]
+]
+
+---
+
+.pull-left[
+.center[
+
+#### traditional
+
+]
+
+.example[
+
+Rooted in time, place, culture, established authority and inherited roles.
+
+Conservative values: emphasis on stability and hierarchy.
+
+]
+]
+
+.pull-right[
+.center[
+
+#### modern
+
+]
+
+.example[
+
+Less bound by established tradition and hierarchy, society is an arena in which roles and rules are established by competition between indivudals.
+
+Liberal values: emphasis on progress and change. 
+
+]
+]
+
+
+--
+
+<br>
+
+.note[
+
+Most real societies are somewhere in the middle of these two, with some traditional and some modern institutions, aspects and values.
+
+]
+
+---
+layout: true
+
+### *Hobbes and the Social Contract*
+
+.left-column[
+
+<br>
+
+![:scale 80%, #222;](img/07/hobbes.jpg)
+
+.center[
+.note[1588-1679
+]
+]
+]
+---
+
+--
+
+.right-column[
+
+Thomas Hobbes was the founder of modern political philosophy.
+
+]
+
+--
+
+.right-column[
+
+In his 1651 book Leviathan he asks:
+
+- Assuming that there is no religion, no tradition and no stable set of social laws, how and why would a collection of individuals form a society, establish the rule of law and what would this society look like?
+
+]
+
+---
+
+.right-column[
+
+If there were no established laws and social rules, and we all lived in what Hobbes calls "The State of Nature," we would all be free to do as we please.
+
+]
+
+--
+
+.right-column[
+
+But, since there were no laws life would be a state of the "war of all against all," and there would be:
+
+> "No arts; no letters; no society; and which is worst of all, continual fear and danger of violent death; and the life of man solitary, poor, nasty, brutish, and short."
+
+]
+
+---
+
+.right-column[
+
+Thus it only makes sense that individuals in the state of nature would agree to establish rules limiting individual liberty in exchange for the security of the rule of law.
+
+]
+
+--
+
+.right-column[
+
+They would create an "artificial person" of a "commonwealth" and give it power to write and enforce laws regulating social interaction.
+
+]
+
+--
+
+.right-column[
+
+The rules of the social game are thus established and we would be fools not to enter into such a Social Contract.
+
+]
+
+---
+layout: true
+
+### *Locke's classical liberalism*
+
+.left-column[
+
+<br>
+
+![:scale 80%, #222;](img/07/locke.jpg)
+
+.center[
+.note[1632-1704
+]
+]
+]
+
+---
+
+
+
+
+---
+layout: false
+
+class: center credits
+
+![:scale 50%, #222;](img/07/police-1-mabel-amber.jpg) 
+
+#### Credits
+
+*Built with:*
+
+[Rstudio](https://rstudio.com/products/rstudio/) 
+
+[xarignan](https://github.com/yihui/xaringan) html presentation framework 
+
+*Photos by:*
+
+ and  at Pixabay
+
+**For more slideshows visit:**
+
+[ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
+
+[download this presentation](./pdf/07-contract.pdf) or [print it](./pdf/07-contract-print.pdf)
+
+[editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.

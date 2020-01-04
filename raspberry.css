@@ -150,8 +150,13 @@ th, td { padding: 5px; }
 .myright-column {
   width: 75%;
   float: right;
-  padding-top: 1em;
-  line-height: 1.5;
+  padding-top: 0;
+ }
+
+.right-column p {
+  margin-block-start: 0.7em;
+  margin-block-end: 0.7em;
+  
 }
 
 .smaller-text {
@@ -180,4 +185,8 @@ th, td { padding: 5px; }
 
 ul > li {
   list-style-type: circle;
+}
+
+blockquote {
+  border-radius: 15px;
 }
