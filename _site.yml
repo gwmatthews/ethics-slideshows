@@ -4,15 +4,16 @@ navbar:
   title: "戒律"
   left:
     - text: "ethics"
-      href: index.html
+      href: "index.html"
     - text: "about"
-      href: about.html
+      href: "about.html"
     - text: "GWM"
-      href: https://gwmatthews.github.io/
-
+      href: "https://gwmatthews.github.io/"
+favicon: "favicon.ico"
+apple-touch-icon: "apple-touch-icon.png"
 output:
   html_document:
-    theme: simplex
-    css: non-slides.css
+    theme: "simplex"
+    css: "non-slides.css"
     includes:
-       in_header: my-header.html
+       in_header: "my-header.html"
