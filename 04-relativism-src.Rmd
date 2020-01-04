@@ -535,3 +535,5 @@ from <a href="https://pixabay.com/">Pixabay</a>
 [ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
 
 [download this presentation](./pdf/04-relativism.pdf) or [print it](./pdf/04-relativism-print.pdf)
+
+[editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.

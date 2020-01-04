@@ -586,18 +586,4 @@ class: center credits
 
 [download this presentation](./pdf/06-egoism.pdf) or [print it](./pdf/06-egoism-print.pdf)
 
-
----
-  
-### *Editorial comments*
-
-If you have a GitHub account and want to make any editorial suggestions, please do so here.
-
-<script src="https://utteranc.es/client.js"
-        repo="gwmatthews/ethics-slideshows"
-        issue-term="title"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script
-
+[editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.

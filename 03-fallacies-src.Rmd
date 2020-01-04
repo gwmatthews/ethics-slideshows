@@ -830,4 +830,6 @@ Image by <a href="https://pixabay.com/users/AbsolutVision-6158753/?utm_source=li
 
 [download this presentation](./pdf/03-fallacies.pdf) or [print it](./pdf/03-fallacies-print.pdf)
 
+[editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.
+
 
