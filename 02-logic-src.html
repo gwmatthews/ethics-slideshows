@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>02-logic-src.utf8</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/simplex.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<!-- disable "show simplified view" in android -->
+<meta name="viewport" content="width=device-width, initial-scale=0.6, maximum-scale=2">
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+<link rel="stylesheet" href="non-slides.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 41px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h2 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h3 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h4 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h5 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.section h6 {
+  padding-top: 46px;
+  margin-top: -46px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">戒律</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">ethics</a>
+</li>
+<li>
+  <a href="about.html">about</a>
+</li>
+<li>
+  <a href="https://gwmatthews.github.io/">GWM</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+
+</div>
+
+
+<p>class: middle center</p>
+<div id="a-little-logic" class="section level3">
+<h3><em>A Little Logic</em></h3>
+<p><em>arguments, reasoning and proof</em></p>
+<div class="figure">
+<img src="img/02/lane-fractal-01.jpg" alt=":scale 50%, #222;" />
+<p class="caption">:scale 50%, #222;</p>
+</div>
+<p>George Matthews, Pennsylvania College of Technology</p>
+<p><em>2020</em></p>
+</div>
+<div id="notepress-h-for-help-on-keyboard-controls" class="section level2">
+<h2>.note[press “h” for help on keyboard controls]</h2>
+<p>layout: true</p>
+<div id="what-do-i-know" class="section level3">
+<h3><em>What do I know?</em></h3>
+<p><br></p>
+<hr />
+<p>.left-column[</p>
+<div id="lightgrayknowledge-is" class="section level4">
+<h4>.lightgray[Knowledge is]</h4>
+</div>
+<div id="darkgrayjustified" class="section level4">
+<h4>.darkgray[justified,]</h4>
+</div>
+<div id="darkgraytrue." class="section level4">
+<h4>.darkgray[true.]</h4>
+</div>
+<div id="darkgraybelief." class="section level4">
+<h4>.darkgray[belief.]</h4>
+<p>]</p>
+<p>.right-column[</p>
+<div class="figure">
+<img src="img/02/books-photorama.jpg" alt=":scale 70%, #222" />
+<p class="caption">:scale 70%, #222</p>
+</div>
+<p>]</p>
+<hr />
+<p>.left-column[</p>
+</div>
+<div id="lightgrayknowledge-is-1" class="section level4">
+<h4>.lightgray[Knowledge is]</h4>
+</div>
+<div id="darkgrayjustified-1" class="section level4">
+<h4>.darkgray[justified,]</h4>
+</div>
+<div id="darkgraytrue.-1" class="section level4">
+<h4>.darkgray[true.]</h4>
+</div>
+<div id="redbelief." class="section level4">
+<h4>.red[belief.]</h4>
+<p>]</p>
+<p>.right-column[</p>
+<p>.example[</p>
+<ul>
+<li><p>How can we know anything at all? This ancient philosophical question has troubled many people.</p></li>
+<li><p>First, note that knowledge is a state of mind, a type of <em>belief.</em> But there’s more to knowledge than belief.</p></li>
+</ul>
+<p>]]</p>
+<hr />
+<p>.left-column[</p>
+</div>
+<div id="lightgrayknowledge-is-2" class="section level4">
+<h4>.lightgray[Knowledge is]</h4>
+</div>
+<div id="darkgrayjustified-2" class="section level4">
+<h4>.darkgray[justified,]</h4>
+</div>
+<div id="redtrue" class="section level4">
+<h4>.red[true,]</h4>
+</div>
+<div id="lightgraybelief." class="section level4">
+<h4>.lightgray[belief.]</h4>
+<p>]</p>
+<p>.right-column[</p>
+<p>.example[</p>
+<ul>
+<li><p>To count as knowledge our beliefs have to be <em>true.</em></p></li>
+<li><p>While it may be hard to figure out just what the facts are, simply believing something strongly is not enough to make it true.</p></li>
+</ul>
+<p>]]</p>
+<hr />
+<p>.left-column[</p>
+</div>
+<div id="lightgrayknowledge-is-3" class="section level4">
+<h4>.lightgray[Knowledge is]</h4>
+</div>
+<div id="redjustified" class="section level4">
+<h4>.red[justified,]</h4>
+</div>
+<div id="lightgraytrue" class="section level4">
+<h4>.lightgray[true,]</h4>
+</div>
+<div id="lightgraybelief.-1" class="section level4">
+<h4>.lightgray[belief.]</h4>
+<p>]</p>
+<p>.right-column[</p>
+<p>.example[</p>
+<ul>
+<li><p>Finally we need <em>justification</em> for anything to really count as knowledge since knowledge is more than just lucky guessing.</p></li>
+<li><p>How we can justify our claims is one of the concerns of logic.</p></li>
+</ul>
+<p>]]</p>
+<p>.pull-left[</p>
+</div>
+<div id="deduction" class="section level4">
+<h4>deduction</h4>
+<ul>
+<li><p>Deductive logic is the logic of <em>proof</em>.</p></li>
+<li><p>It shows what else can we figure out based on what we already know.</p></li>
+<li><p>Deductive reasoning demonstrates the necessary consequences of given information.</p></li>
+</ul>
+<p>]</p>
+<p>–</p>
+<p>.pull-right[</p>
+<div class="figure">
+<img src="img/02/sudoku.jpg" alt=":scale 90%, #222" />
+<p class="caption">:scale 90%, #222</p>
+</div>
+<p>.note[Sudoku puzzles are pure deduction, no guesswork is required.]</p>
+</div>
+</div>
+</div>
+<div id="section" class="section level2">
+<h2>]</h2>
+<p>.pull-left[</p>
+<div id="induction" class="section level4">
+<h4>induction</h4>
+<ul>
+<li><p>Inductive logic is the logic of <em>data analysis</em>.</p></li>
+<li><p>It shows what is likely to be true given the data that we have.</p></li>
+<li><p>In spite of inductive reasoning being weaker than proof we rely on this kind of reasoning every day.</p></li>
+</ul>
+<p>]</p>
+<p>–</p>
+<p>.pull-right[</p>
+<div class="figure">
+<img src="img/02/sea-level.png" alt=":scale 90%, #222" />
+<p class="caption">:scale 90%, #222</p>
+</div>
+<p>.note[Probability theory and statistics enable us to make reliable guesses with incomplete information.]</p>
+<p>]</p>
+<hr />
+<p>.pull-left[</p>
+</div>
+<div id="abduction" class="section level4">
+<h4>abduction</h4>
+<ul>
+<li><p>Abductive reasoning is reasoning about the <em>best explanation</em> for something.</p></li>
+<li><p>It (tries to) show why one way of explaining the facts is better than other ways.</p></li>
+<li><p>One explanation is typically better than another when it is simpler and has more predictive power.</p></li>
+</ul>
+<p>]</p>
+<p>–</p>
+<p>.pull-right[</p>
+<div class="figure">
+<img src="img/02/principia.jpg" alt=":scale 90%, #222" />
+<p class="caption">:scale 90%, #222</p>
+</div>
+<p>.note[Scientific progress happens when scientists come up with better explanations. Isaac Newton did just that when he showed how all motion in the heavens and on earth followed a few basic laws.]</p>
+<p>]</p>
+<hr />
+<p>layout: false layout: true</p>
+</div>
+<div id="basic-concepts" class="section level3">
+<h3><em>Basic concepts</em></h3>
+<p>.argument[ All humans are mortal.</p>
+<p>Socrates is human.</p>
+<hr />
+<p>Thus Socrates is mortal. ]</p>
+<hr />
+<p>–</p>
+<p>This simple argument has two <strong>premises</strong> and a <strong>conclusion</strong>.</p>
+<p>–</p>
+<p>.double[The premises are the information we start out with and the conclusion is what we claim <em>logically follows from</em> that information.]</p>
+<hr />
+<p>We’d like to know two things about it:</p>
+<p>–</p>
+<ol style="list-style-type: decimal">
+<li>Is it .red[VALID]? Does the reasoning work?</li>
+</ol>
+<p>–</p>
+<ol start="2" style="list-style-type: decimal">
+<li>And if so is it .red[SOUND]? Is the information in the premises true?</li>
+</ol>
+<p>–</p>
+</div>
+</div>
+<div id="notenote-ill-write-technical-terms-in-all-capitals-its-not-shouting-just-a-reminder-that-we-are-using-these-words-in-particular-ways.-see-glossary-for-definitions." class="section level2">
+<h2>.note[<em>note:</em> I’ll write technical terms in all capitals – it’s not shouting, just a reminder that we are using these words in particular ways. See <a href="#44">glossary</a> for definitions.]</h2>
+<p>So is this argument VALID?</p>
+<p>–</p>
+<ul>
+<li>To check we <em>assume</em> that the premises are <strong>TRUE</strong> (don’t worry we’ll get rid of that assumption later).</li>
+</ul>
+<p>–</p>
+<ul>
+<li>Is it possible for the premises to be <strong>TRUE</strong> and the conclusion <strong>FALSE</strong>?</li>
+</ul>
+<p>–</p>
+<ul>
+<li>If not, then the argument is .red[VALID], as this one clearly is.</li>
+</ul>
+<hr />
+<p>So if it’s VALID we then want to know whether it’s SOUND.</p>
+<p>–</p>
+<ul>
+<li>Since a SOUND argument is a VALID one with true premises, we now get rid of our original assumption and check to see if they are true.</li>
+</ul>
+<p>–</p>
+<ul>
+<li>In this case they are – All humans <em>are</em> mortal, and Socrates was one.</li>
+</ul>
+<p>–</p>
+<ul>
+<li>So this argument is .red[SOUND]!</li>
+</ul>
+<p>.argument[ All cats are animals.</p>
+<p>My brother is an animal.</p>
+<hr />
+<p>Thus my brother is a cat. ]</p>
+<p>–</p>
+<p>Once again we start with an <em>assumption</em> – let’s suppose that the premises are TRUE.</p>
+<p>–</p>
+<ul>
+<li>Does the conclusion <strong>have to be true</strong> as well?</li>
+</ul>
+<p>–</p>
+<ul>
+<li>Clearly not, just ask him. Sound it is INVALID and thus alos UNSOUND.</li>
+</ul>
+<p>–</p>
+<ul>
+<li>The premises here refer to three <em>different</em> categories which are related in some way, but not in the way the conclusion states.</li>
+</ul>
+<hr />
+<p>.argument[ All cats are fish.</p>
+<p>All fish are made of wood.</p>
+<hr />
+<p>Thus all cats are made of wood. ]</p>
+<p>–</p>
+<p>If the premises <em>were</em> true would the conclusion <em>have to be true</em> as well?</p>
+<p>–</p>
+<ul>
+<li>Yes, so it is .red[VALID].</li>
+</ul>
+<p>–</p>
+<ul>
+<li>If cats were part of the larger class “fish” and fish were themselves part of a larger class “things made of wood” then cats would have to be made of wood. (This is a mini PROOF of validity, more on that later.)</li>
+</ul>
+<div id="counterexamples" class="section level3">
+<h3><em>Counterexamples</em></h3>
+<p>–</p>
+<p>.example[</p>
+<p>Betty is older than Barney and younger than Fred.</p>
+<p>Wilma is younger than Fred.</p>
+<hr />
+<p>Thus Betty is younger than Wilma.</p>
+<p>]</p>
+<p>–</p>
+<p>.pull-left[</p>
+<p>To show that an argument is INVALID we have to show that the conclusion <em>might</em> be false even if the premises were true.</p>
+<p>Its easier then it seems – in this case we just find some ages that make the premises TRUE and the conclusion FALSE.</p>
+<p>]</p>
+<p>–</p>
+<p>.pull-right[</p>
+<p>.center[a counterexample]</p>
+<table>
+<thead>
+<tr class="header">
+<th align="center">person</th>
+<th align="center">age</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="center">Barney</td>
+<td align="center">35</td>
+</tr>
+<tr class="even">
+<td align="center">Betty</td>
+<td align="center">40</td>
+</tr>
+<tr class="odd">
+<td align="center">Fred</td>
+<td align="center">45</td>
+</tr>
+<tr class="even">
+<td align="center">Wilma</td>
+<td align="center">38</td>
+</tr>
+</tbody>
+</table>
+<p>]</p>
+</div>
+<div id="find-out-more" class="section level3">
+<h3><em>Find out more</em></h3>
+<p><a href="https://philosophy.hku.hk/think/">Critical Thinking Web</a>: A great site with over 100 free tutorials on many aspects of logic and critical thinking. A nice way to hone your logical thinking skills.</p>
+<p><a href="https://www.iep.utm.edu/ded-ind/">Deductive and Inductive Arguments</a>: An in depth look at the subject at the Internet Encyclopedia of Philosophy.</p>
+<p><a href="https://plato.stanford.edu/entries/abduction/#">Abduction</a>: A close look at the logic of scientific explanation. Gets technical, but the introduction is accessible.</p>
+<p><a href="https://youtu.be/4JYL5VUe5NQ">The Irrationality of Politics</a>: Michael Huemer is a professor of philosophy at the University of Colorado. This TED Talk by him addresses the question of why we are so irrational when it comes to politics.</p>
+<hr />
+<p>class: center credits</p>
+<p>.credit-image[ <img src="img/02/lane-fractal-05.jpg" alt=":scale 60%, #222;" />]</p>
+<div id="credits" class="section level4">
+<h4>Credits</h4>
+<p><em>Built with:</em></p>
+<p><a href="https://rstudio.com/products/rstudio/">Rstudio</a></p>
+<p><a href="https://github.com/yihui/xaringan">xarignan</a> html presentation framework</p>
+<p><em>Images by:</em></p>
+<p><a href="https://pixabay.com/users/BarbaraALane-756613/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3232784">Barbara A Lane</a>, <a href="https://pixabay.com/users/Gellinger-201217/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3371225">Gerhard Gellinger</a>, <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=706380">Gerd Altmann</a> and <a href="https://pixabay.com/users/Photorama-5047024/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2337525">Photorama</a> @ <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3232784">Pixabay</a></p>
+<p><strong>For more slideshows visit:</strong></p>
+<p><a href="https://gwmatthews.github.io/ethics-slideshows/index.html">ethics slideshows home page</a></p>
+<p><a href="./pdf/02-logic.pdf">download this presentation</a> or <a href="./pdf/02-logic-print.pdf">print it</a></p>
+</div>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.header').parent('thead').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>
