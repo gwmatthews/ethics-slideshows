@@ -5,7 +5,7 @@ PDF_FILES=01-introduction.pdf 01-print.pdf 01-introduction-print.pdf \
 05-religion.pdf 05-print.pdf 05-religion-print.pdf \
 06-egoism.pdf 06-print.pdf 06-egoism-print.pdf
 
-pdf : $(PDF_FILES)
+all : $(PDF_FILES)
 	echo All files are now up to date
 	
 clean :
@@ -14,6 +14,9 @@ clean :
 	rm -f ./pdf/*.synctex.gz
 	rm -f ./pdf/*.aux
 	rm -f LICENSE.html
+	
+cleanpdf :
+	rm -f ./pdf/*.pdf
 
 %.pdf : %.html
 	R -e 'pagedown::chrome_print("$<", "pdf/$@")'

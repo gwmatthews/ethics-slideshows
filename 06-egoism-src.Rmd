@@ -362,16 +362,6 @@ layout: true
 
 - Adam Smith is often considered the founding father of capitalism for his defense of free-market economic principles the book *On the Wealth of Nations* published in 1776.
 
-- Although Smith also spent much time reflecting on our "moral sentiments" he was a firm believer in the power of competition in the marketplace to find solutions to social and economic problems.
-
-]
-
----
-
-.myright-column[
-
-- Adam Smith is often considered the founding father of capitalism for his defense of free-market economic principles the book *On the Wealth of Nations* published in 1776.
-
 - For Smith we need only allow people to pursue private gain in the marketplace and "the invisible hand" of supply and demand will ensure a socially optimal outcome -- fair prices, innovation, economic efficiency.
 
 ]

@@ -343,22 +343,6 @@ Explaining anything in nature requires specifying its "four causes."
 
 .right-column[
 
-Explaining anything in nature requires specifying its "four causes."
-
-.example[
-
-1. **Material cause:** what is it made of?
-2. **Formal cause:** What kind of thing is it? 
-3. **Efficient cause:** What led to its current state? 
-4. **Final cause:** What is its purpose? 
-
-]
-]
-
----
-
-.right-column[
-
 How does this apply to human beings?
 
 ]
