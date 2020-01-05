@@ -326,11 +326,8 @@ layout: true
 --
 
 .right-column[
-.note[
 
 Explaining anything in nature requires specifying its "four causes."
-
-]
 
 .example[
 
@@ -345,11 +342,8 @@ Explaining anything in nature requires specifying its "four causes."
 ---
 
 .right-column[
-.note[
 
 Explaining anything in nature requires specifying its "four causes."
-
-]
 
 .example[
 
@@ -358,9 +352,7 @@ Explaining anything in nature requires specifying its "four causes."
 3. **Efficient cause:** What led to its current state? 
 4. **Final cause:** What is its purpose? 
 
-]
-
-<br>
+]3
 
 Aristotle provided the foundation for the ancient and medieval view of the natural world as a *hierarchical order* where everything has its proper place,  causes and functions.
 ]
@@ -369,14 +361,14 @@ Aristotle provided the foundation for the ancient and medieval view of the natur
 
 .right-column[
 
-.topcap[How does this apply to human beings?]
+How does this apply to human beings?
 
 ]
 
 ---
 .right-column[
 
-.topcap[How does this apply to human beings?]
+How does this apply to human beings?
 
 .argument[
 1. We are made of flesh and blood.
@@ -433,21 +425,16 @@ layout: true
 --
 
 .right-column[
-.note[
 
-Aquinas took Aristotle's account of the order of nature and "Christianized" it, placing God at the top of the "Great Chain of Being." 
+Aquinas added God to Aristotle's natural order of things. 
 
-]
 ]
 
 ---
 
 .right-column[
-.note[
 
-Aquinas took Aristotle's account of the order of nature and "Christianized" it, placing God at the top of the "Great Chain of Being." 
-
-]
+Aquinas added God to Aristotle's natural order of things. 
 
 .example[
 
@@ -464,11 +451,8 @@ Thus he argues that there are four "cardinal virtues."
 ---
 
 .right-column[
-.note[
 
-Aquinas took Aristotle's account of the order of nature and "Christianized" it, placing God at the top of the "Great Chain of Being." 
-
-]
+Aquinas added God to Aristotle's natural order of things. 
 
 .example[
 
@@ -478,33 +462,6 @@ And four basic moral values, the maintenance of which is required to enable us t
 2. Procreation
 3. Knowledge
 4. Sociability
-
-]
-]
-
----
-
-.right-column[
-.note[
-
-Aquinas took Aristotle's account of the order of nature and "Christianized" it, placing God at the top of the "Great Chain of Being." 
-
-]
-
-.example[
-
-And four basic moral values, the maintenance of which is required to enable us to realize these virtues.
-
-1. Life
-2. Procreation
-3. Knowledge
-4. Sociability
-
-]
-
-.note[
-
-All of this is based on the idea that the universe was created by God for a purpose, with us at the center of things.
 
 ]
 ]
@@ -568,7 +525,7 @@ This is a valid argument, but are the premises true?
 
 --
 
-The first brings up a long and involved debate about what is innate in human beings and what is learned or a product of our environments. It is far from clear...
+The first is unclear -- how much is nature how much nurture?
 
 --
 
