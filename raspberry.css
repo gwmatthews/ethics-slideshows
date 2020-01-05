@@ -154,10 +154,9 @@ th, td { padding: 5px; }
  }
 
 .right-column p {
-  margin-block-start: 0.7em;
-  margin-block-end: 0.7em;
+  margin-bottom: -0.5em;
   
-}
+  }
 
 .smaller-text {
   font-size: smaller;

@@ -15,9 +15,30 @@ George Matthews, Pennsylvania College of Technology
 ---
 ### *The ties that bind*
 
+--
+
 - Our social lives depend on our willingness to cooperate -- to sometimes set aside our own interests for the sake of others.
 
+--
+
 - *Trust* is central to cooperation -- my willingness depends on your willingness and my trust that you will follow through.
+
+--
+
+.topcap[
+
+Our next question:
+
+]
+
+--
+
+.argument[
+
+Is there a *rational basis* for trust, or must trust be based on something besides reason, like feelings of sympathy, shared history, or emotional identification?
+
+
+]
 
 ---
 layout:true
@@ -98,7 +119,7 @@ Conservative values: emphasis on stability and hierarchy.
 
 .example[
 
-Less bound by established tradition and hierarchy, society is an arena in which roles and rules are established by competition between indivudals.
+Less bound by established tradition and hierarchy, society is an arena in which roles and rules are established by competition between individuals.
 
 Liberal values: emphasis on progress and change. 
 
@@ -146,10 +167,18 @@ Thomas Hobbes was the founder of modern political philosophy.
 
 .right-column[
 
-In his 1651 book Leviathan he asks:
+In his 1651 book *Leviathan* he asks:
 
-- Assuming that there is no religion, no tradition and no stable set of social laws, how and why would a collection of individuals form a society, establish the rule of law and what would this society look like?
+]
 
+--
+
+.right-column[
+.narrow-text[
+
+Assuming that there is no religion, no tradition and no stable set of social laws, how and why would a collection of individuals form a society, establish the rule of law and what would this society look like?
+
+]
 ]
 
 ---
@@ -166,8 +195,16 @@ If there were no established laws and social rules, and we all lived in what Hob
 
 But, since there were no laws life would be a state of the "war of all against all," and there would be:
 
-> "No arts; no letters; no society; and which is worst of all, continual fear and danger of violent death; and the life of man solitary, poor, nasty, brutish, and short."
+]
 
+--
+
+.right-column[
+.narrow-text[
+
+*"No arts; no letters; no society; and which is worst of all, continual fear and danger of violent death; and the life of man solitary, poor, nasty, brutish, and short."*
+
+]
 ]
 
 ---
@@ -193,6 +230,78 @@ They would create an "artificial person" of a "commonwealth" and give it power t
 The rules of the social game are thus established and we would be fools not to enter into such a Social Contract.
 
 ]
+
+---
+layout: false
+
+### *An argument for Social Contract Theory*
+
+--
+
+Hobbes' reflections suggest an argument for moral rules.
+
+--
+
+.topcap[
+
+Morals by agreement
+
+]
+
+--
+
+.argument[
+
+A world in which there were no rules regulating our behavior would be unbearable.
+
+Thus we all have an interest in establishing and abiding by basic rules against lying, stealing, murder, not keep promises, etc.
+
+***
+
+Thus we create and follow such rules.
+
+]
+
+---
+
+.right-column[
+
+What about trust?
+
+]
+
+--
+
+.right-column[
+
+Hobbes thinks we can't trust each other in the state of nature and so have to set up formal rules of social life in the Social Contract.
+
+]
+
+--
+
+.right-column[
+
+It is only by giving up liberty to an *absolute monarch* that we can solve the problem of not being able to trust each other -- under the Social Contract we have no choice but to follow the rules.
+
+]
+
+--
+
+.right-column[
+
+Yet why should we *trust the monarch* him or herself to follow the rules?
+
+]
+
+---
+layout: true
+
+### *The prisoner's dilemma*
+
+---
+
+
 
 ---
 layout: true
