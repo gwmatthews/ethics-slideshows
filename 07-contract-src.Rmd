@@ -167,7 +167,7 @@ Thomas Hobbes was the founder of modern political philosophy.
 
 .right-column[
 
-In his 1651 book *Leviathan* he asks:
+His 1651 book *Leviathan* asks:
 
 ]
 
@@ -176,7 +176,7 @@ In his 1651 book *Leviathan* he asks:
 .right-column[
 .narrow-text[
 
-Assuming that there is no religion, no tradition and no stable set of social laws, how and why would a collection of individuals form a society, establish the rule of law and what would this society look like?
+If there were no religion, no customs and no laws, how and why would a individuals form a society, establish laws and what would they look like?
 
 ]
 ]
@@ -185,7 +185,7 @@ Assuming that there is no religion, no tradition and no stable set of social law
 
 .right-column[
 
-If there were no established laws and social rules, and we all lived in what Hobbes calls "The State of Nature," we would all be free to do as we please.
+If there were no rules, and we all lived "The State of Nature," we would all be free to do as we please.
 
 ]
 
@@ -193,7 +193,7 @@ If there were no established laws and social rules, and we all lived in what Hob
 
 .right-column[
 
-But, since there were no laws life would be a state of the "war of all against all," and there would be:
+But this would lead to a "war of all against all."
 
 ]
 
@@ -211,7 +211,7 @@ But, since there were no laws life would be a state of the "war of all against a
 
 .right-column[
 
-Thus it only makes sense that individuals in the state of nature would agree to establish rules limiting individual liberty in exchange for the security of the rule of law.
+Thus it makes sense that we would agree to establish rules limiting individual liberty in exchange for the security.
 
 ]
 
@@ -219,7 +219,7 @@ Thus it only makes sense that individuals in the state of nature would agree to 
 
 .right-column[
 
-They would create an "artificial person" of a "commonwealth" and give it power to write and enforce laws regulating social interaction.
+We would create an "artificial person" and give it power to write and enforce laws regulating social interaction.
 
 ]
 
@@ -227,7 +227,7 @@ They would create an "artificial person" of a "commonwealth" and give it power t
 
 .right-column[
 
-The rules of the social game are thus established and we would be fools not to enter into such a Social Contract.
+This is the Social Contract that establishes moral and social rules.
 
 ]
 
