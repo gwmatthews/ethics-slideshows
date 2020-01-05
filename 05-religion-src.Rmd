@@ -329,6 +329,14 @@ layout: true
 
 Explaining anything in nature requires specifying its "four causes."
 
+]
+
+---
+
+.right-column[
+
+Explaining anything in nature requires specifying its "four causes."
+
 .example[
 
 1. **Material cause:** what is it made of?
@@ -608,6 +616,8 @@ What violates natural functions is unnatural and wrong.
 layout: false
 
 ### *Which comes first ethics or religion?*
+
+--
 
 - Historically speaking cultures often express ethical concepts in religious terms and so religion *seems* to come first.
 
