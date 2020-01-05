@@ -157,7 +157,7 @@ layout: true
 
 --
 
-.right-column[
+.myright-column[
 
 Thomas Hobbes was the founder of modern political philosophy.
 
@@ -165,7 +165,7 @@ Thomas Hobbes was the founder of modern political philosophy.
 
 --
 
-.right-column[
+.myright-column[
 
 His 1651 book *Leviathan* asks:
 
@@ -173,7 +173,7 @@ His 1651 book *Leviathan* asks:
 
 --
 
-.right-column[
+.myright-column[
 .narrow-text[
 
 If there were no religion, no customs and no laws, how and why would a individuals form a society, establish laws and what would they look like?
@@ -183,7 +183,7 @@ If there were no religion, no customs and no laws, how and why would a individua
 
 ---
 
-.right-column[
+.myright-column[
 
 If there were no rules, and we lived in a "State of Nature," we would be free to do as we please, thus leading to "war of all against all."
 
@@ -191,7 +191,7 @@ If there were no rules, and we lived in a "State of Nature," we would be free to
 
 --
 
-.right-column[
+.myright-column[
 .narrow-text[
 
 *"No arts; no letters; no society; and which is worst of all, continual fear and danger of violent death; and the life of man solitary, poor, nasty, brutish, and short."*

@@ -147,22 +147,18 @@ th, td { padding: 5px; }
   font-size: small;
 }
 
-.right-column {
-  
-  font-size: normal;
-  
-}
 
 .myright-column {
   width: 75%;
   float: right;
   padding-top: 0;
  }
-
-.right-column p {
-  margin-bottom: -0.5em;
-  
-  }
+ 
+ .myright-column p{
+  font-size: 20px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+ }
 
 .smaller-text {
   font-size: smaller;
