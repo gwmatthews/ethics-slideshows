@@ -358,7 +358,7 @@ layout: true
 
 --
 
-.right-column[
+.myright-column[
 
 .example[
 
@@ -369,7 +369,7 @@ Relativism gives us a quick and easy way to account for disagreements about righ
 
 ---
 
-.right-column[
+.myright-column[
 
 .example[
 
@@ -398,7 +398,7 @@ layout: true
 
 --
 
-.right-column[
+.myright-column[
 
 .example[
 
@@ -411,7 +411,7 @@ What *does* disagreement show about values, besides the fact that we tend to hav
 
 ---
 
-.right-column[
+.myright-column[
 
 .example[
 
@@ -424,7 +424,7 @@ Don't we all have the ability to independently reevaluate our cultural programmi
 
 ---
 
-.right-column[
+.myright-column[
 
 .example[
 
@@ -452,7 +452,7 @@ layout: true
 
 ---
 
-.right-column[
+.myright-column[
 
 .example[
 
@@ -466,7 +466,7 @@ What if our disagreements were about how to implement common core values?
 
 ---
 
-.right-column[
+.myright-column[
 
 .example[
 
@@ -485,7 +485,7 @@ All human cultures seem to share values like:
 
 ---
 
-.right-column[
+.myright-column[
 
 .example[
 

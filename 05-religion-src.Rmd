@@ -325,7 +325,7 @@ layout: true
 
 --
 
-.right-column[
+.myright-column[
 .note[
 
 Explaining anything in nature requires specifying its "four causes."
@@ -344,7 +344,7 @@ Explaining anything in nature requires specifying its "four causes."
 
 ---
 
-.right-column[
+.myright-column[
 .note[
 
 Explaining anything in nature requires specifying its "four causes."
@@ -367,14 +367,14 @@ Aristotle provided the foundation for the ancient and medieval view of the natur
 
 ---
 
-.right-column[
+.myright-column[
 
 .topcap[How does this apply to human beings?]
 
 ]
 
 ---
-.right-column[
+.myright-column[
 
 .topcap[How does this apply to human beings?]
 
@@ -432,7 +432,7 @@ layout: true
 
 --
 
-.right-column[
+.myright-column[
 .note[
 
 Aquinas took Aristotle's account of the order of nature and "Christianized" it, placing God at the top of the "Great Chain of Being." 
@@ -442,7 +442,7 @@ Aquinas took Aristotle's account of the order of nature and "Christianized" it, 
 
 ---
 
-.right-column[
+.myright-column[
 .note[
 
 Aquinas took Aristotle's account of the order of nature and "Christianized" it, placing God at the top of the "Great Chain of Being." 
@@ -463,7 +463,7 @@ Thus he argues that there are four "cardinal virtues."
 
 ---
 
-.right-column[
+.myright-column[
 .note[
 
 Aquinas took Aristotle's account of the order of nature and "Christianized" it, placing God at the top of the "Great Chain of Being." 
@@ -484,7 +484,7 @@ And four basic moral values, the maintenance of which is required to enable us t
 
 ---
 
-.right-column[
+.myright-column[
 .note[
 
 Aquinas took Aristotle's account of the order of nature and "Christianized" it, placing God at the top of the "Great Chain of Being." 

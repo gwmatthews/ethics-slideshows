@@ -158,7 +158,7 @@ layout: true
 
 ### .center[*Appeal to authority*]
 
-.right-column[
+.myright-column[
 .example[
 
 Stephanie is a scientist and she says that vaccines cause autism.
@@ -180,7 +180,7 @@ While we often have no choice but to rely on experts, simply appealing to their 
 
 ### .center[*Ad hominem*]
 
-.right-column[
+.myright-column[
 .example[
 
 My trainer has me on a strict diet and says that my health will be better if I lose some weight.
@@ -202,7 +202,7 @@ Even if we might attack someone for not "praticing what they preach," that is re
 
 ### .center[*Popular appeal*]
 
-.right-column[
+.myright-column[
 .example[
 
 Segregation laws were once popular in the American south, they were democratically enacted.
@@ -224,7 +224,7 @@ The majority of course might be wrong, no matter how numerous they are. This is 
 
 ### .center[*Appeal to force*]
 
-.right-column[
+.myright-column[
 .example[
 
 Matthews, either I pass this class or you might end up having an unfortunate "accident."
@@ -248,7 +248,7 @@ Threats might be effective as a way of getting people to do what you want, but t
 
 ### .center[*Appeal to consequences*]
 
-.right-column[
+.myright-column[
 .example[
 
 If evolution is correct then we are all related to all other organisms on the planet.
@@ -274,7 +274,7 @@ While we may not *like* the consequences of a theory, if the evidence really sup
 
 ### .center[*Naturalistic fallacy*]
 
-.right-column[
+.myright-column[
 .example[
 
 Women should not be allowed into combat positions in the military, since, after all, women are not as aggressive as men are.
@@ -294,7 +294,7 @@ There are a couple of problems with this argument, first not all men and women f
 
 ### .center[*Genetic fallacy*]
 
-.right-column[
+.myright-column[
 .example[
 
 This study was funded by a large pharmaceutical company, so we can dismiss it as propaganda intended only to serve the interests of the corporation's stockholders.
@@ -314,7 +314,7 @@ This fallacy is a generalization of the last one -- it appeals to the origins of
 
 ### .center[*Red herring*]
 
-.right-column[
+.myright-column[
 .example[
 
 Why do you keep saying that I am guilty of committing a crime, when there are important business decisions that need to be made in running this company?
@@ -334,7 +334,7 @@ This is less of a formal argument style and more of a debating tactic. Diverting
 
 ### .center[*Weak analogy*]
 
-.right-column[
+.myright-column[
 .example[
 
 I oppose taxation because it involves taking money from me unwillingly and that is the same thing as theft!
@@ -371,7 +371,7 @@ layout: true
 
 ### .center[*Equivocation*]
 
-.right-column[
+.myright-column[
 .example[
 
 Religion depends on faith in God.
@@ -397,7 +397,7 @@ This argument overlooks important differences between the meaning of "faith" in 
 
 ### .center[*Straw person*]
 
-.right-column[
+.myright-column[
 .example[
 
 My opponent in this debate has stated that she doesn't believe in the Biblical creation story.
@@ -421,7 +421,7 @@ This is a debating trick that fails to address the topic at hand in the interest
 
 ### .center[*Cherry picking*]
 
-.right-column[
+.myright-column[
 .example[
 
 There are studies that show that vaccines are linked with autism.
@@ -462,7 +462,7 @@ layout: true
 
 ### .center[*Mere assertion*]
 
-.right-column[
+.myright-column[
 .example[
 
 There is no evidence linking asbestos to cancer.
@@ -482,7 +482,7 @@ This is not even really an argument, but a simple statement offered without evid
 
 ### .center[*Begging the question*]
 
-.right-column[
+.myright-column[
 .example[
 
 I know that ghosts exist because I have seen them with my own eyes.
@@ -502,7 +502,7 @@ While many people trust eyewitness testimony, the question here is how someone m
 
 ### .center[*Appeal to ignorance*]
 
-.right-column[
+.myright-column[
 .example[
 
 There is no proof that the CIA did *not* assassinate Kennedy and then cover it up.
@@ -526,7 +526,7 @@ Conspiracy theories often rely on appeals to ignorance like this. They shift the
 
 ### .center[*False dilemma*]
 
-.right-column[
+.myright-column[
 .example[
 
 Either you are on the reservation or you are off the reservation.
@@ -546,7 +546,7 @@ This is a quote from Richard Nixon, who in the last days of his presidency, beli
 
 ### .center[*Hasty generalization*]
 
-.right-column[
+.myright-column[
 .example[
 
 Three Democrats I spoke with are opposed to abortion.
@@ -570,7 +570,7 @@ This is clearly too small a sample size to provide evidence for a claim about mi
 
 ### .center[*Slippery slope*]
 
-.right-column[
+.myright-column[
 .example[
 
 If we allow human cloning, we'll end up with a dystopian future like in the movie "The Island" where clones are made just for "spare parts" and have no rights of their own.
@@ -590,7 +590,7 @@ Alarmist claims about what *will* happen as a result of doing something or other
 
 ### .center[*False cause*]
 
-.right-column[
+.myright-column[
 .example[
 
 When the coach yells at us for losing badly, we play better the next game.
@@ -615,7 +615,7 @@ Isn't a better explanation here that after playing either better or worse than a
 
 ### .center[*Circular reasoning*]
 
-.right-column[
+.myright-column[
 .example[
 
 You must be mentally ill if you commit a mass murder.
@@ -656,7 +656,7 @@ layout: true
 
 ### .center[*Confirmation bias*]
 
-.right-column[
+.myright-column[
 .example[
 
 Wherever I look I see more evidence that the universe is governed by a malicious demon. Just consider the evidence of epidemics and hurricanes!
@@ -676,7 +676,7 @@ The problem here lies in not taking into account *all* of the available evidence
 
 ### .center[*Group think*]
 
-.right-column[
+.myright-column[
 .example[
 
 Why did we torture those prisoners? Well the leaders assured us that it was for a greater good and everyone else seemed to be going along with that too.
@@ -697,7 +697,7 @@ We often forget that we are fundamentally social beings heavily invested in what
 
 ### .center[*Wishful thinking*]
 
-.right-column[
+.myright-column[
 .example[
 
 We really can have endless economic growth and protect the enivornment at the same time!
@@ -736,7 +736,7 @@ layout: true
 
 ### .center[*Anchoring effects*]
 
-.right-column[
+.myright-column[
 .example[
 
 This T-shirt is only 100 dollars! That is such a bargain compared to the one selling for 1000 dollars you showed me first!
@@ -756,7 +756,7 @@ Even if nobody would pay such an outrageous price for a T-shirt just asking for 
 
 ### .center[*The fundamental attribution error*]
 
-.right-column[
+.myright-column[
 .example[
 
 If I happen to be rude to someone at the store, it is because I am stressed out by work pressure, but if you are it is because you are a jerk.
@@ -776,7 +776,7 @@ When we account for our own behavior we have a (realistic) sense of the large in
 
 ### .center[*The availability heuristic*]
 
-.right-column[
+.myright-column[
 .example[
 
 I just heard the news about a terrorist hijacking a plane, so rather than fly to Florida I will drive.
