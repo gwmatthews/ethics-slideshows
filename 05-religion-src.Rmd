@@ -352,9 +352,7 @@ Explaining anything in nature requires specifying its "four causes."
 3. **Efficient cause:** What led to its current state? 
 4. **Final cause:** What is its purpose? 
 
-]3
-
-Aristotle provided the foundation for the ancient and medieval view of the natural world as a *hierarchical order* where everything has its proper place,  causes and functions.
+]
 ]
 
 ---
