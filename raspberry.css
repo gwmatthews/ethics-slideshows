@@ -147,6 +147,12 @@ th, td { padding: 5px; }
   font-size: small;
 }
 
+.right-column {
+  
+  font-size: normal;
+  
+}
+
 .myright-column {
   width: 75%;
   float: right;

@@ -185,15 +185,7 @@ If there were no religion, no customs and no laws, how and why would a individua
 
 .right-column[
 
-If there were no rules, and we all lived "The State of Nature," we would all be free to do as we please.
-
-]
-
---
-
-.right-column[
-
-But this would lead to a "war of all against all."
+If there were no rules, and we lived in a "State of Nature," we would be free to do as we please, thus leading to "war of all against all."
 
 ]
 
@@ -230,6 +222,41 @@ We would create an "artificial person" and give it power to write and enforce la
 This is the Social Contract that establishes moral and social rules.
 
 ]
+
+---
+
+.right-column[
+.topcap[
+
+What about trust?
+
+]
+]
+
+--
+
+.right-column[
+
+Outside of traditional society, trust is hard to come by, due to our competitive natures. 
+
+]
+
+--
+
+.right-column[
+
+For Hobbes the function of the social contract is to establish an absolute ruler and avoid the issue of trust. 
+
+]
+
+--
+
+.right-column[
+
+But then we might wonder whether we can trust an absolute ruler to rule according to principles of justice...
+
+]
+
 
 ---
 layout: false
