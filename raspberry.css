@@ -152,13 +152,9 @@ th, td { padding: 5px; }
   width: 75%;
   float: right;
   padding-top: 0;
+  font-size: 20px;
  }
  
- .myright-column p{
-  font-size: 20px;
-  padding-bottom: 0;
-  margin-bottom: 0;
- }
 
 .smaller-text {
   font-size: smaller;

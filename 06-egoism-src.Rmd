@@ -350,7 +350,7 @@ layout: true
 
 --
 
-.right-column[
+.myright-column[
 
 - Adam Smith is often considered the founding father of capitalism for his defense of free-market economic principles the book *On the Wealth of Nations* published in 1776.
 
@@ -358,7 +358,7 @@ layout: true
 
 ---
 
-.right-column[
+.myright-column[
 
 - Adam Smith is often considered the founding father of capitalism for his defense of free-market economic principles the book *On the Wealth of Nations* published in 1776.
 
@@ -368,7 +368,7 @@ layout: true
 
 ---
 
-.right-column[
+.myright-column[
 
 - Adam Smith is often considered the founding father of capitalism for his defense of free-market economic principles the book *On the Wealth of Nations* published in 1776.
 
@@ -398,7 +398,7 @@ layout: true
 
 --
 
-.right-column[
+.myright-column[
 
 - Ayn Rand, a Russian emigre to the US, was a novelist and political thinker who gained an almost cult-like following.
 
@@ -407,7 +407,7 @@ layout: true
 
 ---
 
-.right-column[
+.myright-column[
 
 - Ayn Rand, a Russian emigre to the US, was a novelist and political thinker who gained an almost cult-like following.
 
@@ -418,7 +418,7 @@ layout: true
 
 ---
 
-.right-column[
+.myright-column[
 
 - Ayn Rand, a Russian emigre to the US, was a novelist and political thinker who gained an almost cult-like following.
 
