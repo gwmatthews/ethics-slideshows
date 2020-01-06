@@ -1,10 +1,13 @@
 /*   define font sizes*/
 
 remark-slide-content {
-  font-size: 100%;
+/*  font-size: 100%;*/
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  -ms-text-size-adjust: none;
 }
 
-remark-slide-content h1 {
+/*remark-slide-content h1 {
   font-size: 2.5em;
 }
 
@@ -18,7 +21,7 @@ remark-slide-content p {
 
 remark-slide-content li {
   font-size: 0.875em;
-}
+}*/
 
 body {
   line-height: 1.5;
@@ -172,7 +175,7 @@ th, td { padding: 5px; }
   width: 75%;
   float: right;
   padding-top: 0;
-  font-size: 0.95em;
+/*  font-size: 0.95em;*/
  }
  
 
