@@ -1,0 +1,13 @@
+---
+title: "Social Contract Theory: ethics by agreement"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "css/raspberry-fonts.css", "css/print.css"]
+    lib_dir: libs
+    nature:
+      sourceUrl: "07-contract-src.Rmd"
+      countIncrementalSlides: false
+      beforeInit: "macros.js"
+      
+---

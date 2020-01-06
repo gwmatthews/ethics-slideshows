@@ -335,13 +335,13 @@ Since you cannot tell ahead of time whether your partner will confess or not, yo
 
 --
 
-- Too bad you couldn't both keep your mouths shut!
+- Too bad you couldn't both keep your mouths shut and get only 1 year in jail instead of 3!
 
 ---
 
 --
 
-- Since both of you are rational, you will both end up in jail for three years.
+- Since both of you are rational, you will both end up in jail for 3 years.
 
 --
 
@@ -349,7 +349,7 @@ Since you cannot tell ahead of time whether your partner will confess or not, yo
 
 --
 
-- If you could *trust* your partner to stay silent you could avoid the worse outcome of 3 years each.
+- If only you could *trust* your partner to stay silent, you could both have avoided the worse outcome of 3 years in jail.
 
 --
 
@@ -363,7 +363,7 @@ Where in our real social lives do similar dilemmas appear?
 
 --
 
-.purple[**The arms race:**] Nuclear weapons are really expensive and dangerous to have around, but can we trust the Russians *not* to build them? Nope! Too bad we can't spend that money on something that would make our lives better!
+.purple[**The arms race:**] Nuclear weapons are really expensive and dangerous to have around, but can we trust the Russians *not* to build them? Nope! Too bad we can't spend that money on something that would have made our lives better!
 
 --
 
@@ -375,7 +375,7 @@ Where in our real social lives do similar dilemmas appear?
 
 --
 
-.note[When you start to notice them, prisoner's dilemmas are all over the place, especially in their multi-person variants known as "free rider problems."]
+.note[When you start to notice them, prisoner's dilemmas are all over the place, especially in their multi-person variants known as "free rider problems,"  like the last two above.]
 
 ---
 layout: false
@@ -386,7 +386,7 @@ layout: false
 
 --
 
-- If we could *trust* our partner not to confess, and convince her to trust as too, we could avoid a long time in jail, avoid wasting money on nuclear weapons, and not wreck common resources.
+- If we could *trust* our partner not to confess, and convince her to trust as too, we could avoid a long time in jail, avoid wasting money on nuclear weapons, and not destroy common resources.
 
 --
 
@@ -399,7 +399,7 @@ layout: false
 ---
 layout: true
 
-### *Locke's classical liberalism*
+### *Locke's Social Contract*
 
 .left-column[
 
@@ -414,15 +414,80 @@ layout: true
 ]
 
 ---
+
+--
+
 .right-column[
 
-
-
-
-
+- John Locke suggested an answer to the problem of trust.
 
 ]
 
+---
+.right-column[
+
+- John Locke suggested an answer to the problem of trust.
+
+- We are not, in his view, simply motivated by our own interests as Hobbes thought, but also by our concern for other people.
+
+]
+
+---
+.right-column[
+
+- John Locke suggested an answer to the problem of trust.
+
+- We are not, in his view, simply motivated by our own interests as Hobbes thought, but also by our concern for other people.
+
+- In addition, he thought that the terms of the social contract establishing political communities were subject to revision -- am idea that influenced Jefferson and other American Revolutionaries.
+
+]
+
+---
+.right-column[
+
+
+- John Locke suggested an answer to the problem of trust.
+
+- We are not, in his view, simply motivated by our own interests as Hobbes thought, but also by our concern for other people.
+
+- In addition, he thought that the terms of the social contract establishing political communities were subject to revision -- am idea that influenced Jefferson and other American Revolutionaries.
+
+- But this appeal to our "natural" sympathies won't convince anyone who doesn't already care.
+
+]
+
+---
+layout: false
+
+### *Why should I care?*
+
+--
+
+- SCT seems promising: it appeals only to our own ability to think and look out for ourselves as the basis of the rules governing social life.
+
+--
+
+- But saying that we *need* rules isn't enough, when it is *also* in our interests to cheat when we can get away with it.
+
+--
+
+- Are we stuck with "might makes right?"
+
+--
+
+![:scale 50%, #222;](img/07/police-5-stocksnap.jpg)
+
+---
+layout: false
+
+### *Find out more*
+
+[Hobbes and Contractarianism](https://youtu.be/2Co6pNvd9mc): another in the great Crash Course series.
+
+[Social Contract Theory](https://www.iep.utm.edu/soc-cont/): this article at the Internet Encyclopedia of Philosophy also covers the ancient history and more current versions of the theory.
+
+[What's in it for me?](https://press.rebus.community/intro-to-phil-ethics/chapter/whats-in-it-for-me-on-egoism-and-social-contract-theory/), Ya-Yun (Sherry) Kao, in *Introduction to Philosophy: Ethics.* This chapter covers Social Contract Theory as well as Egoism.
 
 
 ---
@@ -442,7 +507,7 @@ class: center credits
 
 *Photos by:*
 
- and  at Pixabay
+[Gimp-workshop](https://pixabay.com/users/gimpworkshop-4622670/), [Mabel Amber](https://pixabay.com/users/mabelamber-1377835/) and [StockSnap](https://pixabay.com/users/stocksnap-894430/) at Pixabay
 
 
 [download this presentation](./pdf/07-contract.pdf) or [print it](./pdf/07-contract-print.pdf)
