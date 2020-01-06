@@ -79,7 +79,7 @@ layout:true
 
 Rooted in time, place, culture, established authority and inherited roles.
 
-Conservative values: emphasis on stability and hierarchy.
+Conservative values emphasizing stability and hierarchy.
 
 ]
 ]
@@ -105,7 +105,7 @@ Conservative values: emphasis on stability and hierarchy.
 
 Rooted in time, place, culture, established authority and inherited roles.
 
-Conservative values: emphasis on stability and hierarchy.
+Conservative values emphasizing stability and hierarchy.
 
 ]
 ]
@@ -119,13 +119,12 @@ Conservative values: emphasis on stability and hierarchy.
 
 .example[
 
-Less bound by established tradition and hierarchy, society is an arena in which roles and rules are established by competition between individuals.
+Less bound by tradition and hierarchy, society is arena where individuals compete for status and power.
 
-Liberal values: emphasis on progress and change. 
+Liberal values emphasizing progress and individuality. 
 
 ]
 ]
-
 
 --
 
@@ -133,7 +132,7 @@ Liberal values: emphasis on progress and change.
 
 .note[
 
-Most real societies are somewhere in the middle of these two, with some traditional and some modern institutions, aspects and values.
+Many societies are somewhere in between, with traditional and modern institutions, aspects and values.
 
 ]
 
@@ -201,59 +200,45 @@ If there were no rules, and we lived in a "State of Nature," we would be free to
 
 ---
 
-.right-column[
+.myright-column[
 
 Thus it makes sense that we would agree to establish rules limiting individual liberty in exchange for the security.
 
 ]
 
---
+---
 
-.right-column[
+.myright-column[
+
+Thus it makes sense that we would agree to establish rules limiting individual liberty in exchange for the security.
 
 We would create an "artificial person" and give it power to write and enforce laws regulating social interaction.
 
 ]
 
---
+---
 
-.right-column[
+.myright-column[
 
-This is the Social Contract that establishes moral and social rules.
+Thus it makes sense that we would agree to establish rules limiting individual liberty in exchange for the security.
+
+We would create an "artificial person" and give it power to write and enforce laws regulating social interaction.
+
+This is the Social Contract that creates moral and social rules and establishes society on the basis of reason.
 
 ]
 
 ---
 
-.right-column[
-.topcap[
+.myright-column[
 
-What about trust?
+Thus it makes sense that we would agree to establish rules limiting individual liberty in exchange for the security.
 
-]
-]
+We would create an "artificial person" and give it power to write and enforce laws regulating social interaction.
 
---
+This is the Social Contract that creates moral and social rules and establishes society on the basis of reason.
 
-.right-column[
-
-Outside of traditional society, trust is hard to come by, due to our competitive natures. 
-
-]
-
---
-
-.right-column[
-
-For Hobbes the function of the social contract is to establish an absolute ruler and avoid the issue of trust. 
-
-]
-
---
-
-.right-column[
-
-But then we might wonder whether we can trust an absolute ruler to rule according to principles of justice...
+The same arguments can be applied to all rules of morality -- they are rules *invented by us* to keep the peace in a world of *self-interested, but also rational agents*.
 
 ]
 
@@ -262,10 +247,6 @@ But then we might wonder whether we can trust an absolute ruler to rule accordin
 layout: false
 
 ### *An argument for Social Contract Theory*
-
---
-
-Hobbes' reflections suggest an argument for moral rules.
 
 --
 
@@ -289,37 +270,33 @@ Thus we create and follow such rules.
 
 ]
 
+--
+
+We may have an *interest* in establishing rules, but does this mean that we can do so on the terms set out so far?
+
 ---
 
-.right-column[
-
-What about trust?
-
-]
+### *Trust within reason*?
 
 --
 
-.right-column[
-
-Hobbes thinks we can't trust each other in the state of nature and so have to set up formal rules of social life in the Social Contract.
-
-]
+- Hobbes thinks we can't trust each other in the state of nature because we are all motivated by self-interest alone.
 
 --
 
-.right-column[
-
-It is only by giving up liberty to an *absolute monarch* that we can solve the problem of not being able to trust each other -- under the Social Contract we have no choice but to follow the rules.
-
-]
+- So we setup rules to reign in our self-interest -- the Social Contract.
 
 --
 
-.right-column[
+- But if these rules are to be effective we need to also create an *authority* to enforce them.
 
-Yet why should we *trust the monarch* him or herself to follow the rules?
+--
 
-]
+- Yet why should we *trust the enforcers* to follow the rules if they are self-interested people just like us?
+
+--
+
+- Let's consider a famous illustration of the problem of trust.
 
 ---
 layout: true
@@ -328,7 +305,91 @@ layout: true
 
 ---
 
+--
 
+.example[
+
+You and your partner have been caught robbing a convenience store. The police have evidence that you are also responible for a bank robbery but not enough to convict you. So they make each of you the following offer in seprate rooms:
+
+- If you both stay silent about the bank job you each get 1 year in jail.
+
+- If confess to the bank job and your partner does not, you will go free and your partner will get 5 years in jail.
+
+- If you both confess you each get 3 years in jail.
+
+]
+
+--
+
+- What would you do, and what is the .red[rational] thing to do?
+
+--
+
+.note[Think about this for a moment before going on... ]
+
+
+---
+
+.topcap[The rational solution]
+
+--
+
+.example[
+
+Since you cannot tell ahead of time whether your partner will confess or not, you should consider each possibility in turn.
+
+- If your partner confesses, you should confess, since 3 years in jail is better than the 5 you'd get if you stayed silent.
+
+- If your partner stays silent, you should confess, since going free is better than the 1 year in jail you'd get if you also stayed silent.
+
+- So *whatever* your partner does it is better for you to confess.
+
+]
+
+
+--
+
+- Too bad you couldn't both keep your mouths shut!
+
+---
+
+--
+
+- Since both of you are rational, you will both end up in jail for three years.
+
+--
+
+- It is the temptation of avoiding jail and the fear of being ratted out that makes the collectively optimal outcome of staying silent and getting 1 year in jail *an inaccessible outcome*.
+
+--
+
+- If you could *trust* your partner to stay silent you could avoid the worse outcome of 3 years each.
+
+--
+
+- But reason and self-interest dictate that we have to confess.
+
+--
+
+Where in our real social lives do similar dilemmas appear?
+
+---
+
+--
+
+.purple[**The arms race:**] Nuclear weapons are really expensive and dangerous to have around, but can we trust the Russians *not* to build them? Nope! Too bad we can't spend that money on something that would make our lives better!
+
+--
+
+.purple[**The roommate's dilemma:**] It would be best for all of us to keep the place clean, but just this once I'll leave my dirty dishes for later. Why is this place always a dump?
+
+--
+
+.purple[**The fisherman's dilemma:**] If we are to have sustainable livlihood and not deplete the fish stocks we all have to limit our catch. But it sure is tempting to overfish now for the easy money while I still can and before the other fisherman hang me out to dry by themselves overfishing.
+
+--
+
+.note[When you start to notice them prisoner's dilemmas are all over the place, especially in their multi-person variants known as "free rider problems."]
 
 ---
 layout: true
