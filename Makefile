@@ -1,19 +1,20 @@
 FILES=01-introduction.html 01-introduction.pdf 01-print.pdf 01-introduction-print.pdf \
-02-logic.pdf 02-print.pdf 02-logic-print.pdf \
-03-fallacies.pdf 03-print.pdf 03-fallacies-print.pdf \
-04-relativism.pdf 04-print.pdf 04-relativism-print.pdf \
-05-religion.pdf 05-print.pdf 05-religion-print.pdf \
-06-egoism.pdf 06-print.pdf 06-egoism-print.pdf
+02-logic.html 02-logic.pdf 02-print.pdf 02-logic-print.pdf \
+03-fallacies.html 03-fallacies.pdf 03-print.pdf 03-fallacies-print.pdf \
+04-relativism.html 04-relativism.pdf 04-print.pdf 04-relativism-print.pdf \
+05-religion.html 05-religion.pdf 05-print.pdf 05-religion-print.pdf \
+06-egoism.html 06-egoism.pdf 06-print.pdf 06-egoism-print.pdf
 
 all : $(FILES)
 	echo All files are now up to date
 	
-clean :
+cleantex :
 	rm -f ./pdf/*.log
 	rm -f ./pdf/*.synctex.gz
 	rm -f ./pdf/*.aux
 	
-cleanpdf :
+clean :
+	rm -f ./*.html
 	rm -f ./pdf/*.pdf
 
 %.html : %.Rmd
