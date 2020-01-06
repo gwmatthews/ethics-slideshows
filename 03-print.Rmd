@@ -5,8 +5,6 @@ output:
     seal: false
     css: ["default", "raspberry-fonts.css", "print.css"]
     lib_dir: libs
-    includes:
-       in_header: "my-header.html"
     nature:
       sourceUrl: "03-fallacies-src.Rmd"
       countIncrementalSlides: false

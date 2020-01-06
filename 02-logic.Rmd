@@ -5,8 +5,6 @@ output:
     seal: false
     css: ["default", "raspberry-fonts.css", "raspberry.css"]
     lib_dir: libs
-    includes:
-       in_header: "my-header.html"
     nature:
       sourceUrl: "02-logic-src.Rmd"
       countIncrementalSlides: false
