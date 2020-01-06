@@ -173,7 +173,7 @@ Thus vaccines are not as safe as the doctors are telling us.
 --
 
 .myright-column[
-While we often have no choice but to rely on experts, simply appealing to their expertise is never a good idea. Instead we should actually see what their claims are based on, otherwise we still have no real reason to believe what they tell us. 
+While we often have no choice but to rely on experts, simply appealing to their expertise is never a good idea. Instead we should see what their claims are really based on, otherwise we still have no real reason to believe what they tell us. 
 ]
 
 ---
