@@ -1,10 +1,29 @@
+/*   define font sizes*/
+
+remark-slide-content {
+  font-size: 100%;
+}
+
+remark-slide-content h1 {
+  font-size: 2.5em;
+}
+
+remark-slide-content h2 {
+  font-size: 1.875em;
+}
+
+remark-slide-content p {
+  font-size: 0.875em;
+}
+
+remark-slide-content li {
+  font-size: 0.875em;
+}
+
 body {
   line-height: 1.5;
 }
 
-a {
-  color: rgb(249, 38, 114);
-}
 
 /* main theme colors */
 
@@ -16,6 +35,11 @@ a {
 }
 
 /* text colors */
+
+a {
+  color: rgb(249, 38, 114);
+}
+
 
 .red {
   color: rgb(249, 38, 114);
@@ -53,8 +77,12 @@ h1, h2, h3, h4 {
   color: #e9f;
 }
 
+
+/*  boxes */
+
+
 .example {
-  padding: 10px 40px;
+  padding: 10px 30px;
   border-radius: 10px;
   background-color: #ccc;
   color: black;
@@ -102,13 +130,6 @@ img.photo {
   box-shadow: 4px 4px 15px #111;
 }
 
-/* .credit-image {
-  position: absolute;
-  left: 5%;
-  top: 20%;
-  }
-*/
-
 .double {
   line-height: 130%;
 }
@@ -148,11 +169,12 @@ th, td { padding: 5px; }
 }
 
 
+
 .myright-column {
   width: 75%;
   float: right;
   padding-top: 0;
-  font-size: 20px;
+/*  font-size: 14pt;*/
  }
  
 
