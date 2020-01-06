@@ -285,10 +285,6 @@ class: center credits
 
 James Matthews 
 
-**For more slideshows visit:**
-
-[ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
-
 [download this presentation](./pdf/01-introduction.pdf) or [print it](./pdf/01-introduction-print.pdf)
 
 [editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.

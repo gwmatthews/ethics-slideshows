@@ -2,5 +2,5 @@
 
 ### Ethics Slideshows
 
-This is a static website for sharing slideshows for an ethics course.
+This is a collection of slideshows for use in online courses I teach. They were written in rmarkdown using the [xarignan](https://github.com/yihui/xaringan) package in [Rstudio](https://rstudio.com/products/rstudio/).
 

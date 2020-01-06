@@ -444,9 +444,6 @@ class: center credits
 
  and  at Pixabay
 
-**For more slideshows visit:**
-
-[ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
 
 [download this presentation](./pdf/07-contract.pdf) or [print it](./pdf/07-contract-print.pdf)
 

@@ -670,10 +670,6 @@ class: center credits
 
 [Peter H](https://pixabay.com/users/tama66-1032521/) and [Valter Cirillo](https://pixabay.com/users/valtercirillo-3274677/) at Pixabay
 
-**For more slideshows visit:**
-
-[ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
-
 [download this presentation](./pdf/05-religion.pdf) or [print it](./pdf/05-religion-print.pdf)
 
 [editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.

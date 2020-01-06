@@ -530,10 +530,6 @@ class:  center credits
 Image by <a href="https://pixabay.com/users/noiresur-721771/">Javier Galvez</a>, <a href="https://pixabay.com/users/prafalarcomomarcos-5541358/">prafalarcomomarcos</a>, <a href="https://pixabay.com/users/sfbistrodubai-6352658">sfbistrodubai</a>, <a href="https://pixabay.com/users/juangallardosevilla-5523047">Juan Gallardo</a>, and <a href="https://pixabay.com/users/drawsandcooks-6719143/">Kevin Petit</a> 
 from <a href="https://pixabay.com/">Pixabay</a>
 
-**For more slideshows visit:**
-
-[ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
-
 [download this presentation](./pdf/04-relativism.pdf) or [print it](./pdf/04-relativism-print.pdf)
 
 [editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.

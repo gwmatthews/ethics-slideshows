@@ -448,10 +448,6 @@ class: center credits
 <a href="https://pixabay.com/users/geralt-9301/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=706380">Gerd Altmann</a>
 and <a href="https://pixabay.com/users/Photorama-5047024/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2337525">Photorama</a> @ <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3232784">Pixabay</a>
 
-**For more slideshows visit:**
-
-[ethics slideshows home page](https://gwmatthews.github.io/ethics-slideshows/index.html)
-
 [download this presentation](./pdf/02-logic.pdf) or [print it](./pdf/02-logic-print.pdf)
 
 [editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.
