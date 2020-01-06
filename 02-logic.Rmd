@@ -3,7 +3,7 @@ title: "A Little Logic"
 output:
   xaringan::moon_reader:
     seal: false
-    css: ["default", "raspberry-fonts.css", "raspberry.css"]
+    css: ["default", "css/raspberry-fonts.css", "css/raspberry.css"]
     lib_dir: libs
     nature:
       sourceUrl: "02-logic-src.Rmd"

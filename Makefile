@@ -1,22 +1,23 @@
-PDF_FILES=01-introduction.pdf 01-print.pdf 01-introduction-print.pdf \
+FILES=01-introduction.html 01-introduction.pdf 01-print.pdf 01-introduction-print.pdf \
 02-logic.pdf 02-print.pdf 02-logic-print.pdf \
 03-fallacies.pdf 03-print.pdf 03-fallacies-print.pdf \
 04-relativism.pdf 04-print.pdf 04-relativism-print.pdf \
 05-religion.pdf 05-print.pdf 05-religion-print.pdf \
 06-egoism.pdf 06-print.pdf 06-egoism-print.pdf
 
-all : $(PDF_FILES)
+all : $(FILES)
 	echo All files are now up to date
 	
 clean :
-	rm -f *-src.html
 	rm -f ./pdf/*.log
 	rm -f ./pdf/*.synctex.gz
 	rm -f ./pdf/*.aux
-	rm -f LICENSE.html
 	
 cleanpdf :
 	rm -f ./pdf/*.pdf
+
+%.html : %.Rmd
+	R -e 'rmarkdown::render("$<", output_file = "$@")'
 
 %.pdf : %.html
 	R -e 'pagedown::chrome_print("$<", "pdf/$@")'

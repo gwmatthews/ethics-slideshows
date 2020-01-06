@@ -3,10 +3,8 @@ title: "Relativism: Is ethics in the eye of the beholder?"
 output:
   xaringan::moon_reader:
     seal: false
-    css: ["default", "raspberry-fonts.css", "print.css"]
+    css: ["default", "css/raspberry-fonts.css", "css/print.css"]
     lib_dir: libs
-    includes:
-       in_header: "my-header.html"
     nature:
       sourceUrl: "04-relativism-src.Rmd"
       countIncrementalSlides: false

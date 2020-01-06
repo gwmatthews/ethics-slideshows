@@ -3,7 +3,7 @@ title: "Egoism: ethics and selfishness"
 output:
   xaringan::moon_reader:
     seal: false
-    css: ["default", "raspberry-fonts.css", "print.css"]
+    css: ["default", "css/raspberry-fonts.css", "css/print.css"]
     lib_dir: libs
     nature:
       sourceUrl: "06-egoism-src.Rmd"

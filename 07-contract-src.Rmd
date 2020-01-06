@@ -375,7 +375,26 @@ Where in our real social lives do similar dilemmas appear?
 
 --
 
-.note[When you start to notice them prisoner's dilemmas are all over the place, especially in their multi-person variants known as "free rider problems."]
+.note[When you start to notice them, prisoner's dilemmas are all over the place, especially in their multi-person variants known as "free rider problems."]
+
+---
+layout: false
+
+### *Morality to the rescue?*
+
+![:scale 50%, #222;](img/07/police-3-stocksnap.jpg) 
+
+--
+
+- If we could *trust* our partner not to confess, and convince her to trust as too, we could avoid a long time in jail, avoid wasting money on nuclear weapons, and not wreck common resources.
+
+--
+
+- Moral rules about keeping promises, loyalty and working together would help establish and maintain trust.
+
+--
+
+- But where do these come from and why are they so fragile?
 
 ---
 layout: true
@@ -395,7 +414,14 @@ layout: true
 ]
 
 ---
+.right-column[
 
+
+
+
+
+
+]
 
 
 
