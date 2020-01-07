@@ -9,7 +9,7 @@ output:
       sourceUrl: "04-relativism-src.Rmd"
       countIncrementalSlides: false
       beforeInit: "js/macros.js"
-   includes:
+    includes:
       after_body: 
         - "include.html"   
 ---
