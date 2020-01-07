@@ -4,3 +4,7 @@ remark.macros.scale = function (percentage, frameColor) {
 };
 
 
+remark.macros.jump = function (linkText) {
+  var url = this;
+  return '<a href="' + url + '"target="_blank">' + linkText + '</a>';
+}

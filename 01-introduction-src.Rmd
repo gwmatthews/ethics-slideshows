@@ -277,7 +277,7 @@ class: center credits
 
 *Built with:*
 
-[Rstudio](https://rstudio.com/products/rstudio/) 
+![:jump Rstudio](https://rstudio.com/products/rstudio/)
 
 [xarignan](https://github.com/yihui/xaringan) html presentation framework 
 
