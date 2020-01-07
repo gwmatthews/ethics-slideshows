@@ -8,6 +8,6 @@ output:
      nature:
        beforeInit: "js/macros.js"
        sourceUrl: "07-contract-src.Rmd"
-       countIncrementalSlides: true
+       countIncrementalSlides: false
      
 ---
