@@ -9,7 +9,5 @@ output:
       sourceUrl: "01-introduction-src.Rmd"
       countIncrementalSlides: false
       beforeInit: "js/macros.js" 
-    includes:
-      after_body: 
-        - "include.html"
+
 --- 

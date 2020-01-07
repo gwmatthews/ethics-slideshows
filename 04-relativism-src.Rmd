@@ -505,11 +505,11 @@ layout:false
 
 ### *Find out more*
 
-[Moral Relativism](https://plato.stanford.edu/entries/moral-relativism/): an in-depth examination at the *Stanford Encyclopedia of Philosophy*.
+![:jump Moral Relativism](https://plato.stanford.edu/entries/moral-relativism/): an in-depth examination at the *Stanford Encyclopedia of Philosophy*.
 
-[Crash Course video on Meta-ethics](https://youtu.be/FOoffXFpAlU): A great short video reviewing the core concepts and debates in meat-ethics espcially the question of whether ethical principles are relative.
+![:jump Crash Course video on Meta-ethics](https://youtu.be/FOoffXFpAlU): A great short video reviewing the core concepts and debates in meat-ethics espcially the question of whether ethical principles are relative.
 
-[Aren't Right and Wrong Just Matters of Opinion](https://press.rebus.community/intro-to-phil-ethics/chapter/arent-right-and-wrong-just-matters-of-opinion-on-moral-relativism-and-subjectivism/), Paul Rezkalla. This chapter from *Introduction to Philosophy: Ethics* explores further and illustrates what is at stake here.
+![:jump Aren't Right and Wrong Just Matters of Opinion](https://press.rebus.community/intro-to-phil-ethics/chapter/arent-right-and-wrong-just-matters-of-opinion-on-moral-relativism-and-subjectivism/), Paul Rezkalla. This chapter from *Introduction to Philosophy: Ethics* explores further and illustrates what is at stake here.
 
 ---
 class:  center credits
@@ -522,14 +522,14 @@ class:  center credits
 
 *Built with:*
 
-[Rstudio](https://rstudio.com/products/rstudio/) 
+![:jump Rstudio](https://rstudio.com/products/rstudio/) 
  
-[xarignan](https://github.com/yihui/xaringan) html presentation framework 
+![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
 
 *Images by:*
-Image by <a href="https://pixabay.com/users/noiresur-721771/">Javier Galvez</a>, <a href="https://pixabay.com/users/prafalarcomomarcos-5541358/">prafalarcomomarcos</a>, <a href="https://pixabay.com/users/sfbistrodubai-6352658">sfbistrodubai</a>, <a href="https://pixabay.com/users/juangallardosevilla-5523047">Juan Gallardo</a>, and <a href="https://pixabay.com/users/drawsandcooks-6719143/">Kevin Petit</a> 
-from <a href="https://pixabay.com/">Pixabay</a>
+
+![:jump Javier Galvez](https://pixabay.com/users/noiresur-721771/), ![:jump prafalarcomomarcos](https://pixabay.com/users/prafalarcomomarcos-5541358/), ![:jump sfbistrodubai](https://pixabay.com/users/sfbistrodubai-6352658), ![:jump Juan Gallardo](https://pixabay.com/users/juangallardosevilla-5523047) and ![:jump Kevin Petit](https://pixabay.com/users/drawsandcooks-6719143/) at Pixabay
 
 [download this presentation](./pdf/04-relativism.pdf) or [print it](./pdf/04-relativism-print.pdf)
 
-[editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.
+![:jump editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.

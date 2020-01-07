@@ -9,8 +9,5 @@ output:
       beforeInit: "js/macros.js" 
       sourceUrl: "08-utilitarianism-src.Rmd"
       countIncrementalSlides: false
-    includes:
-      after_body: 
-        - "include.html"  
-   
+    
 ---

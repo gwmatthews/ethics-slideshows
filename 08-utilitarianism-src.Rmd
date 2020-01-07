@@ -21,11 +21,11 @@ layout: false
 
 ### *Find out more*
 
-[Utilitarianism](https://press.rebus.community/intro-to-phil-ethics/chapter/utilitarianism/), Frank Aragbonfoh Abumere, *Introduction to Philosophy: Ethics*.
+![:jump Utilitarianism](https://press.rebus.community/intro-to-phil-ethics/chapter/utilitarianism/), Frank Aragbonfoh Abumere, *Introduction to Philosophy: Ethics*.
 
-[Utilitarianism: Act and Rule](https://www.iep.utm.edu/util-a-r/): The Internet Encyclopedia of Philosophy has a comprehensive account including lots of discussion of contemporary versions of the theory.
+![:jump Utilitarianism: Act and Rule](https://www.iep.utm.edu/util-a-r/): The Internet Encyclopedia of Philosophy has a comprehensive account including lots of discussion of contemporary versions of the theory.
 
-[Poverty and Our Response to it](https://youtu.be/D5sknLy7Smo): in this Crash Course video, Hank Green discusses the morality of our responses to poverty and the work of a contemporary Utilitarian philosopher, Peter Singer.
+![:jump Poverty and Our Response to it](https://youtu.be/D5sknLy7Smo): in this Crash Course video, Hank Green discusses the morality of our responses to poverty and the work of a contemporary Utilitarian philosopher, Peter Singer.
 
 
 ---
@@ -39,15 +39,15 @@ class: center credits
 
 *Built with:*
 
-[Rstudio](https://rstudio.com/products/rstudio/) 
+![:jump Rstudio](https://rstudio.com/products/rstudio/) 
 
-[xarignan](https://github.com/yihui/xaringan) html presentation framework 
+![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
 
 *Photos by:*
 
-[Engin Akyurt](https://pixabay.com/users/engin_akyurt-3656355/) and [Anonymous](https://pixabay.com/users/free-photos-242387/) at Pixabay
+![:jump Engin Akyurt](https://pixabay.com/users/engin_akyurt-3656355/) and ![:jump Anonymous](https://pixabay.com/users/free-photos-242387/) at Pixabay
 
 
 [download this presentation](./pdf/08-utilitarianism.pdf) or [print it](./pdf/08-utilitarianism-print.pdf)
 
-[editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.
+![:jump editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.
