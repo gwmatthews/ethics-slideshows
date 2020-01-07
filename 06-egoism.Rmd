@@ -5,12 +5,13 @@ output:
   seal: false
   css: ["default", "css/raspberry-fonts.css", "css/raspberry.css"]
   lib_dir: libs
-  includes:
-    after_body: "include.html"
   nature:
    beforeInit: "js/macros.js" 
    sourceUrl: "06-egoism-src.Rmd"
    countIncrementalSlides: false
+  includes:
+    after_body: 
+     - "include.html"
    
    
 ---
