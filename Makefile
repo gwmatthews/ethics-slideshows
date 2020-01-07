@@ -16,7 +16,7 @@ cleantex :
 	rm -f ./pdf/*-Print.pdf
 	
 clean :
-	rm -f ./*.html
+	rm -f ./0*.html
 	rm -f ./pdf/*.pdf
 
 %.html : %.Rmd
