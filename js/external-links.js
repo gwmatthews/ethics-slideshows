@@ -1,17 +1,36 @@
-(function() {
-  var links = document.getElementsByTagName('a'), link, n, child;
-  for (var i = 0; i < links.length; i++) {
-    link = links[i];
-    if (/^(https?:)?\/\//.test(link.getAttribute('href'))) {
-      link.target = '_blank';
-      n = link.childElementCount;
-      if (n === 0 && link.innerText) {
-        link.innerHTML += ' &boxbox;';  // pure text
-      } else if (n === 2) {
-        // the page /formats.html
-        child = link.firstElementChild;
-        if (child.className === 'formatName') child.innerHTML += ' &boxbox;';
-      }
+// Works like jQuery's $(document).ready.
+// Supports IE8+. Courtesy of http://youmightnotneedjquery.com/
+function ready(fn) {
+  if (document.readyState != 'loading') {
+    fn();
+  } else if (document.addEventListener) {
+    document.addEventListener('DOMContentLoaded', fn);
+  } else {
+    document.attachEvent('onreadystatechange', function() {
+      if (document.readyState != 'loading')
+        fn();
+    });
+  }
+}
+
+ready(function() {
+
+  var website = window.location.hostname;
+
+  var internalLinkRegex = new RegExp('^((((http:\\/\\/|https:\\/\\/)(www\\.)?)?'
+                                     + website
+                                     + ')|(localhost:\\d{4})|(\\/.*))(\\/.*)?$', '');
+
+  var anchorEls = document.querySelectorAll('a');
+  var anchorElsLength = anchorEls.length;
+
+  for (var i = 0; i < anchorElsLength; i++) {
+    var anchorEl = anchorEls[i];
+    var href = anchorEl.getAttribute('href');
+
+    if (!internalLinkRegex.test(href)) {
+      anchorEl.setAttribute('target', '_blank');
     }
   }
-})();
+});
+
