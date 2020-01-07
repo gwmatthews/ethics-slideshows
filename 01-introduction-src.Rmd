@@ -279,11 +279,11 @@ class: center credits
 
 ![:jump Rstudio](https://rstudio.com/products/rstudio/)
 
-![:jump xarignan](https://github.com/yihui/xaringan) html presentation framework 
+![:jump xarignan](https://github.com/yihui/xaringan/) html presentation framework 
 
 *Photos by:*
 
-![:jump James Matthews](https://barebones-photography.com) 
+![:jump James Matthews](https://www.barebones-photography.com/) 
 
 [download this presentation](./pdf/01-introduction.pdf) or [print it](./pdf/01-introduction-print.pdf)
 
