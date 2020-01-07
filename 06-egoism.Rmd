@@ -5,6 +5,8 @@ output:
   seal: false
   css: ["default", "css/raspberry-fonts.css", "css/raspberry.css"]
   lib_dir: libs
+  includes:
+      in_header: header.html
   nature:
    beforeInit: "macros.js"
    sourceUrl: "06-egoism-src.Rmd"
