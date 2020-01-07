@@ -4,45 +4,6 @@
     <title>Ethics and Religion: which comes first?</title>
     <meta charset="utf-8" />
     <link href="libs/remark-css-0.0.1/default.css" rel="stylesheet" />
-    <script type="text/javascript">
-    
-    // Works like jQuery's $(document).ready.
-    // Supports IE8+. Courtesy of http://youmightnotneedjquery.com/
-    function ready(fn) {
-      if (document.readyState != 'loading') {
-        fn();
-      } else if (document.addEventListener) {
-        document.addEventListener('DOMContentLoaded', fn);
-      } else {
-        document.attachEvent('onreadystatechange', function() {
-          if (document.readyState != 'loading')
-            fn();
-        });
-      }
-    }
-    
-    ready(function() {
-    
-      var website = window.location.hostname;
-    
-      var internalLinkRegex = new RegExp('^((((http:\\/\\/|https:\\/\\/)(www\\.)?)?'
-                                         + website
-                                         + ')|(localhost:\\d{4})|(\\/.*))(\\/.*)?$', '');
-    
-      var anchorEls = document.querySelectorAll('a');
-      var anchorElsLength = anchorEls.length;
-    
-      for (var i = 0; i < anchorElsLength; i++) {
-        var anchorEl = anchorEls[i];
-        var href = anchorEl.getAttribute('href');
-    
-        if (!internalLinkRegex.test(href)) {
-          anchorEl.setAttribute('target', '_blank');
-        }
-      }
-    });
-    
-    </script>
     <link rel="stylesheet" href="css/raspberry-fonts.css" type="text/css" />
     <link rel="stylesheet" href="css/raspberry.css" type="text/css" />
   </head>
@@ -52,7 +13,8 @@
     </textarea>
 <style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
 <script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
-<script src="macros.js"></script>
+<script src="js/macros.js"></script>
+<script src="js/external-links.js"></script>
 <script>var slideshow = remark.create({
 "sourceUrl": "05-religion-src.Rmd",
 "countIncrementalSlides": false

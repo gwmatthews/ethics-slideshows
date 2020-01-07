@@ -8,6 +8,6 @@ output:
     nature:
       sourceUrl: "07-contract-src.Rmd"
       countIncrementalSlides: false
-      beforeInit: "macros.js"
+      beforeInit: "js/macros.js"
       
 ---

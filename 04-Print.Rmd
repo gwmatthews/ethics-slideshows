@@ -8,6 +8,6 @@ output:
     nature:
       sourceUrl: "04-relativism-src.Rmd"
       countIncrementalSlides: false
-      beforeInit: "macros.js"
+      beforeInit: "js/macros.js"
       
 ---

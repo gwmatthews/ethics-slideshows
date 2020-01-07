@@ -8,6 +8,6 @@ output:
     nature:
       sourceUrl: "05-religion-src.Rmd"
       countIncrementalSlides: false
-      beforeInit: "macros.js"
+      beforeInit: "js/macros.js"
       
 ---

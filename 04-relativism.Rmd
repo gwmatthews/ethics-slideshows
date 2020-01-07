@@ -5,11 +5,9 @@ output:
     seal: false
     css: ["default", "css/raspberry-fonts.css", "css/raspberry.css"]
     lib_dir: libs
-    includes:
-      in_header: header.html
     nature:
       sourceUrl: "04-relativism-src.Rmd"
       countIncrementalSlides: false
-      beforeInit: "macros.js"
+      beforeInit: ["js/macros.js","js/external-links.js"]
       
 ---
