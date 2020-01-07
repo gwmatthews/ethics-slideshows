@@ -8,6 +8,6 @@ output:
     nature:
       sourceUrl: "09-kant-src.Rmd"
       countIncrementalSlides: false
-      beforeInit: "js/macros.js"] 
+      beforeInit: "js/macros.js" 
 
 ---

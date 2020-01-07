@@ -4,7 +4,9 @@ FILES=01-introduction.html 01-introduction.pdf 01-Print.pdf 01-introduction-prin
 04-relativism.html 04-relativism.pdf 04-Print.pdf 04-relativism-print.pdf \
 05-religion.html 05-religion.pdf 05-Print.pdf 05-religion-print.pdf \
 06-egoism.html 06-egoism.pdf 06-Print.pdf 06-egoism-print.pdf \
-07-contract.html 07-contract.pdf 07-Print.pdf 07-contract-print.pdf
+07-contract.html 07-contract.pdf 07-Print.pdf 07-contract-print.pdf \
+08-utilitarianism.html 08-utilitarianism.pdf 08-Print.pdf 08-utilitarianism-print.pdf \
+09-kant.html 09-kant.pdf 09-Print.pdf 09-kant-print.pdf
 
 all : $(FILES)
 	echo All files are now up to date
