@@ -5,8 +5,10 @@ output:
     seal: false
     css: ["default", "css/raspberry-fonts.css", "css/raspberry.css"]
     lib_dir: libs
+    includes:
+      before_body: "js/include.html"
     nature:
       sourceUrl: "01-introduction-src.Rmd"
       countIncrementalSlides: false
-      beforeInit: ["js/macros.js","js/external-links.js"] 
+      beforeInit: "js/macros.js" 
 --- 
