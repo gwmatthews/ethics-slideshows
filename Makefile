@@ -1,32 +1,40 @@
-FILES=01-introduction.html 01-introduction.pdf 01-Print.pdf 01-introduction-print.pdf \
-02-logic.html 02-logic.pdf 02-Print.pdf 02-logic-print.pdf \
-03-fallacies.html 03-fallacies.pdf 03-Print.pdf 03-fallacies-print.pdf \
-04-relativism.html 04-relativism.pdf 04-Print.pdf 04-relativism-print.pdf \
-05-religion.html 05-religion.pdf 05-Print.pdf 05-religion-print.pdf \
-06-egoism.html 06-egoism.pdf 06-Print.pdf 06-egoism-print.pdf \
-07-contract.html 07-contract.pdf 07-Print.pdf 07-contract-print.pdf \
-08-utilitarianism.html 08-utilitarianism.pdf 08-Print.pdf 08-utilitarianism-print.pdf \
-09-kant.html 09-kant.pdf 09-Print.pdf 09-kant-print.pdf
+RMD_FILES=$(filter-out $(wildcard *-src.Rmd), $(wildcard *.Rmd))
 
-all : $(FILES)
-	echo All files are now up to date
-	
-cleantex :
-	rm -f ./pdf/*.log
-	rm -f ./pdf/*.synctex.gz
-	rm -f ./pdf/*.aux
+TEX_FILES=$(wildcard *.tex)
+
+HTML_FILES=$(patsubst %.Rmd, %.html, $(RMD_FILES))
+
+PDF_FILES=$(patsubst %.html, %.pdf, $(HTML_FILES))
+
+PRINT_FILES=$(patsubst %-print.tex, %-print.pdf, $(TEX_FILES))
+
+.PHONY : all
+all : $(HTML_FILES) $(PDF_FILES) $(PRINT_FILES) cleanup
+
+.PHONY : cleanup
+cleanup :
 	rm -f ./pdf/*-Print.pdf
+	rm -f ./*-Print.html
+	rm -f ./pdf/*.aux
+	rm -f ./pdf/*.log
 	
-clean :
-	rm -f ./0*.html
-	rm -f ./pdf/*.pdf
+	
 
-%.html : %.Rmd
-	R -e 'rmarkdown::render("$<", output_file = "$@")'
+# Create print version of slideshow
+
+%.pdf : %.tex
+	pdflatex -output-directory pdf $< 
+
+# Read print verion of html and convert to pdf
 
 %.pdf : %.html
 	R -e 'pagedown::chrome_print("$<", "pdf/$@")'
 
-%.pdf : %.tex
-	pdflatex -output-directory pdf $< 
+# process RmD to html
+
+%.html : %.Rmd
+	R -e 'rmarkdown::render("$<", output_file = "$@")'
 	
+clean :
+	rm -f ./*.html
+	rm -f ./pdf/*.pdf
