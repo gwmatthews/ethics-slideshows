@@ -5,6 +5,7 @@ class:  middle, center
 #### *we do we owe one another?*
 
 <!-- ![:scale 50%, #222;](img/08/crowd-2-free-photos.jpg) -->
+![:scale 50%, #222;](img/construction.png)
 
 George Matthews, Pennsylvania College of Technology
 
