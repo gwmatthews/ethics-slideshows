@@ -4,7 +4,7 @@ class:  middle, center
 
 #### *the best for the most*
 
-![:scale 50%, #222;](img/construction.png)
+![:scale 50%, #222;](img/08/crowd-2-free-photos.jpg)
 <!-- ![:scale 50%, #222;](img/08/crowd-2-free-photos.jpg) -->
 
 George Matthews, Pennsylvania College of Technology
@@ -12,8 +12,149 @@ George Matthews, Pennsylvania College of Technology
 *2020*
 
 ---
+### *Traditional society*
 
+--
 
+![:scale 50%, #333;](img/08/chess-stux.jpg)
+
+--
+
+.wide-list[
+
+- Who you are matters, and some matter more than others for the sake of distribution of benefits, burdens and roles.
+
+]
+
+--
+
+.wide-list[
+
+- .red[Assumption:] *the good of all* requires that we play the roles we are all assigned by nature and inherited social status.
+
+]
+
+---
+### *Modern society*
+
+--
+
+![:scale 50%, #333;](img/08/go-Fcb981.jpg)
+
+--
+
+.wide-list[
+
+- We all matter equally -- benefits and burdens are distributed according to a set of neutral decision procedures.
+
+]
+
+--
+
+.wide-list[
+
+- .red[Assumption:] *the good of all* is best served by allowing individuals to pursue their own conceptions of what is good for them.
+
+]
+
+---
+layout: true
+
+### *Bentham's hedonistic utilitarianism*
+
+.left-column[
+
+![:vspace 100]
+
+![:portrait Jeremy Bentham, 1748-1832, 80%](img/08/bentham.jpg)
+
+]
+---
+
+--
+
+.right-list[
+
+.red[
+
+"We are ruled by two sovereign masters, pleasure and pain."
+
+]
+
+]
+
+--
+
+.right-list[
+
+- Bentham was a legal reformer who wanted to eliminate laws that caused more harm than they did good.
+
+]
+
+--
+
+.right-list[
+
+- For him the whole point of social and moral rules was to make our lives better.
+
+]
+
+--
+
+.right-list[
+
+- He attempted to quantify pleasures and pains and developed a method of moral calculation based on this.
+
+]
+---
+layout: true
+
+### *Mill's preference utilitarianism*
+
+.left-column[
+
+![:vspace 100]
+
+![:portrait John Stuart Mill, 1806-1873, 80%](img/08/mill.jpg)
+
+]
+---
+
+--
+
+.right-list[
+
+.red[
+
+"It is better to be a human dissatisfied than a pig satisfied, better to be a Socrates satisfied than a fool satisfied."
+
+]
+
+]
+
+--
+
+.right-list[
+
+- Mill was an economist who advocated liberty for all -- men and women.
+
+]
+
+--
+
+.right-list[
+
+- For him some desires are more inherently worthy of satisfaction than others so he rejected Bentham's simple hedonism.
+
+]
+
+--
+
+.right-list[
+
+- He tried to show how all moral rules could be explained as the attempt to help as many individuals satisfy as many of their preferences as possible.
+
+]
 
 ---
 layout: false
@@ -44,7 +185,8 @@ class: center credits
 
 *Photos by:*
 
-![:jump Engin Akyurt](https://pixabay.com/users/engin_akyurt-3656355/) and ![:jump Anonymous](https://pixabay.com/users/free-photos-242387/) at Pixabay
+![:jump Engin Akyurt](https://pixabay.com/users/engin_akyurt-3656355/), ![:jump Anonymous](https://pixabay.com/users/free-photos-242387/),
+![:jump Stux](https://pixabay.com/users/stux-12364/) and ![:jump fcb981](https://commons.wikimedia.org/wiki/File:Go_Board,_Hoge_Rielen,_BelgiumEdit_Fcb981.jpg)
 
 
 [download this presentation](./pdf/08-utilitarianism.pdf) or [print it](./pdf/08-utilitarianism-print.pdf)

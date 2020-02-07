@@ -161,15 +161,15 @@ Every theory we will look at:
 
 --
 
-- Makes certain .purple[assumptions]: we have to start *somewhere*.
+- Makes certain .fade-in[assumptions]: we have to start *somewhere*.
 
 --
 
-- Has .purple[implications]: *if it is true*, then we have to accept other stuff too.
+- Has .fade-in[implications]: *if it is true*, then we have to accept other stuff too.
 
 --
 
-- Requires support in an .purple[argument]: none are *obvious* even if they might seem believable at first glance.
+- Requires support in an .fade-in[argument]: none are *obvious* even if they might seem believable at first glance.
 
 ---
 layout: true
@@ -257,6 +257,8 @@ Therefore there are no moral standards that can apply in all cases.
 
 --
 
+![:vspace 30]()
+
 - Is this argument even valid?
 
 --
@@ -280,6 +282,8 @@ Thus there are no such thing as moral universals.
 ]
 
 --
+
+![:vspace 30]()
 
 - Doesn't this argument *beg the question*?
 
@@ -305,6 +309,8 @@ Thus in the interests of tolerance we should accept that relativism is true.
 
 --
 
+![:vspace 30]()
+
 - The premise is true, but does this imply that that there are *no* deeper values that *all* cultures share and implement in different ways?
 
 --
@@ -320,6 +326,8 @@ layout: true
 
 ---
 
+![:vspace 30]()
+
 --
 
 Are moral claims more like aesthetic judgments? 
@@ -329,6 +337,8 @@ Are moral claims more like aesthetic judgments?
 - If so we would have individual preferences and that's all there is to it.
 
 ---
+
+![:vspace 30]()
 
 Or are moral claims more like judgments about facts or the law?
 
@@ -344,19 +354,21 @@ layout: true
 
 .left-column[
 
-#### .purple[its appeal]
+#### .fade-in[its appeal]
 
-#### .darkgray[its basis]
+#### .fade-out[its basis]
 
-#### .darkgray[questions]
+#### .fade-out[questions]
 
 ]
 
 ---
 
+![:vspace 30]()
+
 --
 
-.myright-column[
+.right-list[
 
 .example[
 
@@ -367,7 +379,9 @@ Relativism gives us a quick and easy way to account for disagreements about righ
 
 ---
 
-.myright-column[
+![:vspace 30]()
+
+.right-list[
 
 .example[
 
@@ -383,20 +397,22 @@ layout: true
 
 .left-column[
 
-#### .darkgray[its appeal]
+#### .fade-out[its appeal]
 
-#### .purple[its basis]
+#### .fade-in[its basis]
 
-#### .darkgray[questions]
+#### .fade-out[questions]
 
 ]
 
 
 ---
 
+![:vspace 30]()
+
 --
 
-.myright-column[
+.right-list[
 
 .example[
 
@@ -409,7 +425,9 @@ What *does* disagreement show about values, besides the fact that we tend to hav
 
 ---
 
-.myright-column[
+![:vspace 30]()
+
+.right-list[
 
 .example[
 
@@ -422,7 +440,9 @@ Don't we all have the ability to independently reevaluate our cultural programmi
 
 ---
 
-.myright-column[
+![:vspace 30]()
+
+.right-list[
 
 .example[
 
@@ -440,17 +460,19 @@ layout: true
 
 .left-column[
 
-#### .darkgray[its appeal]
+#### .fade-out[its appeal]
 
-#### .darkgray[its basis]
+#### .fade-out[its basis]
 
-#### .purple[questions]
+#### .fade-in[questions]
 
 ]
 
 ---
 
-.myright-column[
+![:vspace 30]()
+
+.right-list[
 
 .example[
 
@@ -464,7 +486,9 @@ What if our disagreements were about how to implement common core values?
 
 ---
 
-.myright-column[
+![:vspace 30]()
+
+.right-list[
 
 .example[
 
@@ -483,7 +507,9 @@ All human cultures seem to share values like:
 
 ---
 
-.myright-column[
+![:vspace 30]()
+
+.right-list[
 
 .example[
 

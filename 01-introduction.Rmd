@@ -3,7 +3,7 @@ title: "Philosophical Ethics: an introduction"
 output:
   xaringan::moon_reader:
     seal: false
-    css: ["default", "css/raspberry-fonts.css", "css/raspberry.css"]
+    css: ["default", "css/raspberry-fonts.css", "css/raspberry-pie.css"]
     lib_dir: libs
     nature:
       sourceUrl: "01-introduction-src.Rmd"

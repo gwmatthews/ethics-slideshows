@@ -3,7 +3,7 @@ title: "Ethics and Religion: which comes first?"
 output:
   xaringan::moon_reader:
     seal: false
-    css: ["default", "css/raspberry-fonts.css", "css/raspberry.css"]
+    css: ["default", "css/raspberry-fonts.css", "css/raspberry-pie.css"]
     lib_dir: libs
     nature:
       sourceUrl: "05-religion-src.Rmd"

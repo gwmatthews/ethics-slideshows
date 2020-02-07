@@ -1,80 +1,31 @@
-/*   prevent small screen font size inflation */
-
-body {
-  -webkit-text-size-adjust: none;
-  -moz-text-size-adjust: none;
-  -ms-text-size-adjust: none;
-}
-
-
-
 body {
   line-height: 1.5;
 }
 
-
-/* main theme colors */
-
-.remark-slide-content {
-  
-  background-color: #272822;
-  color: #d6d6d6;
-  
-}
-
-/* text colors */
-
 a {
-  color: rgb(249, 38, 114);
+  text-decoration: underline;
+  color: black;
 }
 
-
-.red {
-  color: rgb(249, 38, 114);
-}
-
-.lightgray {
-  color: #999;
-}
-
-.gray {
-  color: #555;
-}
-
-.darkgray {
-  color: #333;
-}
-
-.vdarkgray {
-  color: #272822;
-}
-
-.inverse {
-  text-shadow: none;
-}
-
-.space {
-  color: #272822;
+.red{
+  color: black;
+  font-weight: bold;
 }
 
 .purple {
-  color: #c8d;
+  color: black;
+  font-weight: bold;
 }
 
-h1, h2, h3, h4 {
-  color: #e9f;
+.darkgray {
+  color: #ccc;
 }
-
-
-/*  boxes */
-
 
 .example {
-  padding: 10px 30px;
+  padding: 10px 40px;
   border-radius: 10px;
-  background-color: #ccc;
+  border: 1px dotted black;
   color: black;
-  box-shadow: 8px 8px 10px #111;
   margin-bottom: 10px;
   line-height: 1.5;
   }
@@ -82,21 +33,19 @@ h1, h2, h3, h4 {
 .argument {
   padding: 10px 30px;
   border-radius: 10px;
-  background-color: #ccc;
-  color: black;
-  box-shadow: 8px 8px 10px #111;
+  border: 1px dotted black;
   width: 65%;
   margin-left: auto;
   margin-right: auto;
 }
 
+.
 ul ul, ol ul {
   list-style-type: none;
 }
 
 .note {
   font-size: smaller;
-  color: #c8d;
   line-height: 110%;
 }
 
@@ -115,8 +64,8 @@ img.photo {
   margin-right: auto;
   text-align: center;
   border-radius: 5px;
-  box-shadow: 4px 4px 15px #111;
-}
+  }
+
 
 .double {
   line-height: 130%;
@@ -190,9 +139,10 @@ th, td { padding: 5px; }
 .myright-column {
   width: 75%;
   float: right;
-  padding-top: 0;
- }
- 
+  padding-top: 1em;
+  line-height: 1.5;
+}
+
 .smaller-text {
   font-size: smaller;
   line-height: 1.5;
@@ -204,7 +154,7 @@ th, td { padding: 5px; }
 }
 
 .topcap {
-  color: #c8d;
+  color: black;
   font-size: x-large;
   font-style: italic;
   margin-left: 10%;
@@ -217,10 +167,19 @@ th, td { padding: 5px; }
   
 }
 
-ul > li {
-  list-style-type: circle;
+.remark-slide-number {
+  display: none;
 }
 
-blockquote {
-  border-radius: 15px;
+.remark-slide thead {
+  background: none;
+}
+
+.remark-slide tr:nth-child(2n) {
+  background: none;
+}
+
+h4 {
+  font-weight: bold;
+  color: black;
 }

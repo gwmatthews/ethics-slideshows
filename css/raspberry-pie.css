@@ -2,18 +2,18 @@
 
 :root {
 
---bg-color: #fff;
---box-bg-color: #ddd;
---main-text-color: #222;
---box-text-color: #000;
---title-color: #222;
---highlight-color: #000;
---fade-in-color: #666;
---fade-out-color: #aaa;
---hide-color: #999;
---shadow-color: #ccc;
+--bg-color: #272822;
+--box-bg-color: #ccc;
+--main-text-color: #d6d6d6;
+--box-text-color: black;
+--title-color: #e9f;
+--highlight-color: #F92672;
+--fade-in-color: #999;
+--fade-out-color: #333;
+--hide-color: #272822;
+--shadow-color: #000;
 --border-color-1: #aaa;
---border-color-2: #ddd;
+--border-color-2: #b21;
 --slide-number-color: #666;
 }
 
@@ -432,3 +432,4 @@ th, td {
 .remark-slide thead, .remark-slide tfoot, .remark-slide tr:nth-child(even) { background: var(--box-bg-color);
 color: var(--box-text-color);
 }
+

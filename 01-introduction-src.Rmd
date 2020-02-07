@@ -4,7 +4,7 @@ class: middle center
 
 *an introduction* 
 
-![:scale 50%, #222;](img/01/tracks-04.jpg)
+![:scale 50%, #222](img/01/tracks-04.jpg)
 
 George Matthews, Pennsylvania College of Technology
 
@@ -21,6 +21,8 @@ You are standing near a switch next a railroad track when you notice a runaway t
 ]
 
 --
+
+![:vspace 20]
 
 - *Would* you throw the switch?
 
@@ -50,6 +52,8 @@ You are standing near a switch next a railroad track when you notice a runaway t
 
 --
 
+![:vspace 20]
+
 .example[
 
 Cases like the runaway trolley have been studied extensively by moral psychologists.
@@ -76,6 +80,8 @@ Cases like the runaway trolley have been studied extensively by moral psychologi
 
 --
 
+![:vspace 20]
+
 .example[
 
 Many of us assume that the consequences of our actions determine their rightness or wrongness.
@@ -95,6 +101,8 @@ You are standing on a bridge over a railroad track railroad when you notice a ru
 ]
 
 --
+
+![:vspace 20]
 
 - Most people would **not** push the person off the bridge to save the children.
 
@@ -120,6 +128,8 @@ You are standing on a bridge over a railroad track railroad when you notice a ru
 
 --
 
+![:vspace 20]
+
 .example[
 
 Are facts and opinions the only kinds of statements we can make?
@@ -135,7 +145,7 @@ class: double
 ### *Elements of philosophical ethics*
 ---
 
-.example[1. .red[Appeal to reason]
+.example[1. .alert[Appeal to reason]
 
 2. Attempt at universality
 
@@ -152,7 +162,7 @@ class: double
 
 .example[1. Appeal to reason
 
-2. .red[Attempt at universality]
+2. .alert[Attempt at universality]
 
 3. Commitment to impartiality
 
@@ -169,7 +179,7 @@ class: double
 
 2. Attempt at universality
 
-3. .red[Commitment to impartiality]
+3. .alert[Commitment to impartiality]
 
 4. Insistence on overriding character of ethical principles
 ]
@@ -186,7 +196,7 @@ class: double
 
 3. Commitment to impartiality
 
-4. .red[Insistence on overriding character of ethical principles]
+4. .alert[Insistence on overriding character of ethical principles]
 ]
 
 <br>
@@ -208,16 +218,16 @@ class: wide
 
 .right-column[
 
-![:scale 70%, #222;](img/01/tracks-01.jpg)]
+![:scale 70%, #222](img/01/tracks-01.jpg)]
 
-<br>
+![:vspace 350]()
 
 Before anything else we need to know something about toolkit used by philosophers -- the critical assessment of arguments and the ways in which we often get things wrong in reasoning.
 
 ---
 .left-column[
 
-### .gray[logic]
+### .fade-out[logic]
 
 ### .red[ethical theory]
 
@@ -225,18 +235,18 @@ Before anything else we need to know something about toolkit used by philosopher
 
 .right-column[
 
-![:scale 70%, #222;](img/01/tracks-02.jpg)]
+![:scale 70%, #222](img/01/tracks-02.jpg)]
 
-<br>
+![:vspace 350]()
 
 Next we consider various theoretical approaches ethics. Here we examine the nature of and justification for ethical norms.
 
 ---
 .left-column[
 
-### .gray[logic]
+### .fade-out[logic]
 
-### .gray[ethical theory]
+### .fade-out[ethical theory]
 
 ### .red[applied ethics]
 
@@ -244,9 +254,9 @@ Next we consider various theoretical approaches ethics. Here we examine the natu
 
 .right-column[
 
-![:scale 70%, #222;](img/01/tracks-03.jpg)]
+![:scale 70%, #222](img/01/tracks-03.jpg)]
 
-<br>
+![:vspace 350]()
 
 Finally we see how all of this plays out in the real world. Here we will examine many particular cases where values are at stake.
 
@@ -269,7 +279,7 @@ layout: false
 ---
 class: center credits
 
-![:scale 50%, #222;](img/01/tracks-05.jpg)
+![:scale 50%, #222](img/01/tracks-05.jpg)
 
 #### Credits
 

@@ -23,6 +23,8 @@ George Matthews, Pennsylvania College of Technology
 
 --
 
+![:vspace 30]()
+
 .topcap[
 
 Our next question:
@@ -141,20 +143,17 @@ layout: true
 
 .left-column[
 
-<br>
+![:vspace 30]()
 
-![:scale 80%, #222;](img/07/hobbes.jpg)
+![:portrait Thomas Hobbes, 1588-1679, 80%](img/07/hobbes.jpg)
 
-.center[
-.note[1588-1679
-]
-]
+
 ]
 ---
 
 --
 
-.myright-column[
+.right-list[
 
 Thomas Hobbes was the founder of modern political philosophy.
 
@@ -162,7 +161,7 @@ Thomas Hobbes was the founder of modern political philosophy.
 
 --
 
-.myright-column[
+.right-list[
 
 His 1651 book *Leviathan* asks:
 
@@ -170,7 +169,7 @@ His 1651 book *Leviathan* asks:
 
 --
 
-.myright-column[
+.right-list[
 .narrow-text[
 
 If there were no religion, no customs and no laws, how and why would a individuals form a society, establish laws and what would they look like?
@@ -180,7 +179,7 @@ If there were no religion, no customs and no laws, how and why would a individua
 
 ---
 
-.myright-column[
+.right-list[
 
 If there were no rules, and we lived in a "State of Nature," we would be free to do as we please, thus leading to "war of all against all."
 
@@ -188,7 +187,7 @@ If there were no rules, and we lived in a "State of Nature," we would be free to
 
 --
 
-.myright-column[
+.right-list[
 .narrow-text[
 
 *"No arts; no letters; no society; and which is worst of all, continual fear and danger of violent death; and the life of man solitary, poor, nasty, brutish, and short."*
@@ -198,34 +197,27 @@ If there were no rules, and we lived in a "State of Nature," we would be free to
 
 ---
 
-.myright-column[
+.right-list[
 
-Thus it makes sense that we would agree to establish rules limiting individual liberty in exchange for the security.
-
-]
-
----
-
-.myright-column[
-
-Thus it makes sense that we would agree to establish rules limiting individual liberty in exchange for the security.
-
-This is the Social Contract that creates moral and social rules and establishes society on the basis of reason.
+- Thus it makes sense that we would agree to establish rules limiting individual liberty in exchange for the security.
 
 ]
 
----
+--
 
-.myright-column[
+.right-list[
 
-Thus it makes sense that we would agree to establish rules limiting individual liberty in exchange for the security.
-
-This is the Social Contract that creates moral and social rules and establishes society on the basis of reason.
-
-The same arguments apply to all moral rules -- they are *invented by us* to keep the peace in a world of *self-interested, but also rational agents*.
+- This is the Social Contract that creates moral and social rules and establishes society on the basis of reason.
 
 ]
 
+--
+
+.right-list[
+
+- The same arguments apply to all moral rules -- they are *invented by us* to keep the peace in a world of *self-interested, but also rational agents*.
+
+]
 
 ---
 layout: false
@@ -256,7 +248,9 @@ Thus we create and follow such rules.
 
 --
 
-We may have an *interest* in establishing rules, but does this mean that we can do so on the terms set out so far?
+![:vspace 30]()
+
+- We may have an *interest* in establishing rules, but does this mean that we can do so on the terms set out so far?
 
 ---
 
@@ -280,7 +274,9 @@ We may have an *interest* in establishing rules, but does this mean that we can 
 
 --
 
-- Let's consider a famous illustration of the problem of trust.
+![:vspace 30]()
+
+.alert[Let's consider a famous illustration of the problem of trust.]
 
 ---
 layout: true
@@ -333,7 +329,7 @@ Since you cannot tell ahead of time whether your partner will confess or not, yo
 
 --
 
-- Too bad you couldn't both keep your mouths shut and get only 1 year in jail instead of 3!
+.alert[Too bad you couldn't both keep your mouths shut and get only 1 year in jail instead of 3!]
 
 ---
 
@@ -355,25 +351,27 @@ Since you cannot tell ahead of time whether your partner will confess or not, yo
 
 --
 
-Where in our real social lives do similar dilemmas appear?
+![:vspace 30]()
+
+.alert[Where in our real social lives do similar dilemmas appear?]
 
 ---
 
 --
 
-.purple[**The arms race:**] Nuclear weapons are really expensive and dangerous to have around, but can we trust the Russians *not* to build them? Nope! Too bad we can't spend that money on something that would have made our lives better!
+.red[**The arms race:**] Nuclear weapons are really expensive and dangerous to have around, but can we trust the Russians *not* to build them? Nope! Too bad we can't spend that money on something that would have made our lives better!
 
 --
 
-.purple[**The roommate's dilemma:**] It would be best for all of us to keep the place clean, but just this once I'll leave my dirty dishes for later. Why is this place always a dump?
+.red[**The roommate's dilemma:**] It would be best for all of us to keep the place clean, but just this once I'll leave my dirty dishes for later. Why is this place always a dump?
 
 --
 
-.purple[**The fisherman's dilemma:**] If we are to have sustainable livlihood and not deplete the fish stocks we all have to limit our catch. But it sure is tempting to overfish now for the easy money while I still can and before the other fisherman hang me out to dry by themselves overfishing.
+.red[**The fisherman's dilemma:**] If we are to have sustainable livlihood and not deplete the fish stocks we all have to limit our catch. But it sure is tempting to overfish now for the easy money while I still can and before the other fisherman hang me out to dry by themselves overfishing.
 
 --
 
-.note[When you start to notice them, prisoner's dilemmas are all over the place, especially in their multi-person variants known as "free rider problems,"  like the last two above.]
+- When you start to notice them, prisoner's dilemmas are all over the place, especially in their multi-person variants known as "free rider problems,"  like the last two above.
 
 ---
 layout: false
@@ -401,14 +399,10 @@ layout: true
 
 .left-column[
 
-<br>
+![:vspace 30]()
 
-![:scale 80%, #222;](img/07/locke.jpg)
+![:portrait John Locke, 1632-1704, 80%](img/07/locke.jpg)
 
-.center[
-.note[1632-1704
-]
-]
 ]
 
 ---

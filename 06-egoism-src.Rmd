@@ -336,29 +336,23 @@ layout: true
 
 <br>
 
-![:scale 80%, #222;](img/06/adam-smith.jpg)
+![:portrait Adam Smith, 1723-1790, 80%](img/06/adam-smith.jpg)
 
-.center[
-.note[1723-1790
-]
-]
 ]
 
 ---
 
 --
 
-.myright-column[
+.right-list[
 
 - Adam Smith is often considered the founding father of capitalism for his defense of free-market economic principles the book *On the Wealth of Nations* published in 1776.
 
 ]
 
----
+--
 
-.myright-column[
-
-- Adam Smith is often considered the founding father of capitalism for his defense of free-market economic principles the book *On the Wealth of Nations* published in 1776.
+.right-list[
 
 - For Smith we need only allow people to pursue private gain in the marketplace and "the invisible hand" of supply and demand will ensure a socially optimal outcome -- fair prices, innovation, economic efficiency.
 
@@ -372,43 +366,31 @@ layout: true
 
 <br>
 
-![:scale 80%, #222;](img/06/rand.jpg)
+![:portrait Ayn Rand, 1905-1982, 80%](img/06/rand.jpg)
 
-.center[
-.note[1905-1982
-]
-]
 ]
 
 ---
 
 --
 
-.myright-column[
+.right-list[
 
 - Ayn Rand, a Russian emigre to the US, was a novelist and political thinker who gained an almost cult-like following.
 
 ]
 
+--
 
----
-
-.myright-column[
-
-- Ayn Rand, a Russian emigre to the US, was a novelist and political thinker who gained an almost cult-like following.
+.right-list[
 
 - She was deeply anti-communist and advocated an extreme form of individualism according to which it is simply *wrong* to ever put someone else's interests ahead of one's own.
 
 ]
 
+--
 
----
-
-.myright-column[
-
-- Ayn Rand, a Russian emigre to the US, was a novelist and political thinker who gained an almost cult-like following.
-
-- She was deeply anti-communist and advocated an extreme form of individualism according to which it is simply *wrong* to ever put someone else's interests ahead of one's own.
+.right-list[
 
 - Among her fans are Ronald Reagan, Alan Greenspan, Rand Paul and Donald Trump.
 
