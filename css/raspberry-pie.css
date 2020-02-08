@@ -4,15 +4,16 @@
 
 --bg-color: #272822;
 --box-bg-color: #ccc;
+--box-bg-color-2: #222;
 --main-text-color: #d6d6d6;
 --box-text-color: black;
 --title-color: #e9f;
 --highlight-color: #F92672;
---fade-in-color: #999;
+--fade-in-color: #bbb;
 --fade-out-color: #333;
 --hide-color: #272822;
 --shadow-color: #000;
---border-color-1: #aaa;
+--border-color-1: #444;
 --border-color-2: #b21;
 --slide-number-color: #666;
 }
@@ -143,53 +144,46 @@ text-shadow: 2px 2px 5px var(--shadow-color);
 .left-blurb {
   position: relative;
   border: 0;
-  background-image: url("../img/left-arrow.png");
-  background-repeat: no-repeat;
-  background-position: left bottom;
-  background-size:45px;
   padding: 1em;
-  width: 100%;
+  width: 85%;
  }
 
 .left-blurb p  {
-  color: var(--box-text-color);
-  background-color: var(--box-bg-color);
+  color: var(--main-text-color);
+  background-color: var(--box-bg-color-2);
   display: block;
   margin-top: auto;
-  margin-left: 1.5em;
-  padding: 10px;
-  border-radius: 20px;
+  padding: 20px;
+  border-radius: 30px 30px 30px 0;
   border: 1px dashed var(--border-color-1);
   position: absolute;
   bottom: 30px;
   left: 0;
   box-shadow: 1px 2px 4px var(--shadow-color);
+  font-size: 90%;
 }
 
 .right-blurb {
   position: relative;
   border: 0;
-  background-image: url("../img/right-arrow.png");
-  background-repeat: no-repeat;
-  background-position: right bottom;
-  background-size: 45px;
+  margin-left: 15%;
   padding: 1em;
-  width: 100%;
+  width: 85%;
 }
 
 .right-blurb p  {
-  color: var(--box-text-color);
-  background-color: var(--box-color-2);
+  color: var(--main-text-color);
+  background-color: var(--box-bg-color-2);
   display: block;
   margin-top: auto;
-  margin-right: 1.5em;
-  padding: 10px;
-  border-radius: 20px;
+  padding: 20px;
+  border-radius: 30px 0 30px 20px;
   border: 1px dashed var(--border-color-1);
   position: absolute;
-  bottom: 30px;
-  right: 0;
+  bottom: -100px;
+  right: -60;
   box-shadow: 1px 2px 4px var(--shadow-color);
+  font-size: 90%;
 }
 
 /* IMAGES */
@@ -368,6 +362,8 @@ img.credits h4 {
   border: 2px dotted var(--border-color-1);
   border-radius: 20px;
   background-color: var(--box-bg-color);
+  color: var(--box-text-color);
+  padding: 8px;
 }
 
 .cbox { 
@@ -375,6 +371,7 @@ img.credits h4 {
   border: 2px dotted var(--border-color-1);
   border-radius: 20px;
   background-color: var(--box-bg-color);
+  color: var(--box-text-color);
   padding: 8px;
 }
 
@@ -383,6 +380,7 @@ img.credits h4 {
   border: 2px dotted var(--border-color-1);
   border-radius: 20px;
   background-color: var(--box-bg-color);
+  color: var(--box-text-color);
   padding: 8px;
   opacity: 0.4;
 }
@@ -391,6 +389,7 @@ img.credits h4 {
   border: 2px solid var(--border-color-2);
   border-radius: 20px;
   background-color: var(--box-bg-color);
+  color: var(--box-text-color);
   padding: 8px;
 }
   
@@ -399,18 +398,29 @@ img.credits h4 {
   border: 2px solid var(--border-color-2);
   border-radius: 20px;
   background-color: var(--box-bg-color);
+  color: var(--box-text-color);
   padding: 8px;
 }
   
 .blank-box{
   text-align: center;
   border: none;
-  border-radius: 20px;
   background-color: none;
   padding: 8px;
   font-style: italic;
   font-size: 200%;
   z-index: 1;
+}
+
+.noborder-box{
+  margin-left: auto;
+  border: none;
+  background-color: none;
+  padding: 8px;
+}
+
+.inner {
+  margin: 10px;
 }
 
 /* redo tables  */

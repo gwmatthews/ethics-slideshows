@@ -161,15 +161,15 @@ Every theory we will look at:
 
 --
 
-- Makes certain .fade-in[assumptions]: we have to start *somewhere*.
+- Makes certain .alert[assumptions]: we have to start *somewhere*.
 
 --
 
-- Has .fade-in[implications]: *if it is true*, then we have to accept other stuff too.
+- Has .alert[implications]: *if it is true*, then we have to accept other stuff too.
 
 --
 
-- Requires support in an .fade-in[argument]: none are *obvious* even if they might seem believable at first glance.
+- Requires support in an .alert[argument]: none are *obvious* even if they might seem believable at first glance.
 
 ---
 layout: true

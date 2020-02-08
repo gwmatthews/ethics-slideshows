@@ -58,6 +58,34 @@ George Matthews, Pennsylvania College of Technology
 ]
 
 ---
+layout: false
+
+### *Utilitarianism*
+
+.argument[
+
+The point of morality is to make the world a better place.
+
+Happiness is the highest good, the ultimate aim of all human activity.
+
+***
+
+So an action is right to the extent that it promotes greater happiness and wrong if it leads to greater unhappiness.
+
+]
+
+--
+
+![:vspace 30]
+
+- Utilitarianism offers itself as a common sense solution to the problem of finding moral common ground.
+
+--
+
+- We need not worry about the fact that we disagree on the *content* of a good life, since we all can agree that *whatever* it is that we are after in life, more satisfaction of our goals is always preferable to less.
+
+---
+
 layout: true
 
 ### *Bentham's hedonistic utilitarianism*
@@ -153,6 +181,128 @@ layout: true
 .right-list[
 
 - He tried to show how all moral rules could be explained as the attempt to help as many individuals satisfy as many of their preferences as possible.
+
+]
+
+---
+layout: false
+### *Rational Choice*
+
+.argument[
+
+1. Figure out what you want and rank it.
+2. Estimate the likelihood that different courses of action will satisfy your wants.
+3. The rational choice is the choice that brings you the most benefits for the least costs.
+
+]
+
+--
+
+- Everything we do has costs -- time, effort, money, opportunity costs, etc. 
+
+--
+
+- The rational choice in any situation is the one with the best payoff -- the most favorable balance of benefits minus costs.
+
+--
+
+- Utilitarianism endorses this cost/benefit analysis model of rational choice as the basis of morality.
+
+--
+
+.alert[How might this work?]
+
+---
+layout: true
+
+### *From Self-interest to Morality*
+
+---
+
+--
+
+.leftbar[
+
+![:vspace 110]
+
+![:portrait Dwight, , 80%](img/08/dwight.jpg)
+]
+
+.middletext[
+
+![:vspace 130]
+
+.left-blurb[
+
+"I am a rational agent out to satisfy as many preferences as I can, if others also benefit that's great for them, but it's not really essential to me."
+
+]
+]
+
+.rightbar[
+
+![:vspace 110]
+
+![:portrait Pam, , 80%](img/08/pam.jpg)
+
+]
+
+---
+
+.leftbar[
+
+![:vspace 110]
+
+![:portrait Dwight, , 80%](img/08/dwight.jpg)
+]
+
+.middletext[
+
+![:vspace 130]
+
+.left-blurb[
+
+"I am a rational agent out to satisfy as many preferences as I can, if others also benefit that's great for them, but it's not really essential to me."
+
+]
+
+.right-blurb[
+
+"I care about others and will set aside my own interests to help them satisfy their goals, since they count just as much as I do."
+
+]
+]
+
+.rightbar[
+
+![:vspace 110]
+
+![:portrait Pam, , 80%](img/08/pam.jpg)
+
+]
+
+--
+
+![:colorbox 100px, 500px, 70%, noborder-box](How might we convince someone with Dwight's attitude to adopt Pam's view?)
+
+---
+.topcap[
+
+Mill's argument
+
+]
+
+--
+
+.argument[
+
+Rational maximizers of self-interest seek the best possible outcome.
+
+The more people who benefit from my actions the better the outcome.
+
+***
+
+So we should always strive to get the best outcome from the most people.
 
 ]
 
