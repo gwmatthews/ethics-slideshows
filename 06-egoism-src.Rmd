@@ -527,7 +527,7 @@ layout: false
 
 ![:jump Inequality in The USA](https://youtu.be/QPKKQnijnsM): a great video on what Americans want in terms of wealth distribution, our perception of what it is, and the reality. It turns out to be different than you might think.
 
-![:jump The New Age of Ayn Rand:](https://www.theguardian.com/books/2017/apr/10/new-age-ayn-rand-conquered-trump-white-house-silicon-valley) decades after her death her fiction continues to have an outsized influence on American public life. Read more about this here in this article from the British new site *The Guardian*.
+![:jump The New Age of Ayn Rand:](https://www.theguardian.com/books/2017/apr/10/new-age-ayn-rand-conquered-trump-white-house-silicon-valley) decades after her death her fiction continues to have an outsized influence on American public life. Read more in this article from the British news site *The Guardian*.
 
 ---
 layout: false
