@@ -171,9 +171,11 @@ His 1651 book *Leviathan* asks:
 
 .right-list[
 .narrow-text[
+.alert[
 
-If there were no religion, no customs and no laws, how and why would a individuals form a society, establish laws and what would they look like?
+If there were no religion, no customs and no laws, how and why would individuals form a society and establish laws, and what would they look like?
 
+]
 ]
 ]
 
@@ -181,7 +183,7 @@ If there were no religion, no customs and no laws, how and why would a individua
 
 .right-list[
 
-If there were no rules, and we lived in a "State of Nature," we would be free to do as we please, thus leading to "war of all against all."
+If there were no rules, and we lived in a "State of Nature," we would be free to do as we please, thus leading to a "war of all against all."
 
 ]
 
@@ -189,9 +191,11 @@ If there were no rules, and we lived in a "State of Nature," we would be free to
 
 .right-list[
 .narrow-text[
+.alert[
 
-*"No arts; no letters; no society; and which is worst of all, continual fear and danger of violent death; and the life of man solitary, poor, nasty, brutish, and short."*
+"No arts; no letters; no society; and which is worst of all, continual fear and danger of violent death; and the life of man solitary, poor, nasty, brutish, and short."
 
+]
 ]
 ]
 
@@ -409,41 +413,28 @@ layout: true
 
 --
 
-.right-column[
+.right-list[
 
 - John Locke suggested an answer to the problem of trust.
 
 ]
 
----
-.right-column[
-
-- John Locke suggested an answer to the problem of trust.
+--
+.right-list[
 
 - We are not, in his view, simply motivated by our own interests as Hobbes thought, but also by our concern for other people.
 
 ]
 
----
-.right-column[
+--
+.right-list[
 
-- John Locke suggested an answer to the problem of trust.
-
-- We are not, in his view, simply motivated by our own interests as Hobbes thought, but also by our concern for other people.
-
-- In addition, he thought that the terms of the social contract establishing political communities were subject to revision -- am idea that influenced Jefferson and other American Revolutionaries.
+- In addition, he thought that the terms of the social contract establishing political communities were subject to revision -- an idea that influenced Jefferson and other American Revolutionaries.
 
 ]
 
----
-.right-column[
-
-
-- John Locke suggested an answer to the problem of trust.
-
-- We are not, in his view, simply motivated by our own interests as Hobbes thought, but also by our concern for other people.
-
-- In addition, he thought that the terms of the social contract establishing political communities were subject to revision -- am idea that influenced Jefferson and other American Revolutionaries.
+--
+.right-list[
 
 - But this appeal to our "natural" sympathies won't convince anyone who doesn't already care.
 
