@@ -1,0 +1,13 @@
+---
+title: "Utilitarianism: the best for the most"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "css/raspberry-fonts.css", "css/raspberry-pie.css"]
+    lib_dir: libs
+    nature:
+      beforeInit: "js/macros.js" 
+      sourceUrl: "08-src.Rmd"
+      countIncrementalSlides: false
+    
+---
