@@ -3,7 +3,7 @@ title: "Kant and the ethics of duty"
 output:
   xaringan::moon_reader:
     seal: false
-    css: ["default", "css/raspberry-fonts.css", "css/raspberry-pie.css"]
+    css: ["default", "css/raspberry-fonts.css", "css/slides.css", "css/raspberry.css"]
     lib_dir: libs
     nature:
       sourceUrl: "09-src.Rmd"

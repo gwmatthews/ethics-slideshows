@@ -2,10 +2,9 @@ class:  middle, center
 
 ### *Kant's Ethics of Duty*
 
-#### *we do we owe one another?*
+#### *What do we owe one another?*
 
-<!-- ![:scale 50%, #222;](img/08/crowd-2-free-photos.jpg) -->
-![:scale 50%, #222;](img/construction.png)
+![:scale 50%, #222;](img/09/reflection-gaida.jpg)
 
 George Matthews, Pennsylvania College of Technology
 
@@ -13,17 +12,80 @@ George Matthews, Pennsylvania College of Technology
 
 ---
 
+### *Kant's question*
+
+- All of the moral theories we have looked at so far have tied morality to *something else* -- culture, God, human nature, personal advantage, the social good, happiness...
+
+- But don't moral demands *override* all of those at times?
+
+- Having a moral conscience means that sometimes we can see that we just shouldn't do something **_no matter what_** else is telling us that we should.
+
+![:vspace 20]()
+
+.topcap[Kant's question is:]
+
+.question[
+
+How can we possibly step back from *all* of our other concerns and act based only on what is right? 
+
+]
+
+---
+class: spaced-list
+### *The Moral Ideal*
+
+.example[
+
+"Two things fill the mind with ever-increasing wonder and awe . . . the starry heavens above me and the moral law within me."
+
+]
+
+.bottomcap[Immanuel Kant, *Critique of Practical Reason*]
+
+![:vspace 20]()
+
+Setting aside all thoughts about the real world and real human beings, 
+
+
+1. What might a .alert[morally perfect world] look like?
+2. Why .alert[should we] try to live up to this ideal?
+3. How .alert[can we] go about doing that?
+4. What would the .alert[content] of morality be?
+
+---
+
+### *Why should we strive for moral ideals?*
 
 
 
 ---
+
+### *How can we live up to moral ideals?*
+
+
+
+---
+
+### *An important distinction*
+
+.pull-left[
+
+conditional
+
+]
+
+.pull-right[
+
+unconditional
+
+]
 
 ---
 layout: false
 
 class: center credits
 
-<!-- ![:scale 50%, #222;](img/08/crowd-5-engin-akyurt.jpg)  --> 
+![:scale 50%, #222;](img/09/reflection-2-gaida.jpg)
 
 #### Credits
 
