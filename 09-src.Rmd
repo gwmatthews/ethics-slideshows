@@ -12,55 +12,110 @@ George Matthews, Pennsylvania College of Technology
 
 ---
 
-### *Kant's question*
+### *The big question*
 
 - All of the moral theories we have looked at so far have tied morality to *something else* -- culture, God, human nature, personal advantage, the social good, happiness...
 
 - But don't moral demands *override* all of those at times?
 
-- Having a moral conscience means that sometimes we can see that we just shouldn't do something **_no matter what_** else is telling us that we should.
+- Having a moral conscience means that sometimes we can see that we just should or shouldn't do something **_no matter what_** else is telling the opposite.
 
 ![:vspace 20]()
 
-.topcap[Kant's question is:]
+.topcap[The question of morality is thus:]
 
 .question[
 
-How can we possibly step back from *all* of our other concerns and act based only on what is right? 
+How can we possibly step back from *all* of our other concerns and act based only on what is right? Is there even such a thing?
 
 ]
 
 ---
-class: spaced-list
-### *The Moral Ideal*
+![:scale 70%, #222;](img/09/stars-boat-jplenio.jpg)
+
+![:vspace 20]()
 
 .example[
 
-"Two things fill the mind with ever-increasing wonder and awe . . . the starry heavens above me and the moral law within me."
+"Two things fill the mind with ever-increasing wonder and awe, the more often and the more intensely the mind of thought is drawn to them: the starry heavens above me and the moral law within me."
 
 ]
 
 .bottomcap[Immanuel Kant, *Critique of Practical Reason*]
 
+
+---
+
+### *Kant's ethics of duty*
+
+.left-column[
+
+![:vspace 70]
+
+![:portrait Immanuel Kant, 1724-1804, 80%](img/09/kant.jpg)
+
+]
+
+.right-list[
+
+- For Kant morality is distinctive because it is unconditional, overriding, rational, and autonomous: it articulates an ideal to guide us in our social lives.
+
+]
+
+.right-list[
+
+- The key concept here is that of moral duty -- morality imposes .alert[unconditional obligations] on us.
+
+]
+
+.right-list[
+
+- Questions we'll need to answer are:
+
+]
+
+.wide-list[
+
+![:vspace 30]()
+
+.question[
+
+1. What are our moral obligations anyway?
+2. Why should we try to live up to their demands?
+3. How can we go about doing that?
+
+]
+]
+---
+
+### *The moral ideal*
+
+.caution[
+
+If this all seems lofty and abstract, it helps to keep in mind that the point of this whole discussion is to defend an ideal we all take for granted.
+
+]
+
 ![:vspace 20]()
 
-Setting aside all thoughts about the real world and real human beings, 
+- We all owe each other basic respect and should never treat each other as objects to be used for some end.
 
+- All adults are held responsible for their own decisions, since we are free to choose.
 
-1. What might a .alert[morally perfect world] look like?
-2. Why .alert[should we] try to live up to this ideal?
-3. How .alert[can we] go about doing that?
-4. What would the .alert[content] of morality be?
+- All of us are capable of seeing what the right thing to do is.
 
----
-
-### *Why should we strive for moral ideals?*
-
+- Nobody is inherently better than anyone else.
 
 
 ---
 
-### *How can we live up to moral ideals?*
+### *Why be moral?*
+
+
+
+---
+
+### *How?*
 
 
 

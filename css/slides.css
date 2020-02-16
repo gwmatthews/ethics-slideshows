@@ -235,8 +235,8 @@ ul > li {
   list-style-type: circle;
 }
 
-.spaced-list ol, .spaced-list ul{
-line-height: 200%;
+.spaced-list li, .spaced-list li{
+margin: 1em 0;
 }
 
 

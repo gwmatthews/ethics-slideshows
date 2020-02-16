@@ -266,7 +266,7 @@ Thus we create and follow such rules.
 
 --
 
-- So we setup rules to reign in our self-interest -- the Social Contract.
+- So we setup rules to limit what counts as socially acceptable behavior -- the Social Contract.
 
 --
 
@@ -293,7 +293,7 @@ layout: true
 
 .example[
 
-You and your partner have been caught robbing a convenience store. The police have evidence that you are also responible for a bank robbery but not enough to convict you. So they make each of you the following offer in seprate rooms:
+You and your partner have been caught robbing a convenience store. The police have evidence that you are also responsible for a bank robbery but not enough to convict you. So they make each of you the following offer in separate rooms:
 
 - If you both stay silent about the bank job you each get 1 year in jail.
 
@@ -371,7 +371,7 @@ Since you cannot tell ahead of time whether your partner will confess or not, yo
 
 --
 
-.red[**The fisherman's dilemma:**] If we are to have sustainable livlihood and not deplete the fish stocks we all have to limit our catch. But it sure is tempting to overfish now for the easy money while I still can and before the other fisherman hang me out to dry by themselves overfishing.
+.red[**The fisherman's dilemma:**] If we are to have sustainable livelihood and not deplete the fish stocks we all have to limit our catch. But it sure is tempting to over-fish now for the easy money while I still can and before the other fisherman hang me out to dry by themselves over-fishing.
 
 --
 
