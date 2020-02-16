@@ -375,6 +375,8 @@ Since you cannot tell ahead of time whether your partner will confess or not, yo
 
 --
 
+![:vspace 10]()
+
 - When you start to notice them, prisoner's dilemmas are all over the place, especially in their multi-person variants known as "free rider problems,"  like the last two above.
 
 ---
@@ -386,7 +388,7 @@ layout: false
 
 --
 
-- If we could *trust* our partner not to confess, and convince her to trust as too, we could avoid a long time in jail, avoid wasting money on nuclear weapons, and not destroy common resources.
+- If we could *trust* our partner not to confess, and convince her to trust us too, we could avoid a long time in jail, avoid wasting money on nuclear weapons, or not destroy common resources.
 
 --
 
@@ -394,7 +396,7 @@ layout: false
 
 --
 
-- But where do these come from and why are they so fragile?
+- .alert[But where do these come from and why are they so fragile?]
 
 ---
 layout: true
