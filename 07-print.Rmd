@@ -3,7 +3,7 @@ title: "Social Contract Theory: ethics by agreement"
 output:
   xaringan::moon_reader:
     seal: false
-    css: ["default", "css/raspberry-fonts.css", "css/print.css", "css/raspberry.css"]
+    css: ["default", "css/fonts.css", "css/print.css", "css/slides.css"]
     lib_dir: libs
     nature:
       sourceUrl: "07-src.Rmd"

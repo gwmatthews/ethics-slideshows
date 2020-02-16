@@ -478,7 +478,7 @@ layout: false
 
 .left-blurb[
 
-"If you do that again I am going to have to let you go."
+"If you keep showing up late, I am going to have to let you go, it's for the good of the company."
 
 ]
 ]
@@ -509,13 +509,15 @@ layout: false
 
 .left-blurb[
 
-"If you do that again I am going to have to let you go."
+"If you keep showing up late, I am going to have to let you go, it's for the good of the company."
 
 ]
 
+![:vspace 10]()
+
 .right-blurb[
 
-"But if you fire me, I'll start drinking heavily and will eventually set fire to the whole building in an out of control drunken rage."
+"But if you fire me, I'll start drinking heavily and will eventually set fire to the whole building in an out of control drunken rage, so in fact it's better for the company to keep me."
 
 ]
 ]
