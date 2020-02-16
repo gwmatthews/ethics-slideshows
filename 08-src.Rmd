@@ -344,6 +344,32 @@ Thus as long as rationality requires public defense, I have to accept that other
 
 ---
 layout: false
+class: spaced-list
+
+### *How to make a moral decision*
+
+--
+
+.topcap[A step by step guide]
+
+--
+
+.argument[
+
+1. Determine possible courses of action.
+2. Figure out which one leads to the best overall consequences for all people who are affected by them.
+3. Pick the one that does the most good at the least cost.
+
+]
+
+--
+
+![:vspace 20]()
+
+.red[Utilitarianism] as a moral philosophy is the claim that this is just what morality consists in: acting to get the best outcome for the most people by *maximizing overall utility.*
+
+---
+layout: false
 
 ### *If Utilitarianism is true...*
 
