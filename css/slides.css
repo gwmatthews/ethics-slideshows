@@ -235,8 +235,9 @@ ul > li {
   list-style-type: circle;
 }
 
-.spaced-list li, .spaced-list li{
+.spaced-list li {
 margin: 1em 0;
+padding-top: 1ex;
 }
 
 
@@ -331,6 +332,12 @@ img.credits h4 {
   padding: 0;
   margin: 0;
   float: left;
+}
+
+.center-column {
+  width: 54%;
+  padding: 0;
+  margin: 0 auto;
 }
 
 /* EVEN THREE COLUMN LAYOUT  */

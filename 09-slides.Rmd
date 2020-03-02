@@ -7,7 +7,7 @@ output:
     lib_dir: libs
     nature:
       sourceUrl: "09-src.Rmd"
-      countIncrementalSlides: false
+      countIncrementalSlides: true
       beforeInit: "js/macros.js" 
 
 ---

@@ -186,7 +186,7 @@ layout: true
 
 ---
 layout: false
-### *Rational Choice*
+### *Rational choice*
 
 .argument[
 
@@ -215,7 +215,7 @@ layout: false
 ---
 layout: true
 
-### *From Self-interest to Morality*
+### *From self-interest to morality*
 
 ---
 
