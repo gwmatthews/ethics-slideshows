@@ -135,8 +135,6 @@ If this all seems lofty and abstract, it helps to keep in mind that the point of
 
 
 ---
-class: spaced-list
-
 ### *Philosophical background*
 
 --
@@ -153,10 +151,12 @@ class: spaced-list
 
 .question[
 
+.spaced-list[
 1. What are the nature and limits of **theoretical reason**: .alert[What can I know?]
 2. What are the nature and limits of **practical reason**: .alert[What should I do?]
 3. How might reason be a guide for a meaningful life: .alert[What may I hope?]
 
+]
 ]
 
 ---
