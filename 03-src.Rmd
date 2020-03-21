@@ -821,7 +821,7 @@ class: center credits
 
 ![:jump Gino Crescoli](https://pixabay.com/users/AbsolutVision-6158753/), ![:jump Jonas KIM](https://pixabay.com/users/JonasKIM-7133458/), and ![:jump Andrew Martin](https://pixabay.com/users/aitoff-388338/) at Pixabay
 
-[download this presentation](./pdf/03-fallacies.pdf) or [print it](./pdf/03-fallacies-print.pdf)
+[download this presentation](./pdf/03-slides.pdf) or [print it](./pdf/03-handout.pdf)
 
 ![:jump editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.
 

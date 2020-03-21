@@ -748,6 +748,6 @@ class: center credits
 ![:jump Michael Gaida](https://pixabay.com/users/michaelgaida-652234/), ![:jump Johannes Plenio](https://pixabay.com/users/jplenio-7645255/)
 
 
-[download this presentation](./pdf/08-utilitarianism.pdf) or [print it](./pdf/08-utilitarianism-print.pdf)
+[download this presentation](./pdf/09-slides.pdf) or [print it](./pdf/09-handout.pdf)
 
 ![:jump editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.

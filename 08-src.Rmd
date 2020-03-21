@@ -912,6 +912,6 @@ class: center credits
 ![:jump Stux](https://pixabay.com/users/stux-12364/) and ![:jump fcb981](https://commons.wikimedia.org/wiki/File:Go_Board,_Hoge_Rielen,_BelgiumEdit_Fcb981.jpg)
 
 
-[download this presentation](./pdf/08-utilitarianism.pdf) or [print it](./pdf/08-utilitarianism-print.pdf)
+[download this presentation](./pdf/08-slides.pdf) or [print it](./pdf/08-handout.pdf)
 
 ![:jump editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.
