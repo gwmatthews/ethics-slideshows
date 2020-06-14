@@ -1,0 +1,13 @@
+---
+title: "Kant and the ethics of duty"
+output:
+  xaringan::moon_reader:
+    seal: false
+    css: ["default", "css/fonts.css", "css/raspberry.css", "css/slides.css"]
+    lib_dir: libs
+    nature:
+      sourceUrl: "09-phl210-src.Rmd"
+      countIncrementalSlides: true
+      beforeInit: "js/macros.js" 
+
+---
