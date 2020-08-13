@@ -6,7 +6,7 @@ class:  middle, center
 
 ![:scale 50%, #222;](img/07/police-2-gimp-workshop.jpg)
 
-George Matthews, Pennsylvania College of Technology
+George Matthews
 
 *2020*
 
@@ -493,8 +493,5 @@ class: center credits
 *Photos by:*
 
 ![:jump Gimp-workshop](https://pixabay.com/users/gimpworkshop-4622670/), ![:jump Mabel Amber](https://pixabay.com/users/mabelamber-1377835/) and ![:jump StockSnap](https://pixabay.com/users/stocksnap-894430/) at Pixabay
-
-
-[download this presentation](./pdf/07-phl210-slides.pdf) or [print it](./pdf/07-phl210-handout.pdf)
 
 ![:jump editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.

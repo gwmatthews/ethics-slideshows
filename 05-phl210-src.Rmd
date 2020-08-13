@@ -6,7 +6,7 @@ class:  middle, center
 
 ![:scale 50%, #222;](img/05/peter-h-1.jpg)
 
-George Matthews, Pennsylvania College of Technology
+George Matthews
 
 *2020*
 
@@ -692,8 +692,6 @@ class: center credits
 *Photos by:*
 
 ![:jump Peter H](https://pixabay.com/users/tama66-1032521/) and ![:jump Valter Cirillo](https://pixabay.com/users/valtercirillo-3274677/) at Pixabay
-
-[download this presentation](./pdf/05-phl210-slides.pdf) or [print it](./pdf/05-phl210-handout.pdf)
 
 ![:jump editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.
 

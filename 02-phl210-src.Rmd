@@ -6,7 +6,7 @@ class: middle center
 
 ![:scale 50%, #222;](img/02/lane-fractal-01.jpg)
 
-George Matthews, Pennsylvania College of Technology
+George Matthews
 
 *2020*
 
@@ -444,7 +444,5 @@ class: center credits
 *Images by:*
 
 ![:jump Barbara A Lane](https://pixabay.com/users/BarbaraALane-756613/), ![:jump Gerhard Gellinger](https://pixabay.com/users/Gellinger-201217), ![:jump Gerd Altmann](https://pixabay.com/users/geralt-9301/) and ![:jump Photorama](https://pixabay.com/users/Photorama-5047024/) at Pixabay
-
-[download this presentation](./pdf/02-phl210-slides.pdf) or [print it](./pdf/02-phl210-handout.pdf)
 
 ![:jump editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.

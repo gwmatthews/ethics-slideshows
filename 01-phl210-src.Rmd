@@ -6,7 +6,7 @@ class: middle center
 
 ![:scale 50%, #222](img/01/tracks-04.jpg)
 
-George Matthews, Pennsylvania College of Technology
+George Matthews
 
 *2020*
 
@@ -292,8 +292,6 @@ class: center credits
 *Photos by:*
 
 ![:jump James Matthews](https://www.barebones-photography.com/) 
-
-[download this presentation](./pdf/01-phl210-slides.pdf) or [print it](./pdf/01-phl210-handout.pdf)
 
 ![:jump editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.
 

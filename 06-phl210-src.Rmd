@@ -6,7 +6,7 @@ class:  middle, center
 
 ![:scale 50%, #222;](img/06/michaelgaida-grafitti-1.jpg)
 
-George Matthews, Pennsylvania College of Technology
+George Matthews
 
 *2020*
 
@@ -547,7 +547,5 @@ class: center credits
 *Photos by:*
 
 ![:jump Quentin Jouvray](https://pixabay.com/users/jinkyr-6852513/) and ![:jump Michael Gaida](https://pixabay.com/users/michaelgaida-652234/) at Pixabay
-
-[download this presentation](./pdf/06-phl210-slides.pdf) or [print it](./pdf/06-phl210-handout.pdf)
 
 ![:jump editorial suggestions and comments](https://github.com/gwmatthews/ethics-slideshows/issues): requires a (free) GitHub account.
