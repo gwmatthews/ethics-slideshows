@@ -139,16 +139,30 @@ layout: true
 
 .left-column[
 
-#### fallacies of relevance
+#### [fallacies of relevance](#22)
 
-#### .fade-out[fallacies of ambiguity]
+#### .fade-out[[fallacies of ambiguity](#41)]
 
-#### .fade-out[fallacies of presumption]
+#### .fade-out[[fallacies of presumption](#48)]
+#### .fade-out[[hot biases](#65)]
 
-#### .fade-out[hot biases]
+#### .fade-out[[cold biases](#72)]
 
-#### .fade-out[cold biases]
+]
 
+---
+
+### .center[*Fallacies of relevance*]
+
+.right-list[
+.caution[
+
+- Jump to conclusions based on inadequate evidence.
+
+- Appeal to irrelevant details.
+
+- Rely on our tendency to see lots of connections even when they are not as strong as they seem.
+]
 ]
 
 ---
@@ -351,17 +365,32 @@ Analogies can help us illuminate obscure or abstract concepts, but they can also
 layout: false
 layout: true
 
-.left-column[
+.left-column[ 
 
-#### .fade-out[fallacies of relevance]
+#### .fade-out[[fallacies of relevance](#22)]
 
-#### fallacies of ambiguity
+#### [fallacies of ambiguity](#41)
 
-#### .fade-out[fallacies of presumption]
+#### .fade-out[[fallacies of presumption](#48)]
 
-#### .fade-out[hot biases]
+#### .fade-out[[hot biases](#65)]
 
-#### .fade-out[cold biases]
+#### .fade-out[[cold biases](#72)]
+]
+
+---
+
+### .center[*Fallacies of ambiguity*]
+
+.right-list[
+.caution[
+
+- Rely on shifting and playing around with the meanings of words.
+
+- Some terms are vague, and some have multiple and conflicting meanings.
+
+- Rely on our tendency to see lots of connections even when they are not as strong as they seem.
+]
 ]
 
 ---
@@ -443,15 +472,30 @@ layout: true
 
 .left-column[
 
-#### .fade-out[fallacies of relevance]
+#### .fade-out[[fallacies of relevance](#22)]
 
-#### .fade-out[fallacies of ambiguity]
+#### .fade-out[[fallacies of ambiguity](#41)]
 
-#### fallacies of presumption
+#### [fallacies of presumption](#48)
 
-#### .fade-out[hot biases]
+#### .fade-out[[hot biases](#65)]
 
-#### .fade-out[cold biases]
+#### .fade-out[[cold biases](#72)]
+]
+
+---
+
+### .center[*Fallacies of presumption*]
+
+.right-list[
+.caution[
+
+- Rest on implied but unacknowledged assumptions.
+
+- Stretch the evidence too far.
+
+- Depend on our willingness to fill in the blanks and rely on mental shortcuts.
+]
 ]
 
 ---
@@ -637,15 +681,30 @@ layout: true
 
 .left-column[
 
-#### .fade-out[fallacies of relevance]
+#### .fade-out[[fallacies of relevance](#22)]
 
-#### .fade-out[fallacies of ambiguity]
+#### .fade-out[[fallacies of ambiguity](#41)]
 
-#### .fade-out[fallacies of presumption]
+#### .fade-out[[fallacies of presumption](#48)]
 
-#### hot biases
+#### [hot biases](#65)
 
-#### .fade-out[cold biases]
+#### .fade-out[[cold biases](#72)]
+]
+
+---
+
+### .center[*Hot biases*]
+
+.right-list[
+.caution[
+
+- Also known as "motivated irrationality."
+
+- Result from the fact that our emotional and personal lives influence what we want to accept.
+
+- What we want can influence what we are willing and able to see.
+]
 ]
 
 ---
@@ -717,16 +776,32 @@ layout: true
 
 .left-column[
 
-#### .fade-out[fallacies of relevance]
+#### .fade-out[[fallacies of relevance](#22)]
 
-#### .fade-out[fallacies of ambiguity]
+#### .fade-out[[fallacies of ambiguity](#41)]
 
-#### .fade-out[fallacies of presumption]
+#### .fade-out[[fallacies of presumption](#48)]
 
-#### .fade-out[hot biases]
+#### .fade-out[[hot biases](#65)]
 
-#### cold biases
+#### [cold biases](#72)
 ]
+
+---
+
+### .center[*Cold biases*]
+
+.right-list[
+.caution[
+
+- Also known as "unmotivated irrationality."
+
+- Result from "bugs" in our mental operating systems.
+
+- The mental shortcuts that we rely on don't always work so well in certain contexts.
+]
+]
+
 
 ---
 

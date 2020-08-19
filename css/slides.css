@@ -48,7 +48,7 @@ text-shadow: 2px 2px 5px var(--shadow-color);
   color: var(--fade-in-color);
 }
 
-.fade-out{
+.fade-out a{
   color: var(--fade-out-color);
 }
 
