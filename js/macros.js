@@ -24,3 +24,14 @@ remark.macros.colorbox = function (x, y, boxWidth, boxType) {
   return '<div class="' + boxType + '" style="position: absolute; left:' + x + '; top:' + y + '; width: ' + boxWidth +  ';"><p class="inner">'  + content + '</p></div>';
 
 };
+
+remark.macros.video = function () {
+  let source = this;
+  return `
+  <div class="video">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/${source}" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="YouTube Video"></iframe>
+</div>
+  `;
+};
+
+

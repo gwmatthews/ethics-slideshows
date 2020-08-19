@@ -263,13 +263,21 @@ Finally we see how all of this plays out in the real world. Here we will examine
 ---
 layout: false
 
+### *Socrates on Self-confidence*
+
+![:video](_gVyEOefhIQ)
+
+---
+### *What is the right thing to do?*
+
+![:video](kBdfcR-8hEY?start=0&amp;end=1453)
+
+From Michael Sandel's course at Harvard, "Justice."
+
+---
 ### *Find out more*
 
-
-
 ![:jump The Trolley Problem](https://www.theguardian.com/science/head-quarters/2016/dec/12/the-trolley-problem-would-you-kill-one-person-to-save-many-others): an account of some recent rearch on the problem.
-
-![:jump Socrates on self-confidence](https://youtu.be/_gVyEOefhIQ) and questioning others about their values. A great video outlining the motivation for doing philosophy in the first place.
 
 ![:jump It's impossible to lead a totally ethical life](https://qz.com/1327804/its-impossible-to-lead-a-totally-ethical-life-but-its-fun-to-try/): Ephrat Livni reflects on ethics and everyday life.
 

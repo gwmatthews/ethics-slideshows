@@ -413,6 +413,19 @@ class: medium-text
 - **Counterexample**: a possible case in which the premises of an argument are true and the conclusion is false -- used to show that an argument is invalid.
 
 ---
+### *How To Argue*
+
+
+![:video](NKEhdsnKKHs)
+
+Another excellent video from Hank Green at ![:jump The Crash Course](https://www.youtube.com/channel/UCX6b17PVsYBQ0ip5gyeme-Q).
+
+---
+### Induction and Abduction
+
+![:video ](-wrCpLJ1XAw)
+
+Next in the series Crash Course Philosophy.
 
 ### *Find out more*
 
