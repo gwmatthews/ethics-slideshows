@@ -143,10 +143,10 @@ layout: true
 
 #### .fade-out[[fallacies of ambiguity](#41)]
 
-#### .fade-out[[fallacies of presumption](#48)]
-#### .fade-out[[hot biases](#65)]
+#### .fade-out[[fallacies of presumption](#50)]
+#### .fade-out[[hot biases](#67)]
 
-#### .fade-out[[cold biases](#72)]
+#### .fade-out[[cold biases](#74)]
 
 ]
 
@@ -371,11 +371,11 @@ layout: true
 
 #### [fallacies of ambiguity](#41)
 
-#### .fade-out[[fallacies of presumption](#48)]
+#### .fade-out[[fallacies of presumption](#50)]
 
-#### .fade-out[[hot biases](#65)]
+#### .fade-out[[hot biases](#67)]
 
-#### .fade-out[[cold biases](#72)]
+#### .fade-out[[cold biases](#74)]
 ]
 
 ---
@@ -466,6 +466,27 @@ There is likely to be "evidence" for just about anything that we want if we look
 
 ]
 
+
+---
+
+### .center[*Fallacy of misplaced concreteness*]
+
+.right-list[
+.example[
+
+The government is trying to control us.
+
+]
+]
+
+--
+
+.right-list[
+
+People often talk about such abstract entities as "the government," "the media," or "society" as if they were concrete things that *could* attempt to control us or do other nefarious things. In reality governments, the media and society are collection of particular individuals who *might* coordinate their efforts, but then who may also have ideas different than other members of the institutions they are a part of. Reality is much messier than simple abstract nouns like these suggest.
+
+]
+
 ---
 layout: false
 layout: true
@@ -476,11 +497,11 @@ layout: true
 
 #### .fade-out[[fallacies of ambiguity](#41)]
 
-#### [fallacies of presumption](#48)
+#### [fallacies of presumption](#50)
 
-#### .fade-out[[hot biases](#65)]
+#### .fade-out[[hot biases](#67)]
 
-#### .fade-out[[cold biases](#72)]
+#### .fade-out[[cold biases](#74)]
 ]
 
 ---
@@ -685,11 +706,11 @@ layout: true
 
 #### .fade-out[[fallacies of ambiguity](#41)]
 
-#### .fade-out[[fallacies of presumption](#48)]
+#### .fade-out[[fallacies of presumption](#50)]
 
-#### [hot biases](#65)
+#### [hot biases](#67)
 
-#### .fade-out[[cold biases](#72)]
+#### .fade-out[[cold biases](#74)]
 ]
 
 ---
@@ -780,11 +801,11 @@ layout: true
 
 #### .fade-out[[fallacies of ambiguity](#41)]
 
-#### .fade-out[[fallacies of presumption](#48)]
+#### .fade-out[[fallacies of presumption](#50)]
 
-#### .fade-out[[hot biases](#65)]
+#### .fade-out[[hot biases](#67)]
 
-#### [cold biases](#72)
+#### [cold biases](#74)
 ]
 
 ---
