@@ -288,7 +288,7 @@ Once again we start with an *assumption* -- let's suppose that the premises are 
 
 --
 
-- Clearly not, just ask him. Sound it is INVALID and thus alos UNSOUND.
+- Clearly not, just ask him. Since it is INVALID it is also UNSOUND, do you see why?
 
 --
 
@@ -308,7 +308,7 @@ Thus all cats are made of wood.
 
 --
 
-If the premises *were* true would the conclusion *have to be true* as well?
+If the premises *were* true, would the conclusion *have to be true* as well?
 
 --
 
@@ -373,7 +373,7 @@ Thus Betty is younger than Wilma.
 
 To show that an argument is INVALID we have to show that the conclusion *might* be false even if the premises were true. 
 
-Its easier then it seems -- in this case we just find some ages that make the premises TRUE and the conclusion FALSE.
+It's easier then it seems -- in this case we just find some ages that make the premises TRUE and the conclusion FALSE.
 
 ]
 

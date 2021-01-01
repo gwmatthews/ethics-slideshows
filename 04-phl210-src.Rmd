@@ -311,7 +311,7 @@ Thus in the interests of tolerance we should accept that relativism is true.
 
 ![:vspace 30]()
 
-- The premise is true, but does this imply that that there are *no* deeper values that *all* cultures share and implement in different ways?
+- The premise may be true, but does this imply that that there are *no* deeper values that *all* cultures share and implement in different ways?
 
 --
 
@@ -446,7 +446,7 @@ Don't we all have the ability to independently reevaluate our cultural programmi
 
 .example[
 
-Yes tolerance of other peoples' approach to life is typically a good thing.
+Yes, tolerance of other peoples' approach to life is typically a good thing.
 
 But wouldn't a relativist also have to accept that intolerance is just as "good" as tolerance?
 
@@ -515,7 +515,7 @@ All human cultures seem to share values like:
 
 *Open questions:*
 
-- How deep to core values go?
+- How deep do core values go?
 
 - On what basis can we reevaluate the values we are born into?
 

@@ -483,7 +483,7 @@ The government is trying to control us.
 
 .right-list[
 
-People often talk about such abstract entities as "the government," "the media," or "society" as if they were concrete things that *could* attempt to control us or do other nefarious things. In reality governments, the media and society are collection of particular individuals who *might* coordinate their efforts, but then who may also have ideas different than other members of the institutions they are a part of. Reality is much messier than simple abstract nouns like these suggest.
+People often talk about such abstract entities as "the government," "the media," or "society" as if they were concrete things that *could* attempt to control us or do other nefarious things. In reality governments, the media and society are collections of particular individuals. They *might* coordinate their efforts, but then most groups are made of individuals with different ideas and interests -- good old "office politics." Reality is much messier than simple abstract nouns like these suggest.
 
 ]
 
@@ -555,7 +555,7 @@ I know that ghosts exist because I have seen them with my own eyes.
 
 .right-list[
 
-While many people trust eyewitness testimony, the question here is how someone might *know* that what they saw was really a ghost. This would require accepting the assumption that ghosts do exist, but isn't that what the argument is claiming to prove?
+While many people trust eyewitness testimony, the question here is how someone might *know* that what they saw really was a ghost. This would require accepting the assumption that ghosts do exist, but isn't that what the argument is claiming to prove?
 
 ]
 
@@ -579,7 +579,7 @@ That's why I think that they did.
 
 .right-list[
 
-Conspiracy theories often rely on appeals to ignorance like this. They shift the "burden of proof" to someone opposing their viewpoint as opposed to providing sufficient evidence to prove their claims to be correct.
+Conspiracy theories often rely on appeals to ignorance like this. They shift the "burden of proof" to someone opposing their viewpoint without providing sufficient evidence to prove their claims to be correct.
 
 ]
 
@@ -669,7 +669,7 @@ SO negative reinforcement works, and positive reinforcement doesn't.
 
 .right-list[
 
-Isn't a better explanation here that after playing either better or worse than average, the team returns to their average? 
+Isn't a better explanation here that after playing either better or worse than average, the team typically returns to their *average* performace? 
 
 ]
 ---
@@ -785,7 +785,7 @@ We really can have endless economic growth and protect the enivornment at the sa
 
 .right-list[
 
-The old saying that if it sounds too good to be true, it probably is applies here. 
+The old saying, "If it sounds too good to be true, it probably is" applies here. 
 
 ]
 

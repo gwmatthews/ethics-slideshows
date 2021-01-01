@@ -481,7 +481,7 @@ So one should never do anything for others.
 
 --
 
-- Rand assumes that the pursuit of happiness is a *zero sum game*--my gain requires your loss and vice-versa.
+- Rand simply assumes that the pursuit of happiness is a *zero sum game* --  gain requires your loss and vice-versa.
 
 --
 
