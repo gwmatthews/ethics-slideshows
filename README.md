@@ -10,9 +10,9 @@ This is a collection of slideshows for use in online courses I teach. They were 
 
 [3. Fallacies and Biases](https://gwmatthews.github.io/ethics-slideshows/03-phl210-slides.html)
 
-[4. Moral Relativism](https://gwmatthews.github.io/ethics-slideshows/04-slides.html)
+[4. Moral Relativism](https://gwmatthews.github.io/ethics-slideshows/04-phl210-slides.html)
 
-[5. Ethics and Religion](https://gwmatthews.github.io/ethics-slideshows/05-slides.html)
+[5. Ethics and Religion](https://gwmatthews.github.io/ethics-slideshows/05-phl210-slides.html)
 
 [6. Egoism](https://gwmatthews.github.io/ethics-slideshows/06-phl210-slides.html)
 
